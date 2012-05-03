@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336076423
+ModificationTime: 1336088498
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 2 0 0 "oT/auT Decomposition"  {"oT/auT Decomposition-1"  } [' RQD' ('deva' <'dflt' > ) 'psts' ('deva' <'dflt' > ) ]
 Lookup: 4 0 0 "Akhand ligatures"  {"Akhand ligatures-1"  } ['akhn' ('deva' <'dflt' > ) ]
 Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -309,10 +310,15 @@ EndChar
 
 StartChar: Ga
 Encoding: 15 2329 15
-Width: 1000
+Width: 810
 VWidth: 0
 Flags: W
+AnchorPoint: "eT" 468 600 basechar 0
+AnchorPoint: "anusvara" 500 800 basechar 0
 LayerCount: 2
+Fore
+Refer: 59 2306 N 1 0 0 1 762 -381 2
+Refer: 23 2337 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ca
@@ -432,7 +438,7 @@ AnchorPoint: "eT" 510 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-510.662 600 m 21
+510.662 600 m 17
  470.663 548.996 456.906 514.081 456.615 453 c 24
  456.071 338.865 551.945 270.576 508.589 164.996 c 24
  465.686 60.5186 394.59 0 270.59 0 c 0
@@ -442,10 +448,15 @@ EndChar
 
 StartChar: Tha
 Encoding: 22 2336 22
-Width: 1000
+Width: 639
 VWidth: 0
 Flags: W
+AnchorPoint: "eT" 510 600 basechar 0
+AnchorPoint: "anusvara" 540 800 basechar 0
 LayerCount: 2
+Fore
+Refer: 59 2306 N 1 0 0 1 426 -612 2
+Refer: 21 2335 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Da
@@ -458,7 +469,7 @@ AnchorPoint: "eT" 468 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-468 600 m 21
+468 600 m 17
  366 570 293 470 309 390 c 0
  317.385 348.075 367.029 300.499 439 324 c 0
  537 356 573 314 573 198 c 0
@@ -489,20 +500,22 @@ EndChar
 
 StartChar: Na
 Encoding: 25 2339 25
-Width: 696
+Width: 707
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" 540 800 basechar 0
-AnchorPoint: "eT" 525 600 basechar 0
+AnchorPoint: "anusvara" 551.148 800 basechar 0
+AnchorPoint: "eT" 536.148 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-524.782 600 m 21
- 506.782 440.825 481.782 0 556.782 0 c 0
- 594.782 0 606.782 34.8252 616.782 72.8252 c 9
-121.564 600 m 17
- 117.564 474.825 111.564 260.856 239.564 262.825 c 0
- 369.564 264.825 359.564 458.825 355.564 600 c 9
+535.931 600 m 17
+ 517.931 440.825 492.931 0 567.931 0 c 0
+ 605.931 0 617.931 34.8252 627.931 72.8252 c 9
+132.712 600 m 17
+ 159.657 476 31.6572 190 253.539 190 c 0
+ 308.755 190 387.154 278.08 391.539 338 c 0
+ 397.539 420 293.31 428.167 293.539 408 c 0
+ 295.539 232 383.539 482 380.713 600 c 9
 EndSplineSet
 EndChar
 
@@ -538,13 +551,13 @@ SplineSet
 336.212 370.218 m 17
  213.001 332.435 120 377.435 120 449.436 c 0
  120 507.03 177.001 600 246.212 600 c 0
- 351.001 600 184.914 312.72 222.212 135 c 24
- 236.572 66.5742 294.001 28.2178 366.212 28.2178 c 0
- 434.71 28.2178 492.213 121.217 462.212 223.218 c 1
+ 351.001 600 182.943 354.181 217.606 202.782 c 24
+ 233.211 134.63 289.395 96 361.606 96 c 0
+ 430.104 96 475.606 132 462.212 223.218 c 1
  486.213 136.217 510.212 0 612.424 0 c 0
  705.212 0 741.212 85.0469 741.212 190.218 c 0
- 741.212 289.217 650.336 355.087 627.424 471 c 24
- 617.357 521.924 633.213 559.218 660.212 600 c 13
+ 741.212 289.217 650.336 355.088 627.424 471 c 24
+ 617.358 521.924 633.213 559.218 660.212 600 c 9
 EndSplineSet
 EndChar
 
@@ -606,128 +619,318 @@ SplineSet
  297.786 600 335.189 388 369.189 234 c 0
  386.915 153.714 365.188 0 277.189 0 c 0
  237.188 0 199.816 40.3291 209.189 108.437 c 0
- 239.188 326.437 373.188 536.437 465.188 600 c 13
+ 239.188 326.437 373.188 536.437 465.188 600 c 9
 EndSplineSet
 EndChar
 
 StartChar: pa
 Encoding: 31 2346 31
-Width: 1000
+Width: 738
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 580 800 basechar 0
+AnchorPoint: "eT" 554 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+156 600 m 17
+ 170 580.936 176.737 558.968 176 530.936 c 0
+ 174 454.936 120 420.937 120 302.936 c 0
+ 120 229.599 166.377 166.936 238 166.936 c 0
+ 307.463 166.936 385.259 219.456 339.463 258.936 c 0
+ 281.463 308.936 276 0 484 0 c 0
+ 778 0 489.463 392.936 554 600 c 9
+EndSplineSet
 EndChar
 
 StartChar: pha
 Encoding: 32 2347 32
-Width: 1000
+Width: 879
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 760 800 basechar 0
+AnchorPoint: "eT" 759 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+129.724 600 m 17
+ 101.724 508.936 129.988 256.35 269.977 252.936 c 0
+ 433.977 248.936 429.977 600 411.977 600 c 0
+ 375.977 600 442.977 0 399.977 0 c 0
+ 372.977 0 375.977 183 474.724 183 c 0
+ 799.729 183 733.724 0 711.724 0 c 0
+ 659.724 0 660.173 495 759.173 600 c 13
+EndSplineSet
 EndChar
 
 StartChar: ba
 Encoding: 33 2348 33
-Width: 1000
+Width: 756
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 580 800 basechar 0
+AnchorPoint: "eT" 577 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+636.847 93 m 17
+ 561.847 24 525.847 0 375.847 0 c 0
+ 313.847 0 172.84 15.9473 157.117 139.983 c 0
+ 139.117 281.983 181.118 333.982 321.117 389.983 c 1
+ 199.117 331.983 139.117 377.983 122.588 447 c 0
+ 106.521 514.087 167.118 565.983 253.117 600 c 9
+577.5 600 m 17
+ 532.5 585 533 537 527 396 c 0
+ 521.731 272.201 516.019 166.335 509 19.5 c 25
+EndSplineSet
 EndChar
 
 StartChar: bha
 Encoding: 34 2349 34
-Width: 1000
+Width: 750
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 600 800 basechar 0
+AnchorPoint: "eT" 589 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+390.263 528 m 17
+ 336.263 488 242.629 416.018 150.263 450 c 24
+ 93.0166 471.062 122.126 600 194.562 600 c 0
+ 289.837 600 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 4
+ 534.562 600 553.837 0 604.837 0 c 0
+ 644.562 0 662.562 32 670.562 56 c 9
+EndSplineSet
 EndChar
 
 StartChar: ma
 Encoding: 35 2350 35
-Width: 1000
+Width: 752
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 600 800 basechar 0
+AnchorPoint: "eT" 589 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+142.585 600 m 17
+ 195.657 510.141 256.585 0 172.585 0 c 0
+ 38.9277 0 169.585 186.141 456.657 186.141 c 0
+ 672.657 186.141 660.657 0 574.585 0 c 0
+ 438.657 0 535.585 525.141 588.657 600 c 13
+EndSplineSet
 EndChar
 
 StartChar: ya
 Encoding: 36 2351 36
-Width: 1000
+Width: 703
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 600 800 basechar 0
+AnchorPoint: "eT" 583 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+139.422 424.897 m 17
+ 193.421 338.897 338.445 350.13 361.422 426 c 0
+ 390.16 520.897 358.68 600 279.422 600 c 0
+ 141.421 600 107.609 367.269 123.683 201 c 24
+ 134.692 87.1035 221.421 0 337.422 0 c 0
+ 621.421 0 567.421 222.898 553.421 340.897 c 0
+ 541.158 444.26 553.42 570.897 583.421 600 c 13
+EndSplineSet
 EndChar
 
 StartChar: ra
 Encoding: 37 2352 37
-Width: 1000
+Width: 689
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+AnchorPoint: "eT" 507 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+507 600 m 29
+ 525.72 420.99 600.813 278.941 555 141 c 0
+ 520.465 37.0166 444.813 0 312 0 c 0
+ 210.945 0 164.813 100.941 120 174 c 0
+EndSplineSet
 EndChar
 
 StartChar: la
 Encoding: 38 2354 38
-Width: 1000
+Width: 685
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 560 800 basechar 0
+AnchorPoint: "eT" 537 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+163.3 600 m 17
+ 124.798 557.812 102.212 486.27 137.802 429 c 24
+ 224.36 289.715 372.102 289.804 446.798 143.812 c 24
+ 476.888 85.002 450.798 0 357.3 0 c 0
+ 270.428 0 247.04 80.2686 272.798 137.812 c 24
+ 336.588 280.321 471.357 292.236 548.798 427.812 c 24
+ 582.186 486.265 556.798 545.812 536.798 600 c 13
+EndSplineSet
 EndChar
 
 StartChar: va
 Encoding: 39 2357 39
-Width: 1000
+Width: 746
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 560 800 basechar 0
+AnchorPoint: "eT" 567 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+174.936 600 m 17
+ 135.936 457.5 107.533 237 125.533 156 c 0
+ 149.75 47.0234 232.327 0 365.533 0 c 0
+ 515.533 0 551.533 24 626.533 93 c 9
+567.186 600 m 21
+ 522.186 585 522.686 537 516.686 396 c 0
+ 511.418 272.201 505.705 166.335 498.686 19.5 c 25
+EndSplineSet
 EndChar
 
 StartChar: za
 Encoding: 40 2358 40
-Width: 1000
+Width: 797
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 640 800 basechar 0
+AnchorPoint: "eT" 625 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+625.216 600 m 17
+ 607.216 440.825 582.216 0 657.216 0 c 0
+ 695.216 0 707.216 34.8252 717.216 72.8252 c 9
+194.423 600 m 17
+ 304.423 564 304.423 380 199.216 328 c 0
+ 154.964 306.128 91.2158 380 133.216 436 c 0
+ 192.368 514.869 389.086 504.467 384.216 406 c 0
+ 374.423 208 193.426 251.496 175.216 112 c 24
+ 165.521 37.7334 235.216 0 331.216 0 c 0
+ 423.601 0 457.216 88 498.216 168 c 9
+EndSplineSet
 EndChar
 
 StartChar: Sa
 Encoding: 41 2359 41
-Width: 1000
+Width: 575
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+AnchorPoint: "eT" 444 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+159.091 558 m 25
+ 407.437 346.713 l 25
+444.091 600 m 25
+ 445.396 366 399.438 0 447.437 0 c 0
+ 479.438 0 483.438 30.7129 495.437 62.7129 c 9
+126.091 600 m 25
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 24
+ 171.679 267.316 217.914 210.827 293.437 216 c 24
+ 370.669 221.29 409.438 300.713 433.437 356.713 c 9
+EndSplineSet
 EndChar
 
 StartChar: sa
 Encoding: 42 2360 42
-Width: 1000
+Width: 817
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+AnchorPoint: "eT" 491 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+151.704 600 m 17
+ 220.704 440.356 94.7041 341.356 124.704 182.356 c 0
+ 143.08 84.9629 160.704 0 301.704 0 c 0
+ 473.69 0 532.704 104.356 586.704 366 c 0
+ 606.643 462.605 586.704 600 490.704 600 c 4
+ 412.704 600 372.779 476.487 409.704 431.356 c 0
+ 463.704 365.356 481.704 377.356 697.704 438 c 9
+EndSplineSet
 EndChar
 
 StartChar: ha
 Encoding: 43 2361 43
-Width: 1000
+Width: 644
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 448.38 800 basechar 0
+AnchorPoint: "eT" 428.38 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+212.212 600 m 0
+ 163.487 550 127.118 498.255 146.808 430 c 24
+ 161.887 377.728 204.251 355.999 276.251 378 c 1
+ 180.251 351.999 100.426 258.189 124.251 156 c 24
+ 149.608 47.2393 226.251 0 364.38 0 c 0
+ 484.901 0 513.249 68.5312 522.38 154.129 c 24
+ 541.229 330.839 400.38 390.129 428.38 600 c 9
+EndSplineSet
 EndChar
 
 StartChar: La
 Encoding: 44 2355 44
-Width: 1000
+Width: 808
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 460 800 basechar 0
+AnchorPoint: "eT" 446 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+363.383 323.999 m 17
+ 330.384 377.999 323.385 398.999 268.737 398.999 c 0
+ 58.5811 398.999 106.581 0 197.176 0 c 0
+ 516.845 0 288.384 399 612.383 399 c 0
+ 721.581 399 730.581 0 520.737 0 c 0
+ 361.738 0 409.43 170.997 406.581 282 c 0
+ 403.425 405 421.581 507 445.581 600 c 13
+EndSplineSet
 EndChar
 
 StartChar: kSa
 Encoding: 45 -1 45
-Width: 1000
+Width: 779
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 640 800 basechar 0
+AnchorPoint: "eT" 620 600 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+391.926 491.363 m 17
+ 595.926 170.363 645.852 600 621.852 600 c 4
+ 579.852 600 585.852 0 648.852 0 c 0
+ 673.197 0 687.852 0 699.852 36 c 9
+286.926 431.363 m 17
+ 145.926 533.363 187.926 689.363 280.926 695.363 c 0
+ 412.788 703.871 442.926 560.363 391.926 491.363 c 0
+ 314.24 386.26 186.852 456 126.852 264 c 0
+ 99.1406 175.326 158.551 77.1758 249.852 60 c 24
+ 338.925 43.2441 388.282 126.46 429.852 207 c 24
+ 446.417 239.096 344.515 282.094 345.852 246 c 0
+ 348.852 165 390.852 84 504.852 0 c 9
+EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "Akhand ligatures-1" ka virAma Sa
 EndChar
 
@@ -833,6 +1036,7 @@ Width: 1000
 VWidth: 0
 Flags: W
 LayerCount: 2
+MultipleSubs2: "oT/auT Decomposition-1" AT eT
 EndChar
 
 StartChar: auT
@@ -841,6 +1045,7 @@ Width: 1000
 VWidth: 0
 Flags: W
 LayerCount: 2
+MultipleSubs2: "oT/auT Decomposition-1" AT aiT
 EndChar
 
 StartChar: virAma
@@ -853,10 +1058,16 @@ EndChar
 
 StartChar: anusvAra
 Encoding: 59 2306 59
-Width: 1000
+Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -100 800 mark 0
 LayerCount: 2
+Fore
+SplineSet
+-72 824 m 25
+ -135 773 l 25
+EndSplineSet
 EndChar
 
 StartChar: visarga
