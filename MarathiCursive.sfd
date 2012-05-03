@@ -1,0 +1,641 @@
+SplineFontDB: 3.0
+FontName: MarathiCursive
+FullName: MarathiCursive
+FamilyName: MarathiCursive
+Weight: Medium
+Copyright: Created by MihailJP with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2012-5-4: Created." 
+Version: 001.000
+StrokeWidth: 60
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA"  1
+Layer: 1 0 "+Uk2XYgAA"  0
+StrokedFont: 1
+XUID: [1021 494 2031268696 4926356]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1336059319
+ModificationTime: 1336062880
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 4 0 0 "Akhand ligatures"  {"Akhand ligatures-1"  } ['akhn' ('deva' <'dflt' > ) ]
+Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL without afii
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 16 4
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 600 m 0
+ 2000 600 l 0
+  Named: "topline" 
+EndSplineSet
+AnchorClass2: "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
+BeginChars: 61 61
+
+StartChar: akAra
+Encoding: 0 2309 0
+Width: 899
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 740 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+410 147 m 25
+ 488.39 89.6699 422 0 611 0 c 0
+ 713 0 767 120 710 420 c 0
+ 687.903 536.296 734 585 779 600 c 9
+209 600 m 17
+ 233 648 266.354 690 323 690 c 24
+ 383.389 690 443.863 660.17 449 600 c 24
+ 455.238 526.928 431 468 344 444 c 1
+ 446 459 516.256 422.998 527 342 c 24
+ 539.309 249.213 475.6 136.349 383 150 c 24
+ 242.464 170.718 170 219 120 402 c 9
+EndSplineSet
+EndChar
+
+StartChar: AkAra
+Encoding: 1 2310 1
+Width: 843
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 660 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+324.195 522 m 17
+ 294.195 486 231.208 465.701 189.195 483 c 0
+ 138.195 504 117.746 548.565 120.195 600 c 0
+ 123.195 663 162.195 705 222.195 705 c 0
+ 290.357 705 333.195 638.162 333.195 570 c 24
+ 333.195 402.837 204.195 237 222.195 156 c 0
+ 246.412 47.0234 328.989 0 462.195 0 c 0
+ 612.195 0 648.195 24 723.195 93 c 9
+663.848 600 m 17
+ 618.848 585 619.348 537 613.348 396 c 0
+ 608.08 272.201 602.367 166.335 595.348 19.5 c 25
+EndSplineSet
+EndChar
+
+StartChar: it
+Encoding: 2 2311 2
+Width: 772
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 700 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+232.334 600 m 17
+ 154.334 588 105.889 538.372 127.334 480 c 0
+ 164.167 379.743 265.334 360 340.334 384 c 1
+ 241.334 363 140.167 310.743 164.167 160.743 c 0
+ 181.658 51.4216 243.75 0 361.334 0 c 0
+ 487.334 0 562.334 57 562.334 282 c 0
+ 562.334 429.3 428.935 562.287 517.334 657 c 0
+ 559.334 702 640.334 639 652.334 600 c 9
+EndSplineSet
+EndChar
+
+StartChar: It
+Encoding: 3 2312 3
+Width: 772
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 700 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 2 2311 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ut
+Encoding: 4 2313 4
+Width: 924
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 800 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+288 309 m 17
+ 372 360 474 284.308 474 186 c 0
+ 474 75 398.926 0 321 0 c 0
+ 192 0 120 130.647 120 294 c 0
+ 120 525 273 675 465 681 c 0
+ 651.057 686.814 798 513 804 345 c 0
+ 809.253 197.906 765 84 651 0 c 9
+EndSplineSet
+EndChar
+
+StartChar: Ut
+Encoding: 5 2314 5
+Width: 924
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 800 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 4 2313 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rt
+Encoding: 6 2315 6
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: et
+Encoding: 7 2319 7
+Width: 899
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 740 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 54 2375 N 1 0 0 1 904 0 2
+Refer: 0 2309 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ait
+Encoding: 8 2320 8
+Width: 899
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 740 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 2376 N 1 0 0 1 904 0 2
+Refer: 0 2309 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ot
+Encoding: 9 2323 9
+Width: 843
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 660 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 54 2375 S 1 0 0 1 778 0 2
+Refer: 1 2310 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: aut
+Encoding: 10 2324 10
+Width: 843
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 660 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 2376 S 1 0 0 1 778 0 2
+Refer: 1 2310 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ka
+Encoding: 11 2325 11
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: kha
+Encoding: 12 2326 12
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ga
+Encoding: 13 2327 13
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: gha
+Encoding: 14 2328 14
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Ga
+Encoding: 15 2329 15
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ca
+Encoding: 16 2330 16
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: cha
+Encoding: 17 2331 17
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ja
+Encoding: 18 2332 18
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: jha
+Encoding: 19 2333 19
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Ja
+Encoding: 20 2334 20
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Ta
+Encoding: 21 2335 21
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Tha
+Encoding: 22 2336 22
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Da
+Encoding: 23 2337 23
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Dha
+Encoding: 24 2338 24
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Na
+Encoding: 25 2339 25
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ta
+Encoding: 26 2340 26
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: tha
+Encoding: 27 2341 27
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: da
+Encoding: 28 2342 28
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: dha
+Encoding: 29 2343 29
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: na
+Encoding: 30 2344 30
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: pa
+Encoding: 31 2346 31
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: pha
+Encoding: 32 2347 32
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ba
+Encoding: 33 2348 33
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: bha
+Encoding: 34 2349 34
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ma
+Encoding: 35 2350 35
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ya
+Encoding: 36 2351 36
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ra
+Encoding: 37 2352 37
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: la
+Encoding: 38 2354 38
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: va
+Encoding: 39 2357 39
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: za
+Encoding: 40 2358 40
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Sa
+Encoding: 41 2359 41
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: sa
+Encoding: 42 2360 42
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ha
+Encoding: 43 2361 43
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: La
+Encoding: 44 2355 44
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: kSa
+Encoding: 45 -1 45
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Ligature2: "Akhand ligatures-1" ka virAma Sa
+EndChar
+
+StartChar: jJa
+Encoding: 46 -1 46
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Ligature2: "Akhand ligatures-1" ja virAma Ja
+EndChar
+
+StartChar: AT
+Encoding: 47 2366 47
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: iT
+Encoding: 48 2367 48
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: IT
+Encoding: 49 2368 49
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uT
+Encoding: 50 2369 50
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: UT
+Encoding: 51 2370 51
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: RT
+Encoding: 52 2371 52
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: RRT
+Encoding: 53 2372 53
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: eT
+Encoding: 54 2375 54
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-450 900 m 21
+ -404 814 -261 645 -100 600 c 9
+EndSplineSet
+EndChar
+
+StartChar: aiT
+Encoding: 55 2376 55
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-450 900.8 m 17
+ -464 830.6 -433.745 763.951 -368 747.8 c 0
+ -270.304 723.8 -201.305 795.8 -204.305 837.8 c 0
+ -206.224 864.667 -216.305 879.8 -255.305 879.8 c 0
+ -358.774 879.8 -287 657.8 -100 600 c 9
+EndSplineSet
+EndChar
+
+StartChar: oT
+Encoding: 56 2379 56
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: auT
+Encoding: 57 2380 57
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: virAma
+Encoding: 58 2381 58
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: anusvAra
+Encoding: 59 2306 59
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: visarga
+Encoding: 60 2307 60
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+EndChars
+EndSplineFont
