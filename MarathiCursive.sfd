@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336098483
+ModificationTime: 1336100223
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -62,7 +62,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvAra2"  "Above-base mark2mark-1" "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 166 166
+BeginChars: 169 169
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -942,7 +942,6 @@ EndChar
 StartChar: jJa
 Encoding: 46 -1 46
 Width: 1000
-VWidth: 0
 Flags: W
 LayerCount: 2
 LCarets2: 2 0 0 
@@ -1800,8 +1799,17 @@ LCarets2: 1 0
 Ligature2: "AT ligatures-1" ha AT
 EndChar
 
-StartChar: kSA
+StartChar: LA
 Encoding: 94 -1 94
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 1 0 
+Ligature2: "AT ligatures-1" La AT
+EndChar
+
+StartChar: kSA
+Encoding: 95 -1 95
 Width: 1039
 VWidth: 0
 Flags: W
@@ -1816,7 +1824,7 @@ Ligature2: "AT ligatures-1" kSa AT
 EndChar
 
 StartChar: jJA
-Encoding: 95 -1 95
+Encoding: 96 -1 96
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1825,7 +1833,7 @@ Ligature2: "AT ligatures-1" jJa AT
 EndChar
 
 StartChar: ki
-Encoding: 96 -1 96
+Encoding: 97 -1 97
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1834,7 +1842,7 @@ Ligature2: "IT ligatures-1" ka IT
 EndChar
 
 StartChar: khi
-Encoding: 97 -1 97
+Encoding: 98 -1 98
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1843,7 +1851,7 @@ Ligature2: "IT ligatures-1" kha IT
 EndChar
 
 StartChar: gi
-Encoding: 98 -1 98
+Encoding: 99 -1 99
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1852,7 +1860,7 @@ Ligature2: "IT ligatures-1" ga IT
 EndChar
 
 StartChar: ghi
-Encoding: 99 -1 99
+Encoding: 100 -1 100
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1861,7 +1869,7 @@ Ligature2: "IT ligatures-1" gha IT
 EndChar
 
 StartChar: Gi
-Encoding: 100 -1 100
+Encoding: 101 -1 101
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1870,7 +1878,7 @@ Ligature2: "IT ligatures-1" Ga IT
 EndChar
 
 StartChar: ci
-Encoding: 101 -1 101
+Encoding: 102 -1 102
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1879,7 +1887,7 @@ Ligature2: "IT ligatures-1" ca IT
 EndChar
 
 StartChar: chi
-Encoding: 102 -1 102
+Encoding: 103 -1 103
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1888,7 +1896,7 @@ Ligature2: "IT ligatures-1" cha IT
 EndChar
 
 StartChar: ji
-Encoding: 103 -1 103
+Encoding: 104 -1 104
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1897,7 +1905,7 @@ Ligature2: "IT ligatures-1" ja IT
 EndChar
 
 StartChar: jhi
-Encoding: 104 -1 104
+Encoding: 105 -1 105
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1906,7 +1914,7 @@ Ligature2: "IT ligatures-1" jha IT
 EndChar
 
 StartChar: Ji
-Encoding: 105 -1 105
+Encoding: 106 -1 106
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1915,7 +1923,7 @@ Ligature2: "IT ligatures-1" Ja IT
 EndChar
 
 StartChar: Ti
-Encoding: 106 -1 106
+Encoding: 107 -1 107
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1924,7 +1932,7 @@ Ligature2: "IT ligatures-1" Ta IT
 EndChar
 
 StartChar: Thi
-Encoding: 107 -1 107
+Encoding: 108 -1 108
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1933,7 +1941,7 @@ Ligature2: "IT ligatures-1" Tha IT
 EndChar
 
 StartChar: Di
-Encoding: 108 -1 108
+Encoding: 109 -1 109
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1942,7 +1950,7 @@ Ligature2: "IT ligatures-1" Da IT
 EndChar
 
 StartChar: Dhi
-Encoding: 109 -1 109
+Encoding: 110 -1 110
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1951,7 +1959,7 @@ Ligature2: "IT ligatures-1" Dha IT
 EndChar
 
 StartChar: Ni
-Encoding: 110 -1 110
+Encoding: 111 -1 111
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1960,7 +1968,7 @@ Ligature2: "IT ligatures-1" Na IT
 EndChar
 
 StartChar: ti
-Encoding: 111 -1 111
+Encoding: 112 -1 112
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1969,7 +1977,7 @@ Ligature2: "IT ligatures-1" ta IT
 EndChar
 
 StartChar: thi
-Encoding: 112 -1 112
+Encoding: 113 -1 113
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1978,7 +1986,7 @@ Ligature2: "IT ligatures-1" tha IT
 EndChar
 
 StartChar: di
-Encoding: 113 -1 113
+Encoding: 114 -1 114
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1987,7 +1995,7 @@ Ligature2: "IT ligatures-1" da IT
 EndChar
 
 StartChar: dhi
-Encoding: 114 -1 114
+Encoding: 115 -1 115
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -1996,7 +2004,7 @@ Ligature2: "IT ligatures-1" dha IT
 EndChar
 
 StartChar: ni
-Encoding: 115 -1 115
+Encoding: 116 -1 116
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2005,7 +2013,7 @@ Ligature2: "IT ligatures-1" na IT
 EndChar
 
 StartChar: pi
-Encoding: 116 -1 116
+Encoding: 117 -1 117
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2014,7 +2022,7 @@ Ligature2: "IT ligatures-1" pa IT
 EndChar
 
 StartChar: phi
-Encoding: 117 -1 117
+Encoding: 118 -1 118
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2023,7 +2031,7 @@ Ligature2: "IT ligatures-1" pha IT
 EndChar
 
 StartChar: bi
-Encoding: 118 -1 118
+Encoding: 119 -1 119
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2032,7 +2040,7 @@ Ligature2: "IT ligatures-1" ba IT
 EndChar
 
 StartChar: bhi
-Encoding: 119 -1 119
+Encoding: 120 -1 120
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2041,7 +2049,7 @@ Ligature2: "IT ligatures-1" bha IT
 EndChar
 
 StartChar: mi
-Encoding: 120 -1 120
+Encoding: 121 -1 121
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2050,7 +2058,7 @@ Ligature2: "IT ligatures-1" ma IT
 EndChar
 
 StartChar: yi
-Encoding: 121 -1 121
+Encoding: 122 -1 122
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2059,7 +2067,7 @@ Ligature2: "IT ligatures-1" ya IT
 EndChar
 
 StartChar: ri
-Encoding: 122 -1 122
+Encoding: 123 -1 123
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2068,7 +2076,7 @@ Ligature2: "IT ligatures-1" ra IT
 EndChar
 
 StartChar: li
-Encoding: 123 -1 123
+Encoding: 124 -1 124
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2077,7 +2085,7 @@ Ligature2: "IT ligatures-1" la IT
 EndChar
 
 StartChar: vi
-Encoding: 124 -1 124
+Encoding: 125 -1 125
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2086,7 +2094,7 @@ Ligature2: "IT ligatures-1" va IT
 EndChar
 
 StartChar: zi
-Encoding: 125 -1 125
+Encoding: 126 -1 126
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2095,7 +2103,7 @@ Ligature2: "IT ligatures-1" za IT
 EndChar
 
 StartChar: Si
-Encoding: 126 -1 126
+Encoding: 127 -1 127
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2104,7 +2112,7 @@ Ligature2: "IT ligatures-1" Sa IT
 EndChar
 
 StartChar: si
-Encoding: 127 -1 127
+Encoding: 128 -1 128
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2113,7 +2121,7 @@ Ligature2: "IT ligatures-1" sa IT
 EndChar
 
 StartChar: hi
-Encoding: 128 -1 128
+Encoding: 129 -1 129
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2121,8 +2129,17 @@ LCarets2: 2 0 0
 Ligature2: "IT ligatures-1" ha IT
 EndChar
 
+StartChar: Li
+Encoding: 130 -1 130
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 1 0 
+Ligature2: "IT ligatures-1" La IT
+EndChar
+
 StartChar: kSi
-Encoding: 129 -1 129
+Encoding: 131 -1 131
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2131,7 +2148,7 @@ Ligature2: "IT ligatures-1" kSa IT
 EndChar
 
 StartChar: jJi
-Encoding: 130 -1 130
+Encoding: 132 -1 132
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2140,7 +2157,7 @@ Ligature2: "IT ligatures-1" jJa IT
 EndChar
 
 StartChar: ku
-Encoding: 131 -1 131
+Encoding: 133 -1 133
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2150,7 +2167,7 @@ Ligature2: "uT ligatures-1" ka UT
 EndChar
 
 StartChar: khu
-Encoding: 132 -1 132
+Encoding: 134 -1 134
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2160,7 +2177,7 @@ Ligature2: "uT ligatures-1" kha UT
 EndChar
 
 StartChar: gu
-Encoding: 133 -1 133
+Encoding: 135 -1 135
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2170,7 +2187,7 @@ Ligature2: "uT ligatures-1" ga UT
 EndChar
 
 StartChar: ghu
-Encoding: 134 -1 134
+Encoding: 136 -1 136
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2180,7 +2197,7 @@ Ligature2: "uT ligatures-1" gha UT
 EndChar
 
 StartChar: Gu
-Encoding: 135 -1 135
+Encoding: 137 -1 137
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2190,7 +2207,7 @@ Ligature2: "uT ligatures-1" Ga UT
 EndChar
 
 StartChar: cu
-Encoding: 136 -1 136
+Encoding: 138 -1 138
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2200,7 +2217,7 @@ Ligature2: "uT ligatures-1" ca UT
 EndChar
 
 StartChar: chu
-Encoding: 137 -1 137
+Encoding: 139 -1 139
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2210,7 +2227,7 @@ Ligature2: "uT ligatures-1" cha UT
 EndChar
 
 StartChar: ju
-Encoding: 138 -1 138
+Encoding: 140 -1 140
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2220,7 +2237,7 @@ Ligature2: "uT ligatures-1" ja UT
 EndChar
 
 StartChar: jhu
-Encoding: 139 -1 139
+Encoding: 141 -1 141
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2230,7 +2247,7 @@ Ligature2: "uT ligatures-1" jha UT
 EndChar
 
 StartChar: Ju
-Encoding: 140 -1 140
+Encoding: 142 -1 142
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2240,7 +2257,7 @@ Ligature2: "uT ligatures-1" Ja UT
 EndChar
 
 StartChar: Tu
-Encoding: 141 -1 141
+Encoding: 143 -1 143
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2250,7 +2267,7 @@ Ligature2: "uT ligatures-1" Ta UT
 EndChar
 
 StartChar: Thu
-Encoding: 142 -1 142
+Encoding: 144 -1 144
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2260,7 +2277,7 @@ Ligature2: "uT ligatures-1" Tha UT
 EndChar
 
 StartChar: Du
-Encoding: 143 -1 143
+Encoding: 145 -1 145
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2270,7 +2287,7 @@ Ligature2: "uT ligatures-1" Da UT
 EndChar
 
 StartChar: Dhu
-Encoding: 144 -1 144
+Encoding: 146 -1 146
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2280,7 +2297,7 @@ Ligature2: "uT ligatures-1" Dha UT
 EndChar
 
 StartChar: Nu
-Encoding: 145 -1 145
+Encoding: 147 -1 147
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2290,7 +2307,7 @@ Ligature2: "uT ligatures-1" Na UT
 EndChar
 
 StartChar: tu
-Encoding: 146 -1 146
+Encoding: 148 -1 148
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2300,7 +2317,7 @@ Ligature2: "uT ligatures-1" ta UT
 EndChar
 
 StartChar: thu
-Encoding: 147 -1 147
+Encoding: 149 -1 149
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2310,7 +2327,7 @@ Ligature2: "uT ligatures-1" tha UT
 EndChar
 
 StartChar: du
-Encoding: 148 -1 148
+Encoding: 150 -1 150
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2320,7 +2337,7 @@ Ligature2: "uT ligatures-1" da UT
 EndChar
 
 StartChar: dhu
-Encoding: 149 -1 149
+Encoding: 151 -1 151
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2330,7 +2347,7 @@ Ligature2: "uT ligatures-1" dha UT
 EndChar
 
 StartChar: nu
-Encoding: 150 -1 150
+Encoding: 152 -1 152
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2340,7 +2357,7 @@ Ligature2: "uT ligatures-1" na UT
 EndChar
 
 StartChar: pu
-Encoding: 151 -1 151
+Encoding: 153 -1 153
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2350,7 +2367,7 @@ Ligature2: "uT ligatures-1" pa UT
 EndChar
 
 StartChar: phu
-Encoding: 152 -1 152
+Encoding: 154 -1 154
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2360,7 +2377,7 @@ Ligature2: "uT ligatures-1" pha UT
 EndChar
 
 StartChar: bu
-Encoding: 153 -1 153
+Encoding: 155 -1 155
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2370,7 +2387,7 @@ Ligature2: "uT ligatures-1" ba UT
 EndChar
 
 StartChar: bhu
-Encoding: 154 -1 154
+Encoding: 156 -1 156
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2380,7 +2397,7 @@ Ligature2: "uT ligatures-1" bha UT
 EndChar
 
 StartChar: mu
-Encoding: 155 -1 155
+Encoding: 157 -1 157
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2390,7 +2407,7 @@ Ligature2: "uT ligatures-1" ma UT
 EndChar
 
 StartChar: yu
-Encoding: 156 -1 156
+Encoding: 158 -1 158
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2400,7 +2417,7 @@ Ligature2: "uT ligatures-1" ya UT
 EndChar
 
 StartChar: ru
-Encoding: 157 -1 157
+Encoding: 159 -1 159
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2410,7 +2427,7 @@ Ligature2: "uT ligatures-1" ra UT
 EndChar
 
 StartChar: lu
-Encoding: 158 -1 158
+Encoding: 160 -1 160
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2420,7 +2437,7 @@ Ligature2: "uT ligatures-1" la UT
 EndChar
 
 StartChar: vu
-Encoding: 159 -1 159
+Encoding: 161 -1 161
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2430,7 +2447,7 @@ Ligature2: "uT ligatures-1" va UT
 EndChar
 
 StartChar: zu
-Encoding: 160 -1 160
+Encoding: 162 -1 162
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2440,7 +2457,7 @@ Ligature2: "uT ligatures-1" za UT
 EndChar
 
 StartChar: Su
-Encoding: 161 -1 161
+Encoding: 163 -1 163
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2450,7 +2467,7 @@ Ligature2: "uT ligatures-1" Sa UT
 EndChar
 
 StartChar: su
-Encoding: 162 -1 162
+Encoding: 164 -1 164
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2460,7 +2477,7 @@ Ligature2: "uT ligatures-1" sa UT
 EndChar
 
 StartChar: hu
-Encoding: 163 -1 163
+Encoding: 165 -1 165
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2469,8 +2486,18 @@ Ligature2: "uT ligatures-1" ha uT
 Ligature2: "uT ligatures-1" ha UT
 EndChar
 
+StartChar: Lu
+Encoding: 166 -1 166
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 1 0 
+Ligature2: "uT ligatures-1" La uT
+Ligature2: "uT ligatures-1" La UT
+EndChar
+
 StartChar: kSu
-Encoding: 164 -1 164
+Encoding: 167 -1 167
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -2480,11 +2507,11 @@ Ligature2: "uT ligatures-1" kSa UT
 EndChar
 
 StartChar: jJu
-Encoding: 165 -1 165
+Encoding: 168 -1 168
 Width: 1000
 Flags: W
 LayerCount: 2
-LCarets2: 2 0 0 
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" jJa uT
 Ligature2: "uT ligatures-1" jJa UT
 EndChar
