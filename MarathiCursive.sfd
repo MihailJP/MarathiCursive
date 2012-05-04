@@ -1801,9 +1801,14 @@ EndChar
 
 StartChar: LA
 Encoding: 94 -1 94
-Width: 1000
+Width: 1068
 Flags: W
+AnchorPoint: "anusvara" 911.709 800 basechar 0
+AnchorPoint: "eT" 896.709 600 basechar 0
 LayerCount: 2
+Fore
+Refer: 47 2366 N 1 0 0 1 808 0 2
+Refer: 44 2355 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" La AT
 EndChar
