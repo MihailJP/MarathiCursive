@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336149031
+ModificationTime: 1336150027
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -76,7 +76,7 @@ NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 160 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -86,7 +86,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvAra2"  "Above-base mark2mark-1" "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 216 216
+BeginChars: 396 396
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -4526,6 +4526,1698 @@ SplineSet
 120 294 m 0
  288 285 357.537 342 408.537 420 c 0
 EndSplineSet
+EndChar
+
+StartChar: kra
+Encoding: 216 -1 216
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 1 0 
+Ligature2: "Vattu forms-1" ka raphala
+Substitution2: "IT forms-1" kri
+EndChar
+
+StartChar: khra
+Encoding: 217 -1 217
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" kha raphala
+Substitution2: "IT forms-1" khri
+EndChar
+
+StartChar: gra
+Encoding: 218 -1 218
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ga raphala
+Substitution2: "IT forms-1" gri
+EndChar
+
+StartChar: ghra
+Encoding: 219 -1 219
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" gha raphala
+Substitution2: "IT forms-1" ghri
+EndChar
+
+StartChar: Gra
+Encoding: 220 -1 220
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Ga raphala
+Substitution2: "IT forms-1" Gri
+EndChar
+
+StartChar: cra
+Encoding: 221 -1 221
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ca raphala
+Substitution2: "IT forms-1" cri
+EndChar
+
+StartChar: chra
+Encoding: 222 -1 222
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" cha raphala
+Substitution2: "IT forms-1" chri
+EndChar
+
+StartChar: jra
+Encoding: 223 -1 223
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ja raphala
+Substitution2: "IT forms-1" jri
+EndChar
+
+StartChar: jhra
+Encoding: 224 -1 224
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" jha raphala
+Substitution2: "IT forms-1" jhri
+EndChar
+
+StartChar: Jra
+Encoding: 225 -1 225
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Ja raphala
+Substitution2: "IT forms-1" Jri
+EndChar
+
+StartChar: Tra
+Encoding: 226 -1 226
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Ta raphala
+Substitution2: "IT forms-1" Tri
+EndChar
+
+StartChar: Thra
+Encoding: 227 -1 227
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Tha raphala
+Substitution2: "IT forms-1" Thri
+EndChar
+
+StartChar: Dra
+Encoding: 228 -1 228
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Da raphala
+Substitution2: "IT forms-1" Dri
+EndChar
+
+StartChar: Dhra
+Encoding: 229 -1 229
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Dha raphala
+Substitution2: "IT forms-1" Dhri
+EndChar
+
+StartChar: Nra
+Encoding: 230 -1 230
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Na raphala
+Substitution2: "IT forms-1" Nri
+EndChar
+
+StartChar: tra
+Encoding: 231 -1 231
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ta raphala
+Substitution2: "IT forms-1" tri
+EndChar
+
+StartChar: thra
+Encoding: 232 -1 232
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" tha raphala
+Substitution2: "IT forms-1" thri
+EndChar
+
+StartChar: dra
+Encoding: 233 -1 233
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" da raphala
+Substitution2: "IT forms-1" dri
+EndChar
+
+StartChar: dhra
+Encoding: 234 -1 234
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" dha raphala
+Substitution2: "IT forms-1" dhri
+EndChar
+
+StartChar: nra
+Encoding: 235 -1 235
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" na raphala
+Substitution2: "IT forms-1" nri
+EndChar
+
+StartChar: pra
+Encoding: 236 -1 236
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" pa raphala
+Substitution2: "IT forms-1" pri
+EndChar
+
+StartChar: phra
+Encoding: 237 -1 237
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" pha raphala
+Substitution2: "IT forms-1" phri
+EndChar
+
+StartChar: bra
+Encoding: 238 -1 238
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ba raphala
+Substitution2: "IT forms-1" bri
+EndChar
+
+StartChar: bhra
+Encoding: 239 -1 239
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" bha raphala
+Substitution2: "IT forms-1" bhri
+EndChar
+
+StartChar: mra
+Encoding: 240 -1 240
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ma raphala
+Substitution2: "IT forms-1" mri
+EndChar
+
+StartChar: yra
+Encoding: 241 -1 241
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ya raphala
+Substitution2: "IT forms-1" yri
+EndChar
+
+StartChar: rra
+Encoding: 242 -1 242
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ra raphala
+Substitution2: "IT forms-1" rri
+EndChar
+
+StartChar: lra
+Encoding: 243 -1 243
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" la raphala
+Substitution2: "IT forms-1" lri
+EndChar
+
+StartChar: vra
+Encoding: 244 -1 244
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" va raphala
+Substitution2: "IT forms-1" vri
+EndChar
+
+StartChar: zra
+Encoding: 245 -1 245
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" za raphala
+Substitution2: "IT forms-1" zri
+EndChar
+
+StartChar: Sra
+Encoding: 246 -1 246
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" Sa raphala
+Substitution2: "IT forms-1" Sri
+EndChar
+
+StartChar: sra
+Encoding: 247 -1 247
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" sa raphala
+Substitution2: "IT forms-1" sri
+EndChar
+
+StartChar: hra
+Encoding: 248 -1 248
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ha raphala
+Substitution2: "IT forms-1" hri
+EndChar
+
+StartChar: Lra
+Encoding: 249 -1 249
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" La raphala
+Substitution2: "IT forms-1" Lri
+EndChar
+
+StartChar: kSra
+Encoding: 250 -1 250
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" kSa raphala
+Substitution2: "IT forms-1" kSri
+EndChar
+
+StartChar: jJra
+Encoding: 251 -1 251
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" jJa raphala
+Substitution2: "IT forms-1" jJri
+EndChar
+
+StartChar: krA
+Encoding: 252 -1 252
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" kra AT
+EndChar
+
+StartChar: khrA
+Encoding: 253 -1 253
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" khra AT
+EndChar
+
+StartChar: grA
+Encoding: 254 -1 254
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" gra AT
+EndChar
+
+StartChar: ghrA
+Encoding: 255 -1 255
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" ghra AT
+EndChar
+
+StartChar: GrA
+Encoding: 256 -1 256
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Gra AT
+EndChar
+
+StartChar: crA
+Encoding: 257 -1 257
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" cra AT
+EndChar
+
+StartChar: chrA
+Encoding: 258 -1 258
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" chra AT
+EndChar
+
+StartChar: jrA
+Encoding: 259 -1 259
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" jra AT
+EndChar
+
+StartChar: jhrA
+Encoding: 260 -1 260
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" jhra AT
+EndChar
+
+StartChar: JrA
+Encoding: 261 -1 261
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Jra AT
+EndChar
+
+StartChar: TrA
+Encoding: 262 -1 262
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Tra AT
+EndChar
+
+StartChar: ThrA
+Encoding: 263 -1 263
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Thra AT
+EndChar
+
+StartChar: DrA
+Encoding: 264 -1 264
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Dra AT
+EndChar
+
+StartChar: DhrA
+Encoding: 265 -1 265
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Dhra AT
+EndChar
+
+StartChar: NrA
+Encoding: 266 -1 266
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Nra AT
+EndChar
+
+StartChar: trA
+Encoding: 267 -1 267
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" tra AT
+EndChar
+
+StartChar: thrA
+Encoding: 268 -1 268
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" thra AT
+EndChar
+
+StartChar: drA
+Encoding: 269 -1 269
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" dra AT
+EndChar
+
+StartChar: dhrA
+Encoding: 270 -1 270
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" dhra AT
+EndChar
+
+StartChar: nrA
+Encoding: 271 -1 271
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" nra AT
+EndChar
+
+StartChar: prA
+Encoding: 272 -1 272
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" pra AT
+EndChar
+
+StartChar: phrA
+Encoding: 273 -1 273
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" phra AT
+EndChar
+
+StartChar: brA
+Encoding: 274 -1 274
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" bra AT
+EndChar
+
+StartChar: bhrA
+Encoding: 275 -1 275
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" bhra AT
+EndChar
+
+StartChar: mrA
+Encoding: 276 -1 276
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" mra AT
+EndChar
+
+StartChar: yrA
+Encoding: 277 -1 277
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" yra AT
+EndChar
+
+StartChar: rrA
+Encoding: 278 -1 278
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" rra AT
+EndChar
+
+StartChar: lrA
+Encoding: 279 -1 279
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" lra AT
+EndChar
+
+StartChar: vrA
+Encoding: 280 -1 280
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" vra AT
+EndChar
+
+StartChar: zrA
+Encoding: 281 -1 281
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" zra AT
+EndChar
+
+StartChar: SrA
+Encoding: 282 -1 282
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Sra AT
+EndChar
+
+StartChar: srA
+Encoding: 283 -1 283
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" sra AT
+EndChar
+
+StartChar: hrA
+Encoding: 284 -1 284
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" hra AT
+EndChar
+
+StartChar: LrA
+Encoding: 285 -1 285
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" Lra AT
+EndChar
+
+StartChar: kSrA
+Encoding: 286 -1 286
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" kSra AT
+EndChar
+
+StartChar: jJrA
+Encoding: 287 -1 287
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "AT ligatures-1" jJra AT
+EndChar
+
+StartChar: kri
+Encoding: 288 -1 288
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" kra IT
+EndChar
+
+StartChar: khri
+Encoding: 289 -1 289
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" khra IT
+EndChar
+
+StartChar: gri
+Encoding: 290 -1 290
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" gra IT
+EndChar
+
+StartChar: ghri
+Encoding: 291 -1 291
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" ghra IT
+EndChar
+
+StartChar: Gri
+Encoding: 292 -1 292
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Gra IT
+EndChar
+
+StartChar: cri
+Encoding: 293 -1 293
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" cra IT
+EndChar
+
+StartChar: chri
+Encoding: 294 -1 294
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" chra IT
+EndChar
+
+StartChar: jri
+Encoding: 295 -1 295
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" jra IT
+EndChar
+
+StartChar: jhri
+Encoding: 296 -1 296
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" jhra IT
+EndChar
+
+StartChar: Jri
+Encoding: 297 -1 297
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Jra IT
+EndChar
+
+StartChar: Tri
+Encoding: 298 -1 298
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Tra IT
+EndChar
+
+StartChar: Thri
+Encoding: 299 -1 299
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Thra IT
+EndChar
+
+StartChar: Dri
+Encoding: 300 -1 300
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Dra IT
+EndChar
+
+StartChar: Dhri
+Encoding: 301 -1 301
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Dhra IT
+EndChar
+
+StartChar: Nri
+Encoding: 302 -1 302
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Nra IT
+EndChar
+
+StartChar: tri
+Encoding: 303 -1 303
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" tra IT
+EndChar
+
+StartChar: thri
+Encoding: 304 -1 304
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" thra IT
+EndChar
+
+StartChar: dri
+Encoding: 305 -1 305
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" dra IT
+EndChar
+
+StartChar: dhri
+Encoding: 306 -1 306
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" dhra IT
+EndChar
+
+StartChar: nri
+Encoding: 307 -1 307
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" nra IT
+EndChar
+
+StartChar: pri
+Encoding: 308 -1 308
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" pra IT
+EndChar
+
+StartChar: phri
+Encoding: 309 -1 309
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" phra IT
+EndChar
+
+StartChar: bri
+Encoding: 310 -1 310
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" bra IT
+EndChar
+
+StartChar: bhri
+Encoding: 311 -1 311
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" bhra IT
+EndChar
+
+StartChar: mri
+Encoding: 312 -1 312
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" mra IT
+EndChar
+
+StartChar: yri
+Encoding: 313 -1 313
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" yra IT
+EndChar
+
+StartChar: rri
+Encoding: 314 -1 314
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" rra IT
+EndChar
+
+StartChar: lri
+Encoding: 315 -1 315
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" lra IT
+EndChar
+
+StartChar: vri
+Encoding: 316 -1 316
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" vra IT
+EndChar
+
+StartChar: zri
+Encoding: 317 -1 317
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" zra IT
+EndChar
+
+StartChar: Sri
+Encoding: 318 -1 318
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Sra IT
+EndChar
+
+StartChar: sri
+Encoding: 319 -1 319
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" sra IT
+EndChar
+
+StartChar: hri
+Encoding: 320 -1 320
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" hra IT
+EndChar
+
+StartChar: Lri
+Encoding: 321 -1 321
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" Lra IT
+EndChar
+
+StartChar: kSri
+Encoding: 322 -1 322
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" kSra IT
+EndChar
+
+StartChar: jJri
+Encoding: 323 -1 323
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "IT ligatures-1" jJra IT
+EndChar
+
+StartChar: kru
+Encoding: 324 -1 324
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" kra uT
+Ligature2: "uT ligatures-1" kra UT
+EndChar
+
+StartChar: khru
+Encoding: 325 -1 325
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" khra uT
+Ligature2: "uT ligatures-1" khra UT
+EndChar
+
+StartChar: gru
+Encoding: 326 -1 326
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" gra uT
+Ligature2: "uT ligatures-1" gra UT
+EndChar
+
+StartChar: ghru
+Encoding: 327 -1 327
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" ghra uT
+Ligature2: "uT ligatures-1" ghra UT
+EndChar
+
+StartChar: Gru
+Encoding: 328 -1 328
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Gra uT
+Ligature2: "uT ligatures-1" Gra UT
+EndChar
+
+StartChar: cru
+Encoding: 329 -1 329
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" cra uT
+Ligature2: "uT ligatures-1" cra UT
+EndChar
+
+StartChar: chru
+Encoding: 330 -1 330
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" chra uT
+Ligature2: "uT ligatures-1" chra UT
+EndChar
+
+StartChar: jru
+Encoding: 331 -1 331
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" jra uT
+Ligature2: "uT ligatures-1" jra UT
+EndChar
+
+StartChar: jhru
+Encoding: 332 -1 332
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" jhra uT
+Ligature2: "uT ligatures-1" jhra UT
+EndChar
+
+StartChar: Jru
+Encoding: 333 -1 333
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Jra uT
+Ligature2: "uT ligatures-1" Jra UT
+EndChar
+
+StartChar: Tru
+Encoding: 334 -1 334
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Tra uT
+Ligature2: "uT ligatures-1" Tra UT
+EndChar
+
+StartChar: Thru
+Encoding: 335 -1 335
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Thra uT
+Ligature2: "uT ligatures-1" Thra UT
+EndChar
+
+StartChar: Dru
+Encoding: 336 -1 336
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Dra uT
+Ligature2: "uT ligatures-1" Dra UT
+EndChar
+
+StartChar: Dhru
+Encoding: 337 -1 337
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Dhra uT
+Ligature2: "uT ligatures-1" Dhra UT
+EndChar
+
+StartChar: Nru
+Encoding: 338 -1 338
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Nra uT
+Ligature2: "uT ligatures-1" Nra UT
+EndChar
+
+StartChar: tru
+Encoding: 339 -1 339
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" tra uT
+Ligature2: "uT ligatures-1" tra UT
+EndChar
+
+StartChar: thru
+Encoding: 340 -1 340
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" thra uT
+Ligature2: "uT ligatures-1" thra UT
+EndChar
+
+StartChar: dru
+Encoding: 341 -1 341
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" dra uT
+Ligature2: "uT ligatures-1" dra UT
+EndChar
+
+StartChar: dhru
+Encoding: 342 -1 342
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" dhra uT
+Ligature2: "uT ligatures-1" dhra UT
+EndChar
+
+StartChar: nru
+Encoding: 343 -1 343
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" nra uT
+Ligature2: "uT ligatures-1" nra UT
+EndChar
+
+StartChar: pru
+Encoding: 344 -1 344
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" pra uT
+Ligature2: "uT ligatures-1" pra UT
+EndChar
+
+StartChar: phru
+Encoding: 345 -1 345
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" phra uT
+Ligature2: "uT ligatures-1" phra UT
+EndChar
+
+StartChar: bru
+Encoding: 346 -1 346
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" bra uT
+Ligature2: "uT ligatures-1" bra UT
+EndChar
+
+StartChar: bhru
+Encoding: 347 -1 347
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" bhra uT
+Ligature2: "uT ligatures-1" bhra UT
+EndChar
+
+StartChar: mru
+Encoding: 348 -1 348
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" mra uT
+Ligature2: "uT ligatures-1" mra UT
+EndChar
+
+StartChar: yru
+Encoding: 349 -1 349
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" yra uT
+Ligature2: "uT ligatures-1" yra UT
+EndChar
+
+StartChar: rru
+Encoding: 350 -1 350
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" rra uT
+Ligature2: "uT ligatures-1" rra UT
+EndChar
+
+StartChar: lru
+Encoding: 351 -1 351
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" lra uT
+Ligature2: "uT ligatures-1" lra UT
+EndChar
+
+StartChar: vru
+Encoding: 352 -1 352
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" vra uT
+Ligature2: "uT ligatures-1" vra UT
+EndChar
+
+StartChar: zru
+Encoding: 353 -1 353
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" zra uT
+Ligature2: "uT ligatures-1" zra UT
+EndChar
+
+StartChar: Sru
+Encoding: 354 -1 354
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Sra uT
+Ligature2: "uT ligatures-1" Sra UT
+EndChar
+
+StartChar: sru
+Encoding: 355 -1 355
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" sra uT
+Ligature2: "uT ligatures-1" sra UT
+EndChar
+
+StartChar: hru
+Encoding: 356 -1 356
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" hra uT
+Ligature2: "uT ligatures-1" hra UT
+EndChar
+
+StartChar: Lru
+Encoding: 357 -1 357
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" Lra uT
+Ligature2: "uT ligatures-1" Lra UT
+EndChar
+
+StartChar: kSru
+Encoding: 358 -1 358
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" kSra uT
+Ligature2: "uT ligatures-1" kSra UT
+EndChar
+
+StartChar: jJru
+Encoding: 359 -1 359
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "uT ligatures-1" jJra uT
+Ligature2: "uT ligatures-1" jJra UT
+EndChar
+
+StartChar: ardhakra
+Encoding: 360 -1 360
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaka raphala
+EndChar
+
+StartChar: ardhakhra
+Encoding: 361 -1 361
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhakha raphala
+EndChar
+
+StartChar: ardhagra
+Encoding: 362 -1 362
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaga raphala
+EndChar
+
+StartChar: ardhaghra
+Encoding: 363 -1 363
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhagha raphala
+EndChar
+
+StartChar: ardhaGra
+Encoding: 364 -1 364
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaGa raphala
+EndChar
+
+StartChar: ardhacra
+Encoding: 365 -1 365
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaca raphala
+EndChar
+
+StartChar: ardhachra
+Encoding: 366 -1 366
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhacha raphala
+EndChar
+
+StartChar: ardhajra
+Encoding: 367 -1 367
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaja raphala
+EndChar
+
+StartChar: ardhajhra
+Encoding: 368 -1 368
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhajha raphala
+EndChar
+
+StartChar: ardhaJra
+Encoding: 369 -1 369
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaJa raphala
+EndChar
+
+StartChar: ardhaTra
+Encoding: 370 -1 370
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaTa raphala
+EndChar
+
+StartChar: ardhaThra
+Encoding: 371 -1 371
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaTha raphala
+EndChar
+
+StartChar: ardhaDra
+Encoding: 372 -1 372
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaDa raphala
+EndChar
+
+StartChar: ardhaDhra
+Encoding: 373 -1 373
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaDha raphala
+EndChar
+
+StartChar: ardhaNra
+Encoding: 374 -1 374
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaNa raphala
+EndChar
+
+StartChar: ardhatra
+Encoding: 375 -1 375
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhata raphala
+EndChar
+
+StartChar: ardhathra
+Encoding: 376 -1 376
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhatha raphala
+EndChar
+
+StartChar: ardhadra
+Encoding: 377 -1 377
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhada raphala
+EndChar
+
+StartChar: ardhadhra
+Encoding: 378 -1 378
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhadha raphala
+EndChar
+
+StartChar: ardhanra
+Encoding: 379 -1 379
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhana raphala
+EndChar
+
+StartChar: ardhapra
+Encoding: 380 -1 380
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhapa raphala
+EndChar
+
+StartChar: ardhaphra
+Encoding: 381 -1 381
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhapha raphala
+EndChar
+
+StartChar: ardhabra
+Encoding: 382 -1 382
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaba raphala
+EndChar
+
+StartChar: ardhabhra
+Encoding: 383 -1 383
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhabha raphala
+EndChar
+
+StartChar: ardhamra
+Encoding: 384 -1 384
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhama raphala
+EndChar
+
+StartChar: ardhayra
+Encoding: 385 -1 385
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaya raphala
+EndChar
+
+StartChar: ardharra
+Encoding: 386 -1 386
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhara raphala
+EndChar
+
+StartChar: ardhalra
+Encoding: 387 -1 387
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhala raphala
+EndChar
+
+StartChar: ardhavra
+Encoding: 388 -1 388
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhava raphala
+EndChar
+
+StartChar: ardhazra
+Encoding: 389 -1 389
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaza raphala
+EndChar
+
+StartChar: ardhaSra
+Encoding: 390 -1 390
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaSa raphala
+EndChar
+
+StartChar: ardhasra
+Encoding: 391 -1 391
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhasa raphala
+EndChar
+
+StartChar: ardhahra
+Encoding: 392 -1 392
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaha raphala
+EndChar
+
+StartChar: ardhaLra
+Encoding: 393 -1 393
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhaLa raphala
+EndChar
+
+StartChar: ardhakSra
+Encoding: 394 -1 394
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhakSa raphala
+EndChar
+
+StartChar: ardhajJra
+Encoding: 395 -1 395
+Width: 1000
+Flags: W
+LayerCount: 2
+LCarets2: 2 0 0 
+Ligature2: "Vattu forms-1" ardhajJa raphala
 EndChar
 EndChars
 EndSplineFont
