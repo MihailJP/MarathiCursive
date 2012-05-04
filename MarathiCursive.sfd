@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336117848
+ModificationTime: 1336119041
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -75,7 +75,7 @@ NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 128 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -741,8 +741,8 @@ SplineSet
  386.915 153.714 365.188 0 277.189 0 c 0
  237.188 0 199.816 40.3291 209.189 108.437 c 0
  239.188 326.437 373.188 536.437 465.188 600 c 0
-0 600 m 1
- 585 600 l 1
+0 600 m 5
+ 585 600 l 5
 EndSplineSet
 Substitution2: "IT forms-1" ni
 EndChar
@@ -1105,9 +1105,15 @@ EndChar
 
 StartChar: jJa
 Encoding: 46 -1 46
-Width: 1000
+Width: 893
+VWidth: 0
 Flags: W
+AnchorPoint: "eT" 773 600 basechar 0
+AnchorPoint: "anusvara" 658 800 basechar 0
 LayerCount: 2
+Fore
+Refer: 30 2344 N 1 0 0 1 308 0 2
+Refer: 190 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
 Ligature2: "Akhand ligatures-1" ja virAma Ja
 Substitution2: "IT forms-1" jJi
@@ -2117,10 +2123,16 @@ EndChar
 
 StartChar: jJA
 Encoding: 96 -1 96
-Width: 1000
+Width: 1080
+VWidth: 0
 Flags: W
+AnchorPoint: "eT" 916.627 600 basechar 0
+AnchorPoint: "anusvara" 727.627 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+Refer: 80 -1 N 1 0 0 1 308 0 2
+Refer: 190 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "AT ligatures-1" jJa AT
 EndChar
 
@@ -2782,10 +2794,15 @@ EndChar
 
 StartChar: jJi
 Encoding: 132 -1 132
-Width: 1000
+Width: 1237
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 1093 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+Refer: 116 -1 N 1 0 0 1 308 0 2
+Refer: 190 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "IT ligatures-1" jJa IT
 EndChar
 
@@ -3232,7 +3249,7 @@ SplineSet
 748 600 m 0
  700 470 600.072 66 736 66 c 0
  822.072 66 768 258 480 258 c 0
-416.64 555 m 4
+416.64 555 m 0
  299.64 435 223.747 600 318 600 c 0
  453.574 600 493 548.312 493 471.749 c 0
  493 389.53 324.999 317.312 237 317.312 c 1
@@ -3610,9 +3627,14 @@ EndChar
 
 StartChar: jJu
 Encoding: 168 -1 168
-Width: 1000
+Width: 1201
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 908 800 basechar 0
 LayerCount: 2
+Fore
+Refer: 152 -1 N 1 0 0 1 308 0 2
+Refer: 190 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" jJa uT
 Ligature2: "uT ligatures-1" jJa UT
@@ -3656,8 +3678,9 @@ AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
 SplineSet
-113.321 879.8 m 0
- 9.85254 879.8 -287 657.8 -100 600 c 9
+-100 600 m 17
+ -287 657.8 -95.5807 900 20 900 c 0
+ 117.419 900 159.419 845.02 174.419 803.02 c 0
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Repha-1" ra virAma
@@ -4347,9 +4370,13 @@ EndChar
 
 StartChar: ardhajJa
 Encoding: 208 -1 208
-Width: 1000
+Width: 759
+VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+Refer: 192 -1 N 1 0 0 1 308 0 2
+Refer: 190 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Half forms-1" jJa virAma
 EndChar
