@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336192501
+ModificationTime: 1336193319
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -3066,8 +3066,22 @@ Flags: W
 AnchorPoint: "anusvara" 500 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 669 0 2
-Refer: 32 2347 N 1 0 0 1 0 0 2
+SplineSet
+129.724 600 m 0
+ 101.724 508.936 129.988 256.35 269.977 252.936 c 0
+ 433.977 248.936 429.977 600 411.977 600 c 0
+ 375.977 600 442.977 0 399.977 0 c 0
+0 600 m 1
+ 879 600 l 1
+334.5 -40.6758 m 17
+ 346.5 -22.6758 357.176 0 399.977 0 c 0
+ 477.977 0 526.902 -43.2725 525.489 -85.6758 c 0
+ 522.489 -175.676 439.5 -202.676 312.489 -200 c 0
+ 202.229 -197.677 156.006 -115.841 154.5 -13.6758 c 0
+ 152.511 121.324 417.67 183 474.724 183 c 0
+ 799.729 183 733.724 0 711.724 0 c 0
+ 659.724 0 660.173 495 759.173 600 c 0
+EndSplineSet
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" pha uT
 Ligature2: "uT ligatures-1" pha UT
@@ -3285,13 +3299,29 @@ EndChar
 
 StartChar: su
 Encoding: 164 -1 164
-Width: 1247
+Width: 1244
 Flags: W
-AnchorPoint: "anusvara" 450 800 basechar 0
+AnchorPoint: "anusvara" 445.5 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 169 -1 N 1 0 0 1 667 0 2
-Refer: 42 2360 N 1 0 0 1 0 0 2
+SplineSet
+652 600 m 0
+ 804 600 852 524 824 456 c 0
+ 796 388 726.043 361.662 668 364 c 1
+ 792 356 864 260 832 76 c 0
+ 808.611 -58.4863 555.962 -4.9873 555.962 196.338 c 0
+ 555.962 400.338 568 740 862.5 740 c 0
+ 1090.5 740 1078.72 318.231 1064.5 176 c 0
+ 1052.5 56 1034.5 0 978.5 0 c 0
+ 876.5 0 960.5 520 1164.5 600 c 0
+232 600 m 0
+ 308 536 318.256 468.708 316 392 c 0
+ 312 256 200 164 120 220 c 1
+ 148 148 221.552 0 344 0 c 0
+ 476 0 548 176 556 376 c 0
+0 600 m 1
+ 1244 600 l 1
+EndSplineSet
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" sa uT
 Ligature2: "uT ligatures-1" sa UT
@@ -6973,11 +7003,23 @@ AnchorPoint: "anusvara" 500 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-505.5 79.5 m 17
- 562.5 -6 469.5 -193.5 289.5 -208.5 c 9
+129.724 600 m 0
+ 101.724 508.936 129.988 256.35 269.977 252.936 c 0
+ 433.977 248.936 429.977 600 411.977 600 c 0
+ 375.977 600 442.977 0 399.977 0 c 0
+0 600 m 1
+ 879 600 l 1
+334.5 -40.6758 m 17
+ 346.5 -22.6758 357.176 0 399.977 0 c 0
+ 477.977 0 526.902 -43.2725 525.489 -85.6758 c 0
+ 522.489 -175.676 439.5 -202.676 312.489 -200 c 0
+ 202.229 -197.677 199.506 -115.841 198 -13.6758 c 0
+ 196.011 121.324 417.67 183 474.724 183 c 0
+ 799.729 183 733.724 0 711.724 0 c 0
+ 659.724 0 660.173 495 759.173 600 c 0
+193.5 -49.5 m 17
+ 157 -136.5 72 -172.5 -99 -199.5 c 9
 EndSplineSet
-Refer: 32 2347 N 1 0 0 1 0 0 2
-Refer: 50 2369 S 1 0 0 1 639 -90 2
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" phra uT
 Ligature2: "uT ligatures-1" phra UT
@@ -6996,7 +7038,7 @@ SplineSet
 EndSplineSet
 Refer: 33 2348 N 1 0 0 1 0 0 2
 Refer: 169 -1 N 1 0 0 1 606 0 2
-LCarets2: 2 0 0 
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" bra uT
 Ligature2: "uT ligatures-1" bra UT
 EndChar
