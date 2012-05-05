@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336176301
+ModificationTime: 1336176671
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -76,7 +76,7 @@ NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 224 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -5643,6 +5643,7 @@ AnchorPoint: "anusvara" 666.246 800 basechar 0
 AnchorPoint: "eT" 651.246 600 basechar 0
 LayerCount: 2
 Fore
+Refer: 172 -1 S 1 0 0 1 644 0 2
 Refer: 87 -1 S 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" rra AT
