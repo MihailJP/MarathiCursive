@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336177702
+ModificationTime: 1336192501
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -4447,7 +4447,7 @@ AnchorPoint: "eT" 427 600 basechar 0
 LayerCount: 2
 Fore
 Refer: 16 2330 N 1 0 0 1 0 0 2
-Refer: 172 -1 N 1 0 0 1 568 45 2
+Refer: 172 -1 S 1 0 0 1 568 45 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ca raphala
 Substitution2: "IT forms-1" cri
@@ -4474,8 +4474,8 @@ SplineSet
  551.118 527.966 507.118 585.982 471.117 600 c 0
 0 600 m 1
  672 600 l 1
-249 0 m 17
- 212.5 -87 144 -156 -21 -201 c 9
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" cha raphala
@@ -4644,7 +4644,7 @@ AnchorPoint: "eT" 536.148 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-95.5 -99 m 29
+95.5 -99 m 25
  494.5 150 l 25
 535.931 600 m 0
  517.931 440.825 492.931 0 567.931 0 c 0
@@ -4765,7 +4765,7 @@ SplineSet
  282.514 135.307 341.872 140 415.871 140 c 0
  497.872 140 539.872 218 573.871 294.129 c 0
 205.231 -60 m 5
- 564.463 208 l 1
+ 564.463 208 l 5
 0 600 m 1
  766 600 l 1
 EndSplineSet
@@ -4894,7 +4894,7 @@ LayerCount: 2
 Fore
 SplineSet
 543 162 m 21
- 497 37.5 314 -73.5 198 -96 c 9
+ 497 37.5 314 -73.5 198 -96 c 13
 390.263 528 m 0
  336.263 488 242.629 416.018 150.263 450 c 0
  93.0166 471.062 122.126 600 194.562 600 c 0
@@ -4929,8 +4929,8 @@ SplineSet
  438.657 0 535.585 525.141 588.657 600 c 0
 0 600 m 1
  752 600 l 1
-260.5 97.4619 m 17
- 368.5 -91.5381 131.5 -204 -21 -201 c 9
+260.5 97.4619 m 21
+ 368.5 -91.5381 131.5 -204 -21 -201 c 13
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ma raphala
@@ -4975,7 +4975,7 @@ AnchorPoint: "eT" 507 600 basechar 0
 LayerCount: 2
 Fore
 Refer: 37 2352 N 1 0 0 1 0 0 2
-Refer: 172 -1 N 1 0 0 1 644 0 2
+Refer: 172 -1 S 1 0 0 1 644 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ra raphala
 Substitution2: "IT forms-1" rri
@@ -5027,8 +5027,8 @@ SplineSet
  511.418 272.201 505.705 166.335 498.686 19.5 c 0
 0 600 m 1
  746 600 l 1
-249 0 m 17
- 212.5 -87 144 -156 -21 -201 c 9
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" va raphala
@@ -5083,8 +5083,8 @@ SplineSet
  370.669 221.29 409.438 300.713 433.437 356.713 c 0
 0 600 m 1
  575 600 l 1
-65.7188 0 m 17
- 211.719 30 345.719 134 422.463 246 c 9
+65.7188 0 m 21
+ 211.719 30 345.719 134 422.463 246 c 13
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Sa raphala
@@ -5141,8 +5141,8 @@ SplineSet
  541.229 330.839 400.38 390.129 428.38 600 c 0
 0 600 m 1
  644 600 l 1
-249 0 m 17
- 212.5 -87 144 -156 -21 -201 c 9
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ha raphala
@@ -5175,8 +5175,8 @@ AnchorPoint: "eT" 620 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-582.381 189.863 m 17
- 554.976 53.1417 380.5 -64.2061 275.5 -97.2061 c 9
+582.381 189.863 m 21
+ 554.976 53.1417 380.5 -64.2061 275.5 -97.2061 c 13
 391.926 491.363 m 0
  595.926 170.363 645.852 600 621.852 600 c 0
  579.852 600 585.852 0 648.852 0 c 0
@@ -5404,9 +5404,9 @@ AnchorPoint: "eT" 710 600 basechar 0
 AnchorPoint: "anusvara" 680 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 172 -1 S 1 0 0 1 600 0 2
-Refer: 72 -1 S 1 0 0 1 0 0 2
-LCarets2: 2 0 0 
+Refer: 172 -1 N 1 0 0 1 600 0 2
+Refer: 72 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "AT ligatures-1" Thra AT
 EndChar
 
@@ -6426,19 +6426,60 @@ EndChar
 
 StartChar: kru
 Encoding: 324 -1 324
-Width: 1000
+Width: 1179
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 840 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+1016.07 600 m 0
+ 963 525.141 866.072 0 1002 0 c 0
+ 1088.07 0 1100.07 186.141 884.072 186.141 c 0
+ 597 186.141 524.343 0 658 0 c 0
+ 714 0 732 56 744 176 c 0
+ 758.223 318.231 727 740 499 740 c 0
+ 216 740 120 514.338 120 310.338 c 0
+ 120 151 168 0 288 0 c 0
+ 423 0 468 106 475.038 190 c 0
+ 480.8 258.763 423 335 299 343 c 1
+ 357.043 340.662 410.558 352.406 449.038 416 c 0
+ 492 487 441 577 359 600 c 0
+0 600 m 1
+ 1179 600 l 1
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" kra uT
 Ligature2: "uT ligatures-1" kra UT
 EndChar
 
 StartChar: khru
 Encoding: 325 -1 325
-Width: 1000
+Width: 1064
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 880 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+359 600 m 0
+ 441 577 492 487 449.038 416 c 0
+ 410.558 352.406 357.043 340.662 299 343 c 1
+ 423 335 480.8 258.763 475.038 190 c 0
+ 468 106 423 0 288 0 c 0
+ 168 0 120 151 120 310.338 c 0
+ 120 514.338 216 740 499 740 c 0
+ 827 740 858.223 318.231 844 176 c 0
+ 832 56 814 0 758 0 c 0
+ 656 0 661 496 944 600 c 0
+0 600 m 1
+ 1064 600 l 1
+311 0 m 21
+ 274.5 -87 144 -156 -21 -201 c 13
+EndSplineSet
+Refer: 59 2306 N 1 0 0 1 687 -381 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" khra uT
 Ligature2: "uT ligatures-1" khra UT
@@ -6446,59 +6487,148 @@ EndChar
 
 StartChar: gru
 Encoding: 326 -1 326
-Width: 1000
+Width: 657
 Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+475.486 600 m 0
+ 469.486 351.704 448.486 0 491.681 0 c 0
+197.681 600 m 0
+ 247.486 414.704 261.305 383.116 249.305 299.116 c 0
+ 242.409 250.843 192.341 215.853 145.5 229.412 c 0
+ 106.836 240.604 108.681 301.929 135.305 332.116 c 0
+ 164.966 365.75 225.305 380.116 249.305 347.116 c 0
+384 0 m 0
+ 498 -9 565.413 -62.5967 564 -105 c 0
+ 561 -195 443.902 -234.702 351 -219 c 0
+ 242.258 -200.621 220.5 -184.588 154.5 -106.588 c 0
+0 600 m 1
+ 657 600 l 1
+166.5 61.4121 m 17
+ 292.119 82.4121 379.5 163.413 453.381 238 c 9
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" gra uT
 Ligature2: "uT ligatures-1" gra UT
 EndChar
 
 StartChar: ghru
 Encoding: 327 -1 327
-Width: 1000
+Width: 654
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+472 600 m 0
+ 468.701 343.547 450.701 0 502 0 c 0
+208.298 600 m 0
+ 148 571.547 120 535.547 120 483.547 c 0
+ 120.001 407.892 228 407.547 304.298 423 c 1
+ 228 407.547 136.517 347.769 142 257.547 c 0
+ 146.399 185.161 240.636 180.153 318 197.547 c 0
+ 382.701 212.094 422.701 263.547 466 321 c 0
+381 0 m 0
+ 495 -9 562.413 -62.5967 561 -105 c 0
+ 558 -195 440.902 -234.702 348 -219 c 0
+ 239.258 -200.621 235.5 -178.588 169.5 -100.588 c 0
+0 600 m 1
+ 654 600 l 1
+184.5 28.4121 m 21
+ 315.237 61.0996 393 90 453.381 238 c 9
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" ghra uT
 Ligature2: "uT ligatures-1" ghra UT
 EndChar
 
 StartChar: Gru
 Encoding: 328 -1 328
-Width: 1000
+Width: 780
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+570.015 -177 m 4
+ 496.015 -123.711 477.499 -124.517 403.5 -57 c 13
+ 209.762 -146.581 l 29
+91.5 -168 m 21
+ 157.5 -246 197.644 -326.718 304.5 -354 c 28
+ 389.151 -375.613 511.5 -366 514.5 -276 c 4
+ 515.913 -233.597 472.011 -192 394.011 -192 c 4
+ 351.21 -192 338.011 -219.176 326.011 -237.176 c 13
+EndSplineSet
+Refer: 15 2329 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Gra uT
 Ligature2: "uT ligatures-1" Gra UT
 EndChar
 
 StartChar: cru
 Encoding: 329 -1 329
-Width: 1000
+Width: 1178
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+Refer: 172 -1 S 1 0 0 1 568 45 2
+Refer: 16 2330 N 1 0 0 1 0 0 2
+Refer: 169 -1 N 1 0 0 1 598 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" cra uT
 Ligature2: "uT ligatures-1" cra UT
 EndChar
 
 StartChar: chru
 Encoding: 330 -1 330
-Width: 1000
+Width: 672
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+154.989 -259.375 m 17
+ 220.989 -337.375 281.874 -363.919 376.989 -360.688 c 24
+ 450.891 -358.177 525.489 -336.688 528.489 -246.688 c 0
+ 529.902 -204.284 481.5 -141.688 403.5 -141.688 c 0
+ 360.699 -141.688 347.5 -168.863 335.5 -186.863 c 9
+249 0 m 17
+ 212.5 -87 144 -156 -21 -201 c 9
+EndSplineSet
+Refer: 17 2331 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" chra uT
 Ligature2: "uT ligatures-1" chra UT
 EndChar
 
 StartChar: jru
 Encoding: 331 -1 331
-Width: 1000
+Width: 893
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 600 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+748 600 m 0
+ 700 470 600.072 66 736 66 c 0
+ 822.072 66 768 258 480 258 c 0
+318 600 m 0
+ 453.574 600 493 548.312 493 471.749 c 0
+ 493 389.53 324.999 317.312 237 317.312 c 1
+ 402 332.312 486 278.29 486 164.312 c 0
+ 486 74.3125 447 0 327 0 c 0
+ 233.614 0 153 125.312 120 191.312 c 0
+0 600 m 1
+ 893 600 l 1
+340.5 -36 m 21
+ 280.5 -112.8 175.5 -178.8 43.5 -198 c 13
+EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" jra uT
 Ligature2: "uT ligatures-1" jra UT
@@ -6506,9 +6636,18 @@ EndChar
 
 StartChar: jhru
 Encoding: 332 -1 332
-Width: 1000
+Width: 1263
 Flags: W
+AnchorPoint: "anusvara" 550 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+692.5 90 m 21
+ 686.5 9 648.577 -80.6537 560.5 -123 c 28
+ 389.574 -205.179 278.5 -192 81 -204 c 13
+EndSplineSet
+Refer: 19 2333 N 1 0 0 1 0 0 2
+Refer: 169 -1 N 1 0 0 1 683 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" jhra uT
 Ligature2: "uT ligatures-1" jhra UT
@@ -6516,9 +6655,18 @@ EndChar
 
 StartChar: Jru
 Encoding: 333 -1 333
-Width: 1000
+Width: 1288
 Flags: W
+AnchorPoint: "anusvara" 550 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+677 0 m 21
+ 671 -81 640.298 -109.083 581 -133.5 c 4
+ 479 -175.5 332 -196.5 209 -199.5 c 13
+EndSplineSet
+Refer: 20 2334 N 1 0 0 1 0 0 2
+Refer: 169 -1 N 1 0 0 1 708 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" Jra uT
 Ligature2: "uT ligatures-1" Jra UT
@@ -6526,99 +6674,264 @@ EndChar
 
 StartChar: Tru
 Encoding: 334 -1 334
-Width: 1000
+Width: 639
 Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+510.015 -177 m 0
+ 436.015 -123.711 417.499 -124.517 343.5 -57 c 9
+ 149.762 -146.581 l 25
+31.5 -168 m 17
+ 97.5 -246 137.644 -326.718 244.5 -354 c 24
+ 329.151 -375.613 451.5 -366 454.5 -276 c 0
+ 455.913 -233.597 412.011 -192 334.011 -192 c 0
+ 291.21 -192 278.011 -219.176 266.011 -237.176 c 9
+EndSplineSet
+Refer: 21 2335 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Tra uT
 Ligature2: "uT ligatures-1" Tra UT
 EndChar
 
 StartChar: Thru
 Encoding: 335 -1 335
-Width: 1000
+Width: 639
 Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+Refer: 59 2306 S 1 0 0 1 426 -612 2
+Refer: 334 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Thra uT
 Ligature2: "uT ligatures-1" Thra UT
 EndChar
 
 StartChar: Dru
 Encoding: 336 -1 336
-Width: 1000
+Width: 693
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+570.015 -177 m 4
+ 496.015 -123.711 477.499 -124.517 403.5 -57 c 13
+ 209.762 -146.581 l 29
+91.5 -168 m 21
+ 157.5 -246 197.644 -326.718 304.5 -354 c 28
+ 389.151 -375.613 511.5 -366 514.5 -276 c 4
+ 515.913 -233.597 472.011 -192 394.011 -192 c 4
+ 351.21 -192 338.011 -219.176 326.011 -237.176 c 13
+EndSplineSet
+Refer: 23 2337 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Dra uT
 Ligature2: "uT ligatures-1" Dra UT
 EndChar
 
 StartChar: Dhru
 Encoding: 337 -1 337
-Width: 1000
+Width: 790
 Flags: W
+AnchorPoint: "anusvara" 450 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+594.015 -177 m 0
+ 520.015 -123.711 501.499 -124.517 427.5 -57 c 9
+ 233.762 -146.581 l 25
+115.5 -168 m 17
+ 181.5 -246 221.644 -326.718 328.5 -354 c 24
+ 413.151 -375.613 535.5 -366 538.5 -276 c 0
+ 539.913 -233.597 496.011 -192 418.011 -192 c 0
+ 375.21 -192 362.011 -219.176 350.011 -237.176 c 9
+EndSplineSet
+Refer: 24 2338 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Dhra uT
 Ligature2: "uT ligatures-1" Dhra UT
 EndChar
 
 StartChar: Nru
 Encoding: 338 -1 338
-Width: 1000
+Width: 707
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+271.5 25.8936 m 29
+ 494.5 150 l 25
+535.931 600 m 0
+ 517.931 440.825 492.931 0 567.931 0 c 0
+132.712 600 m 0
+ 159.657 476 31.6572 190 253.539 190 c 0
+ 308.755 190 387.154 278.08 391.539 338 c 0
+ 397.539 420 293.31 428.167 293.539 408 c 0
+ 295.539 232 383.539 482 380.713 600 c 0
+434 0 m 0
+ 548 -9 615.413 -62.5967 614 -105 c 0
+ 611 -195 493.902 -234.702 401 -219 c 0
+ 292.258 -200.621 232.5 -163.106 166.5 -85.1064 c 0
+0 600 m 1
+ 707 600 l 1
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Nra uT
 Ligature2: "uT ligatures-1" Nra UT
 EndChar
 
 StartChar: tru
 Encoding: 339 -1 339
-Width: 1000
+Width: 710
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+AnchorPoint: "eT" 465 600 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+120 372 m 0
+ 176 420 249.933 463.479 338 446 c 0
+ 389.055 435.867 382 390 382 320 c 0
+129.881 98 m 0
+ 246 150 324 218 408 342 c 0
+ 470.594 434.4 483.251 537.271 464.692 600 c 1
+ 537.251 531.271 426.251 0 554.692 0 c 0
+0 600 m 1
+ 710 600 l 1
+451 0 m 0
+ 565 -9 632.413 -62.5967 631 -105 c 0
+ 628 -195 510.902 -234.702 418 -219 c 0
+ 309.258 -200.621 271 -111 205 -33 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" tra uT
 Ligature2: "uT ligatures-1" tra UT
 EndChar
 
 StartChar: thru
 Encoding: 340 -1 340
-Width: 1000
+Width: 752
 Flags: W
+AnchorPoint: "anusvara" 415 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+499.511 0 m 4
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 4
+ 676.511 -195 559.413 -234.702 466.511 -219 c 4
+ 357.769 -200.621 349 -187.588 283 -109.588 c 4
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+263 384 m 0
+ 131 399 122 600 245 600 c 0
+ 341 600 355.644 524.815 335 465 c 0
+ 298.021 357.856 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+0 600 m 1
+ 752 600 l 1
+202 0 m 0
+ 431.999 36 490.462 86 550.463 238 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" thra uT
 Ligature2: "uT ligatures-1" thra UT
 EndChar
 
 StartChar: dru
 Encoding: 341 -1 341
-Width: 1000
+Width: 754
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+AnchorPoint: "eT" 581.966 601.927 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+284.429 600 m 0
+ 172.429 533.927 83.7725 417.704 134.772 345.704 c 0
+ 184.789 275.091 345.96 277.05 347.772 318.704 c 0
+ 350.772 387.704 170.772 318.704 185.772 189.704 c 0
+ 203.169 40.083 300.938 0 476.772 0 c 0
+ 674.772 0 652 417.704 539.772 417.704 c 0
+ 505.855 417.704 475.834 283.906 493 198 c 0
+ 526.384 30.9277 686 60 641 -162 c 0
+0 600 m 1
+ 754 600 l 1
+521 -129 m 0
+ 635 -138 702.413 -191.597 701 -234 c 0
+ 698 -324 580.902 -363.702 488 -348 c 0
+ 379.258 -329.621 357.5 -313.588 291.5 -235.588 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" dra uT
 Ligature2: "uT ligatures-1" dra UT
 EndChar
 
 StartChar: dhru
 Encoding: 342 -1 342
-Width: 1000
+Width: 766
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 450 800 basechar 0
+AnchorPoint: "eT" 595 600 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+594.462 600 m 0
+ 576.462 440.825 551.462 0 626.462 0 c 0
+120 488.129 m 0
+ 151.413 456.33 268.346 422.415 340 470.129 c 0
+ 385.412 500.369 358.771 600 288 600 c 0
+ 216 600 189.972 478.039 225.871 408 c 0
+ 259.093 343.184 335.871 344.128 407.871 366.129 c 1
+ 311.871 340.128 249.872 292 259.871 244 c 0
+ 282.514 135.307 341.872 140 415.871 140 c 0
+ 497.872 140 539.872 218 573.871 294.129 c 0
+167 -67.5879 m 1
+ 564.463 208 l 1
+0 600 m 1
+ 766 600 l 1
+499.511 0 m 0
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 0
+ 676.511 -195 560.133 -229.593 466.511 -219 c 0
+ 401 -211.587 365 -208.588 299 -130.588 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" dhra uT
 Ligature2: "uT ligatures-1" dhra UT
 EndChar
 
 StartChar: nru
 Encoding: 343 -1 343
-Width: 1000
+Width: 893
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 600 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+748 600 m 0
+ 700 470 600.072 66 736 66 c 0
+ 822.072 66 768 258 480 258 c 0
+416.64 555 m 0
+ 299.64 435 223.747 600 318 600 c 0
+ 453.574 600 493 548.312 493 471.749 c 0
+ 493 389.53 324.999 317.312 237 317.312 c 1
+ 402 332.312 486 278.29 486 164.312 c 0
+ 486 74.3125 447 0 327 0 c 0
+ 233.614 0 153 125.312 120 191.312 c 0
+0 600 m 1
+ 893 600 l 1
+349.5 -10.7998 m 21
+ 292.5 -136.8 160.5 -187.8 43.5 -198 c 13
+EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" nra uT
 Ligature2: "uT ligatures-1" nra UT
@@ -6626,29 +6939,63 @@ EndChar
 
 StartChar: pru
 Encoding: 344 -1 344
-Width: 1000
+Width: 575
 Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+343.511 0 m 0
+ 457.511 -9 524.924 -62.5967 523.511 -105 c 0
+ 520.511 -195 403.881 -231.624 310.511 -219 c 0
+ 233.5 -208.587 191.5 -208.587 119.5 -145.588 c 0
+444.091 600 m 0
+ 445.396 366 399.438 0 447.437 0 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.437 216 c 0
+ 370.669 221.29 409.438 300.713 433.437 356.713 c 0
+0 600 m 1
+ 575 600 l 1
+65.7188 0 m 0
+ 211.719 30 345.719 134 422.463 246 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" pra uT
 Ligature2: "uT ligatures-1" pra UT
 EndChar
 
 StartChar: phru
 Encoding: 345 -1 345
-Width: 1000
+Width: 879
 Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+505.5 79.5 m 17
+ 562.5 -6 469.5 -193.5 289.5 -208.5 c 9
+EndSplineSet
+Refer: 32 2347 N 1 0 0 1 0 0 2
+Refer: 50 2369 S 1 0 0 1 639 -90 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" phra uT
 Ligature2: "uT ligatures-1" phra UT
 EndChar
 
 StartChar: bru
 Encoding: 346 -1 346
-Width: 1000
+Width: 1186
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
+EndSplineSet
+Refer: 33 2348 N 1 0 0 1 0 0 2
+Refer: 169 -1 N 1 0 0 1 606 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" bra uT
 Ligature2: "uT ligatures-1" bra UT
@@ -6656,39 +7003,115 @@ EndChar
 
 StartChar: bhru
 Encoding: 347 -1 347
-Width: 1000
+Width: 750
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+390.263 528 m 0
+ 336.263 488 242.629 416.018 150.263 450 c 0
+ 93.0166 471.062 122.126 600 194.562 600 c 0
+ 289.837 600 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 0
+ 534.562 600 553.837 0 604.837 0 c 0
+477 0 m 0
+ 591 -9 658.413 -62.5967 657 -105 c 0
+ 654 -195 537.631 -229.516 444 -219 c 0
+ 378 -211.587 363 -175.588 297 -97.5879 c 0
+0 600 m 1
+ 750 600 l 1
+543 162 m 17
+ 495 103.413 413 47.9121 297 25.4121 c 9
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" bhra uT
 Ligature2: "uT ligatures-1" bhra UT
 EndChar
 
 StartChar: mru
 Encoding: 348 -1 348
-Width: 1000
+Width: 750
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+205.511 600 m 0
+ 244.511 532.412 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 0
+ 534.562 600 553.837 0 604.837 0 c 0
+477 0 m 0
+ 591 -9 658.413 -62.5967 657 -105 c 0
+ 654 -195 537.763 -228.267 444 -219 c 0
+ 369 -211.587 324 -202.587 297 -139.588 c 0
+0 600 m 1
+ 750 600 l 1
+260.5 97.4619 m 17
+ 321 -28.5875 131.5 -124.588 -21 -121.588 c 9
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" mra uT
 Ligature2: "uT ligatures-1" mra UT
 EndChar
 
 StartChar: yru
 Encoding: 349 -1 349
-Width: 1000
+Width: 752
 Flags: W
+AnchorPoint: "anusvara" 415 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+499.511 0 m 0
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 0
+ 676.511 -195 559.799 -232.214 466.511 -219 c 0
+ 393 -208.587 387 -193.588 321 -115.588 c 0
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+190.511 600 m 0
+ 295.511 570 290.143 512.507 277.511 444 c 0
+ 260.798 353.367 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+0 600 m 1
+ 752 600 l 1
+138.463 -60 m 17
+ 368.462 -24 490.462 86 550.463 238 c 9
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" yra uT
 Ligature2: "uT ligatures-1" yra UT
 EndChar
 
 StartChar: rru
 Encoding: 350 -1 350
-Width: 1000
+Width: 757
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 444.441 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+612.174 600 m 0
+ 564.174 470 464.246 66 600.174 66 c 0
+ 686.246 66 632.174 258 344.174 258 c 0
+270.955 320 m 0
+ 176.955 292 120.456 274 120.456 203.312 c 0
+ 120.456 138 176.727 58 334.727 0 c 0
+252.457 600 m 0
+ 291.457 548.312 324.174 442 324.174 342 c 0
+ 324.174 251.104 292.955 158 190.955 250 c 0
+0 600 m 1
+ 757 600 l 1
+EndSplineSet
+Refer: 172 -1 S 1 0 0 1 644 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" rra uT
 Ligature2: "uT ligatures-1" rra UT
@@ -6696,9 +7119,17 @@ EndChar
 
 StartChar: lru
 Encoding: 351 -1 351
-Width: 1000
+Width: 1215
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
+EndSplineSet
+Refer: 38 2354 N 1 0 0 1 0 0 2
+Refer: 169 -1 N 1 0 0 1 635 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" lra uT
 Ligature2: "uT ligatures-1" lra UT
@@ -6706,9 +7137,17 @@ EndChar
 
 StartChar: vru
 Encoding: 352 -1 352
-Width: 1000
+Width: 1176
 Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
+EndSplineSet
+Refer: 39 2357 N 1 0 0 1 0 0 2
+Refer: 169 -1 N 1 0 0 1 596 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" vra uT
 Ligature2: "uT ligatures-1" vra UT
@@ -6716,39 +7155,123 @@ EndChar
 
 StartChar: zru
 Encoding: 353 -1 353
-Width: 1000
+Width: 716
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 369.16 800 basechar 0
+AnchorPoint: "eT" 544.16 600 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+120 226 m 0
+ 228 234 321.709 307.964 381.459 420 c 0
+ 416.398 485.514 413.458 600 319.459 600 c 0
+ 167.76 600 154 364 498 292 c 0
+175.459 0 m 0
+ 288.188 28 442.917 124 508.188 220 c 0
+544.376 600 m 0
+ 526.376 440.825 501.376 0 576.376 0 c 0
+0 600 m 1
+ 716 600 l 1
+469 0 m 0
+ 583 -9 650.413 -62.5967 649 -105 c 0
+ 646 -195 528.902 -234.702 436 -219 c 0
+ 327.258 -200.621 301 -181.588 235 -103.588 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" zra uT
 Ligature2: "uT ligatures-1" zra UT
 EndChar
 
 StartChar: Sru
 Encoding: 354 -1 354
-Width: 1000
+Width: 575
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+159.091 558 m 1
+ 407.438 346.713 l 1
+444.091 600 m 0
+ 445.396 366 399.438 0 447.438 0 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.438 216 c 0
+ 370.669 221.29 409.438 300.713 433.438 356.713 c 0
+302 0 m 4
+ 416 -9 483.413 -62.5967 482 -105 c 4
+ 479 -195 363.201 -220.861 269 -219 c 4
+ 197.5 -217.587 170.5 -157.587 128.5 -112.588 c 4
+0 600 m 1
+ 575 600 l 1
+95.5 55.4121 m 17
+ 241.5 85.4121 345.719 134 422.463 246 c 9
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Sra uT
 Ligature2: "uT ligatures-1" Sra UT
 EndChar
 
 StartChar: sru
 Encoding: 355 -1 355
-Width: 1000
+Width: 828
+VWidth: 0
 Flags: W
+AnchorPoint: "eT" 656 600 basechar 0
+AnchorPoint: "anusvara" 444.441 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+602.75 232 m 0
+ 578.75 96 490 96.4541 366 52.4541 c 0
+628.75 266 m 0
+ 450.75 206 378.75 262 344.75 290 c 0
+270.955 320 m 0
+ 176.955 292 120.456 274 120.456 203.312 c 0
+ 120.456 138 180 62 266 0 c 0
+252.457 600 m 0
+ 291.457 548.312 324.174 442 324.174 342 c 0
+ 324.174 251.104 292.955 158 190.955 250 c 0
+656.75 600 m 0
+ 638.75 440.825 613.75 0 688.75 0 c 0
+0 600 m 1
+ 828 600 l 1
+573 0 m 0
+ 687 -9 754.413 -62.5967 753 -105 c 0
+ 750 -195 634.201 -220.861 540 -219 c 0
+ 468.5 -217.588 384 -160.546 342 -115.546 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" sra uT
 Ligature2: "uT ligatures-1" sra UT
 EndChar
 
 StartChar: hru
 Encoding: 356 -1 356
-Width: 1000
+Width: 924
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 780 800 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+146 900 m 0
+ 371 900 512 600 449.038 416 c 0
+ 424.973 345.674 357.043 340.662 299 343 c 1
+ 423 335 480.8 258.763 475.038 190 c 0
+ 468 106 423 0 288 0 c 0
+ 168 0 120 151 120 310.338 c 0
+ 120 514.338 216 740 499 740 c 0
+ 727 740 758.223 318.231 744 176 c 0
+ 732 56 714 0 658 0 c 0
+ 556 0 561 496 844 600 c 0
+0 600 m 1
+ 924 600 l 1
+249 0 m 21
+ 212.5 -87 144 -156 -21 -201 c 13
+EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" hra uT
 Ligature2: "uT ligatures-1" hra UT
@@ -6756,29 +7279,72 @@ EndChar
 
 StartChar: Lru
 Encoding: 357 -1 357
-Width: 1000
+Width: 808
 Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+570.015 -177 m 0
+ 496.015 -123.711 477.499 -124.517 403.5 -57 c 9
+ 209.762 -146.581 l 25
+91.5 -168 m 17
+ 157.5 -246 197.644 -326.718 304.5 -354 c 24
+ 389.151 -375.613 511.5 -366 514.5 -276 c 0
+ 515.913 -233.597 472.011 -192 394.011 -192 c 0
+ 351.21 -192 338.011 -219.176 326.011 -237.176 c 9
+EndSplineSet
+Refer: 44 2355 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Lra uT
 Ligature2: "uT ligatures-1" Lra UT
 EndChar
 
 StartChar: kSru
 Encoding: 358 -1 358
-Width: 1000
+Width: 779
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+AnchorPoint: "eT" 620 600 basechar 0
 LayerCount: 2
-LCarets2: 2 0 0 
+Fore
+SplineSet
+582.381 189.863 m 17
+ 554.976 53.1417 299.5 -4.57422 194.5 -37.5742 c 13
+391.926 491.363 m 0
+ 595.926 170.363 645.852 600 621.852 600 c 0
+ 579.852 600 585.852 0 648.852 0 c 0
+286.926 431.363 m 0
+ 145.926 533.363 187.926 689.363 280.926 695.363 c 0
+ 412.788 703.871 442.926 560.363 391.926 491.363 c 0
+ 314.24 386.26 186.852 481.862 126.852 289.862 c 0
+ 99.1406 201.188 158.551 143.038 249.852 125.862 c 0
+ 338.925 109.106 388.282 192.322 429.852 272.862 c 0
+ 446.417 304.959 344.515 347.957 345.852 311.862 c 0
+ 348.852 230.862 348.381 203.725 462.381 119.725 c 0
+0 600 m 1
+ 779 600 l 1
+536.5 0 m 0
+ 650.5 -9 717.913 -62.5967 716.5 -105 c 0
+ 713.5 -195 597.701 -220.861 503.5 -219 c 0
+ 432 -217.588 328.5 -184.106 286.5 -139.106 c 0
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "uT ligatures-1" kSra uT
 Ligature2: "uT ligatures-1" kSra UT
 EndChar
 
 StartChar: jJru
 Encoding: 359 -1 359
-Width: 1000
+Width: 1201
+VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 908 800 basechar 0
 LayerCount: 2
+Fore
+Refer: 190 -1 N 1 0 0 1 0 0 2
+Refer: 343 -1 N 1 0 0 1 308 0 2
 LCarets2: 2 0 0 
 Ligature2: "uT ligatures-1" jJra uT
 Ligature2: "uT ligatures-1" jJra UT
