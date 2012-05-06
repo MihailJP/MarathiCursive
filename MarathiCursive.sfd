@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336318030
+ModificationTime: 1336324632
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,12 +47,14 @@ Lookup: 4 0 0 "uT ligatures"  {"uT ligatures-1"  } ['blws' ('deva' <'dflt' > ) ]
 Lookup: 4 0 0 "AT ligatures"  {"AT ligatures-1"  } ['psts' ('deva' <'dflt' > ) ]
 Lookup: 4 0 0 "IT ligatures"  {"IT ligatures-1"  } ['psts' ('deva' <'dflt' > ) ]
 Lookup: 5 0 0 "Contextual forms"  {"Contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "kara ligatures"  {"kara ligatures-1"  } ['calt' ('deva' <'dflt' > ) ]
+Lookup: 5 0 0 "kara contextual substitution"  {"kara contextual substitution-1"  } ['calt' ('deva' <'dflt' > ) ]
 Lookup: 5 0 0 "sara contextual forms"  {"sara contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
 Lookup: 5 0 0 "Ara contextual forms"  {"Ara contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
 Lookup: 5 0 0 "Rounded ra substitution"  {"Rounded ra substitution-1"  } ['calt' ('deva' <'dflt' > ) ]
 Lookup: 1 0 0 "IT forms"  {"IT forms-1"  } []
 Lookup: 1 0 0 "Devanagari-like forms"  {"Devanagari-like forms-1" ("alt" ) } []
+Lookup: 1 0 0 "kara ligated forms"  {"kara ligated forms-1"  } []
+Lookup: 1 0 0 "kaara ligated forms"  {"kaara ligated forms-1"  } []
 Lookup: 1 0 0 "post-sa forms"  {"post-sa forms-1"  } []
 Lookup: 1 0 0 "post-aa forms"  {"post-aa forms-1"  } []
 Lookup: 1 0 0 "Rounded ra"  {"Rounded ra-1"  } []
@@ -60,6 +62,34 @@ Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('d
 Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ContextSub2: class "kara contextual substitution-1"  4 4 4 2
+  Class: 2 ka
+  Class: 2 kA
+  Class: 11 ra rA ri ru
+  BClass: 2 ka
+  BClass: 2 kA
+  BClass: 11 ra rA ri ru
+  FClass: 2 ka
+  FClass: 2 kA
+  FClass: 11 ra rA ri ru
+ 2 0 0
+  ClsList: 1 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "kara ligated forms" 
+  SeqLookup: 1 "kara ligated forms" 
+ 2 0 0
+  ClsList: 2 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "kaara ligated forms" 
+  SeqLookup: 1 "kaara ligated forms" 
+  ClassNames: "All_Others"  "ka"  "kA"  "ra"  
+  BClassNames: "All_Others"  "ka"  "kA"  "ra"  
+  FClassNames: "All_Others"  "ka"  "kA"  "ra"  
+EndFPST
 ContextSub2: class "Rounded ra substitution-1"  3 3 3 1
   Class: 32 kha tha da dha pa ya ha khra hra
   Class: 2 ra
@@ -388,6 +418,7 @@ SplineSet
 0 600 m 1
  781 600 l 1
 EndSplineSet
+Substitution2: "kara ligated forms-1" void
 Substitution2: "IT forms-1" ki
 EndChar
 
@@ -996,6 +1027,8 @@ SplineSet
 0 600 m 1
  689 600 l 1
 EndSplineSet
+Substitution2: "kaara ligated forms-1" kAra
+Substitution2: "kara ligated forms-1" kara
 Substitution2: "Rounded ra-1" ra.round
 Substitution2: "post-aa forms-1" ra.postaa
 Substitution2: "post-sa forms-1" ra.postsa
@@ -1421,6 +1454,7 @@ SplineSet
 0 600 m 1
  881 600 l 1
 EndSplineSet
+Substitution2: "kaara ligated forms-1" void
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" ka AT
 EndChar
@@ -1945,6 +1979,8 @@ LayerCount: 2
 Fore
 Refer: 47 2366 N 1 0 0 1 563 0 2
 Refer: 215 -1 N 1 0 0 1 0 0 2
+Substitution2: "kaara ligated forms-1" kArA
+Substitution2: "kara ligated forms-1" karA
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" ra AT
 EndChar
@@ -2640,6 +2676,8 @@ LayerCount: 2
 Fore
 Refer: 49 2368 N 1 0 0 1 689 0 2
 Refer: 37 2352 N 1 0 0 1 0 0 2
+Substitution2: "kaara ligated forms-1" kAri
+Substitution2: "kara ligated forms-1" kari
 Substitution2: "post-sa forms-1" ri.postsa
 LCarets2: 1 0 
 Ligature2: "IT ligatures-1" ra IT
@@ -3452,6 +3490,8 @@ SplineSet
 0 600 m 1
  757 600 l 1
 EndSplineSet
+Substitution2: "kaara ligated forms-1" kAru
+Substitution2: "kara ligated forms-1" karu
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" ra uT
 Ligature2: "uT ligatures-1" ra UT
@@ -8666,7 +8706,6 @@ SplineSet
 0 600 m 1
  480 600 l 1
 EndSplineSet
-Ligature2: "kara ligatures-1" ka ra
 EndChar
 
 StartChar: kAra
@@ -8693,7 +8732,6 @@ SplineSet
 0 600 m 1
  480 600 l 1
 EndSplineSet
-Ligature2: "kara ligatures-1" kA ra
 EndChar
 
 StartChar: karA
@@ -8707,7 +8745,6 @@ LayerCount: 2
 Fore
 Refer: 47 2366 S 1 0 0 1 480 0 2
 Refer: 399 -1 N 1 0 0 1 0 0 2
-Ligature2: "kara ligatures-1" ka rA
 EndChar
 
 StartChar: kArA
@@ -8721,7 +8758,6 @@ LayerCount: 2
 Fore
 Refer: 47 2366 S 1 0 0 1 480 0 2
 Refer: 400 -1 N 1 0 0 1 0 0 2
-Ligature2: "kara ligatures-1" kA rA
 EndChar
 
 StartChar: kari
@@ -8734,7 +8770,6 @@ LayerCount: 2
 Fore
 Refer: 49 2368 S 1 0 0 1 480 0 2
 Refer: 399 -1 N 1 0 0 1 0 0 2
-Ligature2: "kara ligatures-1" ka ri
 EndChar
 
 StartChar: kAri
@@ -8747,7 +8782,6 @@ LayerCount: 2
 Fore
 Refer: 49 2368 S 1 0 0 1 480 0 2
 Refer: 400 -1 N 1 0 0 1 0 0 2
-Ligature2: "kara ligatures-1" kA ri
 EndChar
 
 StartChar: karu
@@ -8774,7 +8808,6 @@ SplineSet
 0 600 m 1
  935 600 l 1
 EndSplineSet
-Ligature2: "kara ligatures-1" ka ru
 EndChar
 
 StartChar: kAru
@@ -8803,7 +8836,6 @@ SplineSet
 0 600 m 1
  935 600 l 1
 EndSplineSet
-Ligature2: "kara ligatures-1" kA ru
 EndChar
 
 StartChar: ra.postsa
