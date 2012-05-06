@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336267878
+ModificationTime: 1336268460
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -3507,7 +3507,7 @@ SplineSet
  -478.238 -259 l 29
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "Rakaar-1" virAma ra
+Ligature2: "Rakaar-1" ra virAma 
 EndChar
 
 StartChar: ardhaka
