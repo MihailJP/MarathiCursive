@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336267580
+ModificationTime: 1336267878
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,13 +51,16 @@ Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('d
 Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ContextSub2: class "iT forms-1"  3 3 3 1
+ContextSub2: class "iT forms-1"  4 4 4 5
   Class: 2 iT
-  Class: 119 ka kha ga gha Ga ca cha ja jha Ja Ta Tha Da Dha Na ta tha da dha na pa pha ba bha ma ya ra la va za Sa sa ha La kSa jJa
+  Class: 326 ka kha ga gha Ga ca cha ja jha Ja Ta Tha Da Dha Na ta tha da dha na pa pha ba bha ma ya ra la va za Sa sa ha La kSa jJa tha.alt da.alt dha.alt pa.alt ma.alt ya.alt ra.alt kra khra gra ghra Gra cra chra jra jhra Jra Tra Thra Dra Dhra Nra tra thra dra dhra nra pra phra bra bhra mra yra rra lra vra zra Sra sra hra Lra kSra jJra
+  Class: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
   BClass: 2 iT
-  BClass: 119 ka kha ga gha Ga ca cha ja jha Ja Ta Tha Da Dha Na ta tha da dha na pa pha ba bha ma ya ra la va za Sa sa ha La kSa jJa
+  BClass: 326 ka kha ga gha Ga ca cha ja jha Ja Ta Tha Da Dha Na ta tha da dha na pa pha ba bha ma ya ra la va za Sa sa ha La kSa jJa tha.alt da.alt dha.alt pa.alt ma.alt ya.alt ra.alt kra khra gra ghra Gra cra chra jra jhra Jra Tra Thra Dra Dhra Nra tra thra dra dhra nra pra phra bra bhra mra yra rra lra vra zra Sra sra hra Lra kSra jJra
+  BClass: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
   FClass: 2 iT
-  FClass: 119 ka kha ga gha Ga ca cha ja jha Ja Ta Tha Da Dha Na ta tha da dha na pa pha ba bha ma ya ra la va za Sa sa ha La kSa jJa
+  FClass: 326 ka kha ga gha Ga ca cha ja jha Ja Ta Tha Da Dha Na ta tha da dha na pa pha ba bha ma ya ra la va za Sa sa ha La kSa jJa tha.alt da.alt dha.alt pa.alt ma.alt ya.alt ra.alt kra khra gra ghra Gra cra chra jra jhra Jra Tra Thra Dra Dhra Nra tra thra dra dhra nra pra phra bra bhra mra yra rra lra vra zra Sra sra hra Lra kSra jJra
+  FClass: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -65,9 +68,37 @@ ContextSub2: class "iT forms-1"  3 3 3 1
  2
   SeqLookup: 0 "IT forms" 
   SeqLookup: 1 "IT forms" 
-  ClassNames: "All_Others"  "iT"  "Full"  
-  BClassNames: "All_Others"  "iT"  "Full"  
-  FClassNames: "All_Others"  "iT"  "Full"  
+ 3 0 0
+  ClsList: 1 3 2
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "IT forms" 
+  SeqLookup: 2 "IT forms" 
+ 4 0 0
+  ClsList: 1 3 3 2
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "IT forms" 
+  SeqLookup: 3 "IT forms" 
+ 5 0 0
+  ClsList: 1 3 3 3 2
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "IT forms" 
+  SeqLookup: 4 "IT forms" 
+ 6 0 0
+  ClsList: 1 3 3 3 3 2
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "IT forms" 
+  SeqLookup: 5 "IT forms" 
+  ClassNames: "All_Others"  "iT"  "Full"  "Half"  
+  BClassNames: "All_Others"  "iT"  "Full"  "Half"  
+  FClassNames: "All_Others"  "iT"  "Full"  "Half"  
 EndFPST
 LangName: 1033 
 Encoding: Custom
