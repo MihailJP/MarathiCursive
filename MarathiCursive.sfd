@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336268460
+ModificationTime: 1336269038
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -117,7 +117,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvAra2"  "Above-base mark2mark-1" "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 396 396
+BeginChars: 399 399
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -8215,6 +8215,30 @@ Refer: 190 -1 N 1 0 0 1 0 0 2
 Refer: 379 -1 N 1 0 0 1 308 0 2
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhajJa raphala
+EndChar
+
+StartChar: space
+Encoding: 396 32 396
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: zeronojoin
+Encoding: 397 8204 397
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: zerojoin
+Encoding: 398 8205 398
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
