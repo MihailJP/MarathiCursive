@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336273643
+ModificationTime: 1336318030
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,12 +47,70 @@ Lookup: 4 0 0 "uT ligatures"  {"uT ligatures-1"  } ['blws' ('deva' <'dflt' > ) ]
 Lookup: 4 0 0 "AT ligatures"  {"AT ligatures-1"  } ['psts' ('deva' <'dflt' > ) ]
 Lookup: 4 0 0 "IT ligatures"  {"IT ligatures-1"  } ['psts' ('deva' <'dflt' > ) ]
 Lookup: 5 0 0 "Contextual forms"  {"Contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
+Lookup: 4 0 0 "kara ligatures"  {"kara ligatures-1"  } ['calt' ('deva' <'dflt' > ) ]
+Lookup: 5 0 0 "sara contextual forms"  {"sara contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
+Lookup: 5 0 0 "Ara contextual forms"  {"Ara contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
+Lookup: 5 0 0 "Rounded ra substitution"  {"Rounded ra substitution-1"  } ['calt' ('deva' <'dflt' > ) ]
 Lookup: 1 0 0 "IT forms"  {"IT forms-1"  } []
 Lookup: 1 0 0 "Devanagari-like forms"  {"Devanagari-like forms-1" ("alt" ) } []
+Lookup: 1 0 0 "post-sa forms"  {"post-sa forms-1"  } []
+Lookup: 1 0 0 "post-aa forms"  {"post-aa forms-1"  } []
+Lookup: 1 0 0 "Rounded ra"  {"Rounded ra-1"  } []
 Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('deva' <'dflt' > ) ]
 Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ContextSub2: class "Rounded ra substitution-1"  3 3 3 1
+  Class: 32 kha tha da dha pa ya ha khra hra
+  Class: 2 ra
+  BClass: 32 kha tha da dha pa ya ha khra hra
+  BClass: 2 ra
+  FClass: 32 kha tha da dha pa ya ha khra hra
+  FClass: 2 ra
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "Rounded ra" 
+  ClassNames: "All_Others"  "letters"  "ra"  
+  BClassNames: "All_Others"  "letters"  "ra"  
+  FClassNames: "All_Others"  "letters"  "ra"  
+EndFPST
+ContextSub2: class "Ara contextual forms-1"  3 3 3 1
+  Class: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
+  Class: 2 ra
+  BClass: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
+  BClass: 2 ra
+  FClass: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
+  FClass: 2 ra
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "post-aa forms" 
+  ClassNames: "All_Others"  "aa"  "ra"  
+  BClassNames: "All_Others"  "aa"  "ra"  
+  FClassNames: "All_Others"  "aa"  "ra"  
+EndFPST
+ContextSub2: class "sara contextual forms-1"  3 3 3 1
+  Class: 2 sa
+  Class: 5 ra ri
+  BClass: 2 sa
+  BClass: 5 ra ri
+  FClass: 2 sa
+  FClass: 5 ra ri
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "post-sa forms" 
+  ClassNames: "All_Others"  "sa"  "ra"  
+  BClassNames: "All_Others"  "sa"  "ra"  
+  FClassNames: "All_Others"  "sa"  "ra"  
+EndFPST
 ContextSub2: class "Contextual forms-1"  3 3 3 1
   Class: 22 tha da dha pa ma ya ra
   Class: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
@@ -136,7 +194,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvAra2"  "Above-base mark2mark-1" "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 407 407
+BeginChars: 411 411
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -938,6 +996,9 @@ SplineSet
 0 600 m 1
  689 600 l 1
 EndSplineSet
+Substitution2: "Rounded ra-1" ra.round
+Substitution2: "post-aa forms-1" ra.postaa
+Substitution2: "post-sa forms-1" ra.postsa
 Substitution2: "Devanagari-like forms-1" ra.alt
 Substitution2: "IT forms-1" ri
 EndChar
@@ -1180,7 +1241,7 @@ Flags: W
 AnchorPoint: "anusvara" 200 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 0 0 2
+Refer: 49 2368 N 1 0 0 1 0 0 2
 Substitution2: "IT forms-1" void
 EndChar
 
@@ -2579,6 +2640,7 @@ LayerCount: 2
 Fore
 Refer: 49 2368 N 1 0 0 1 689 0 2
 Refer: 37 2352 N 1 0 0 1 0 0 2
+Substitution2: "post-sa forms-1" ri.postsa
 LCarets2: 1 0 
 Ligature2: "IT ligatures-1" ra IT
 EndChar
@@ -8604,6 +8666,7 @@ SplineSet
 0 600 m 1
  480 600 l 1
 EndSplineSet
+Ligature2: "kara ligatures-1" ka ra
 EndChar
 
 StartChar: kAra
@@ -8630,6 +8693,7 @@ SplineSet
 0 600 m 1
  480 600 l 1
 EndSplineSet
+Ligature2: "kara ligatures-1" kA ra
 EndChar
 
 StartChar: karA
@@ -8643,6 +8707,7 @@ LayerCount: 2
 Fore
 Refer: 47 2366 S 1 0 0 1 480 0 2
 Refer: 399 -1 N 1 0 0 1 0 0 2
+Ligature2: "kara ligatures-1" ka rA
 EndChar
 
 StartChar: kArA
@@ -8656,6 +8721,7 @@ LayerCount: 2
 Fore
 Refer: 47 2366 S 1 0 0 1 480 0 2
 Refer: 400 -1 N 1 0 0 1 0 0 2
+Ligature2: "kara ligatures-1" kA rA
 EndChar
 
 StartChar: kari
@@ -8668,6 +8734,7 @@ LayerCount: 2
 Fore
 Refer: 49 2368 S 1 0 0 1 480 0 2
 Refer: 399 -1 N 1 0 0 1 0 0 2
+Ligature2: "kara ligatures-1" ka ri
 EndChar
 
 StartChar: kAri
@@ -8680,6 +8747,7 @@ LayerCount: 2
 Fore
 Refer: 49 2368 S 1 0 0 1 480 0 2
 Refer: 400 -1 N 1 0 0 1 0 0 2
+Ligature2: "kara ligatures-1" kA ri
 EndChar
 
 StartChar: karu
@@ -8706,6 +8774,7 @@ SplineSet
 0 600 m 1
  935 600 l 1
 EndSplineSet
+Ligature2: "kara ligatures-1" ka ru
 EndChar
 
 StartChar: kAru
@@ -8733,6 +8802,74 @@ SplineSet
  813.822 66 775.75 382.5 490.75 -37.5 c 0
 0 600 m 1
  935 600 l 1
+EndSplineSet
+Ligature2: "kara ligatures-1" kA ru
+EndChar
+
+StartChar: ra.postsa
+Encoding: 407 -1 407
+Width: 280
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 131 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-186.25 215.804 m 0
+ -220.815 195.471 -9.25 416.804 122.75 299.804 c 0
+ 279.316 161.029 49.5 -12 19.5 -12 c 0
+ -10.0469 -12 126.924 52.6445 187.5 24 c 0
+ 296.695 -27.6348 287.355 -175.143 406.5 -195 c 0
+ 516.58 -213.347 580.5 -156 655.5 -54 c 0
+0 600 m 1
+ 280 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ri.postsa
+Encoding: 408 -1 408
+Width: 624
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 S 1 0 0 1 280 0 2
+Refer: 407 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ra.postaa
+Encoding: 409 -1 409
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 100 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-160.256 0 m 0
+ -55.2559 71.8037 76.2207 40.1289 94.9883 -24.1963 c 0
+ 114.244 -90.1963 226.744 -180.196 286.744 -195 c 0
+ 395.094 -221.732 454.744 -183.196 511.744 -138.196 c 0
+EndSplineSet
+EndChar
+
+StartChar: ra.round
+Encoding: 410 -1 410
+Width: 512
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 207.316 800 basechar 0
+AnchorPoint: "eT" 107.316 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+120.816 600 m 1
+ 255.816 600 318.816 576 318.816 447 c 0
+ 318.816 335.959 129.816 372 120.816 279 c 0
+ 105.146 117.063 318.816 0 432.816 0 c 1
 EndSplineSet
 EndChar
 EndChars
