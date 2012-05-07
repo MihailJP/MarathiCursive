@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336351407
+ModificationTime: 1336363267
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,6 +44,7 @@ Lookup: 4 0 0 "Rakaar"  {"Rakaar-1"  } ['blwf' ('dev2' <'dflt' > ) ]
 Lookup: 4 0 0 "Half forms"  {"Half forms-1"  } ['half' ('dev2' <'dflt' > ) ]
 Lookup: 4 0 0 "Vattu forms"  {"Vattu forms-1"  } ['vatu' ('dev2' <'dflt' > ) ]
 Lookup: 5 0 0 "iT forms"  {"iT forms-1"  } ['pres' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "above-base matra conjunction"  {"above-base matra conjunction-1"  } ['abvs' ('dev2' <'dflt' > ) ]
 Lookup: 4 0 0 "uT ligatures"  {"uT ligatures-1"  } ['blws' ('dev2' <'dflt' > ) ]
 Lookup: 4 0 0 "AT ligatures"  {"AT ligatures-1"  } ['psts' ('dev2' <'dflt' > ) ]
 Lookup: 4 0 0 "IT ligatures"  {"IT ligatures-1"  } ['psts' ('dev2' <'dflt' > ) ]
@@ -52,17 +53,120 @@ Lookup: 5 0 0 "kara contextual substitution"  {"kara contextual substitution-1" 
 Lookup: 5 0 0 "sara contextual forms"  {"sara contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
 Lookup: 5 0 0 "Ara contextual forms"  {"Ara contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
 Lookup: 5 0 0 "Rounded ra substitution"  {"Rounded ra substitution-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "u and ra substitution"  {"u and ra substitution-1"  } ['RQD ' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
 Lookup: 1 0 0 "IT forms"  {"IT forms-1"  } []
 Lookup: 1 0 0 "Devanagari-like forms"  {"Devanagari-like forms-1" ("alt" ) } []
 Lookup: 1 0 0 "kara ligated forms"  {"kara ligated forms-1"  } []
 Lookup: 1 0 0 "kaara ligated forms"  {"kaara ligated forms-1"  } []
-Lookup: 1 0 0 "post-sa forms"  {"post-sa forms-1"  } []
-Lookup: 1 0 0 "post-aa forms"  {"post-aa forms-1"  } []
-Lookup: 1 0 0 "Rounded ra"  {"Rounded ra-1"  } []
+Lookup: 1 0 0 "post-sa forms"  {"post-sa forms-1" ("postsa" ) } []
+Lookup: 1 0 0 "post-aa forms"  {"post-aa forms-1" ("postaa" ) } []
+Lookup: 1 0 0 "Rounded ra"  {"Rounded ra-1" ("round" ) } []
+Lookup: 1 0 0 "pre-ra forms of uT"  {"pre-ra forms of uT-1" ("prera" ) } []
+Lookup: 1 0 0 "ura1"  {"ura1-1" ("postu1" ) } []
+Lookup: 1 0 0 "ura2"  {"ura2-1" ("postu2" ) } []
+Lookup: 1 0 0 "ura3"  {"ura3-1" ("postu3" ) } []
+Lookup: 1 0 0 "ura4"  {"ura4-1" ("postu4" ) } []
+Lookup: 1 0 0 "ura5"  {"ura5-1" ("postu5" ) } []
 Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('dev2' <'dflt' > ) ]
 Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('dev2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ContextSub2: class "u and ra substitution-1"  8 8 8 10
+  Class: 97 gu ghu Nu thu pu bhu mu yu zu Su kSu gru ghru Nru tru thru dhru pru bhru mru yru zru Sru sru kSru
+  Class: 3 Dhu
+  Class: 21 chru Tru Thru Dru dru
+  Class: 12 Gu chu Du Lu
+  Class: 19 Gru Tu Thu Dhru Lru
+  Class: 8 ra rA ri
+  Class: 8 zerojoin
+  BClass: 97 gu ghu Nu thu pu bhu mu yu zu Su kSu gru ghru Nru tru thru dhru pru bhru mru yru zru Sru sru kSru
+  BClass: 3 Dhu
+  BClass: 21 chru Tru Thru Dru dru
+  BClass: 12 Gu chu Du Lu
+  BClass: 19 Gru Tu Thu Dhru Lru
+  BClass: 8 ra rA ri
+  BClass: 8 zerojoin
+  FClass: 97 gu ghu Nu thu pu bhu mu yu zu Su kSu gru ghru Nru tru thru dhru pru bhru mru yru zru Sru sru kSru
+  FClass: 3 Dhu
+  FClass: 21 chru Tru Thru Dru dru
+  FClass: 12 Gu chu Du Lu
+  FClass: 19 Gru Tu Thu Dhru Lru
+  FClass: 8 ra rA ri
+  FClass: 8 zerojoin
+ 2 0 0
+  ClsList: 1 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 1 "ura1" 
+ 2 0 0
+  ClsList: 2 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 1 "ura2" 
+ 2 0 0
+  ClsList: 3 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 1 "ura3" 
+ 2 0 0
+  ClsList: 4 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 1 "ura4" 
+ 2 0 0
+  ClsList: 5 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 1 "ura5" 
+ 3 0 0
+  ClsList: 1 7 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 2 "ura1" 
+ 3 0 0
+  ClsList: 2 7 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 2 "ura2" 
+ 3 0 0
+  ClsList: 3 7 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 2 "ura3" 
+ 3 0 0
+  ClsList: 4 7 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 2 "ura4" 
+ 3 0 0
+  ClsList: 5 7 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "pre-ra forms of uT" 
+  SeqLookup: 2 "ura5" 
+  ClassNames: "All_Others"  "ukaar1"  "ukaar2"  "ukaar3"  "ukaar4"  "ukaar5"  "ra"  "zwj"  
+  BClassNames: "All_Others"  "ukaar1"  "ukaar2"  "ukaar3"  "ukaar4"  "ukaar5"  "ra"  "zwj"  
+  FClassNames: "All_Others"  "ukaar1"  "ukaar2"  "ukaar3"  "ukaar4"  "ukaar5"  "ra"  "zwj"  
+EndFPST
 ContextSub2: class "kara contextual substitution-1"  5 5 5 4
   Class: 2 ka
   Class: 2 kA
@@ -108,16 +212,19 @@ ContextSub2: class "kara contextual substitution-1"  5 5 5 4
   BClassNames: "All_Others"  "ka"  "kA"  "ra"  "zwj"  
   FClassNames: "All_Others"  "ka"  "kA"  "ra"  "zwj"  
 EndFPST
-ContextSub2: class "Rounded ra substitution-1"  4 4 4 2
+ContextSub2: class "Rounded ra substitution-1"  5 5 5 4
   Class: 32 kha tha da dha pa ya ha khra hra
-  Class: 2 ra
+  Class: 5 ra ri
   Class: 8 zerojoin
+  Class: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
   BClass: 32 kha tha da dha pa ya ha khra hra
-  BClass: 2 ra
+  BClass: 5 ra ri
   BClass: 8 zerojoin
+  BClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
   FClass: 32 kha tha da dha pa ya ha khra hra
-  FClass: 2 ra
+  FClass: 5 ra ri
   FClass: 8 zerojoin
+  FClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -130,20 +237,38 @@ ContextSub2: class "Rounded ra substitution-1"  4 4 4 2
   FClsList:
  1
   SeqLookup: 2 "Rounded ra" 
-  ClassNames: "All_Others"  "letters"  "ra"  "zwj"  
-  BClassNames: "All_Others"  "letters"  "ra"  "zwj"  
-  FClassNames: "All_Others"  "letters"  "ra"  "zwj"  
+ 3 0 0
+  ClsList: 1 4 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "Rounded ra" 
+ 4 0 0
+  ClsList: 1 4 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 3 "Rounded ra" 
+  ClassNames: "All_Others"  "letters"  "ra"  "zwj"  "ekaar"  
+  BClassNames: "All_Others"  "letters"  "ra"  "zwj"  "ekaar"  
+  FClassNames: "All_Others"  "letters"  "ra"  "zwj"  "ekaar"  
 EndFPST
-ContextSub2: class "Ara contextual forms-1"  4 4 4 2
-  Class: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
+ContextSub2: class "Ara contextual forms-1"  6 6 6 16
+  Class: 480 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru bru lru vru hru
   Class: 2 ra
+  Class: 5 rA ri
   Class: 8 zerojoin
-  BClass: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
+  Class: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  BClass: 480 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru bru lru vru hru
   BClass: 2 ra
+  BClass: 5 rA ri
   BClass: 8 zerojoin
-  FClass: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
+  BClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  FClass: 480 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru bru lru vru hru
   FClass: 2 ra
+  FClass: 5 rA ri
   FClass: 8 zerojoin
+  FClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -151,25 +276,112 @@ ContextSub2: class "Ara contextual forms-1"  4 4 4 2
  1
   SeqLookup: 1 "post-aa forms" 
  3 0 0
-  ClsList: 1 3 2
+  ClsList: 1 4 2
   BClsList:
   FClsList:
  1
   SeqLookup: 2 "post-aa forms" 
-  ClassNames: "All_Others"  "aa"  "ra"  "zwj"  
-  BClassNames: "All_Others"  "aa"  "ra"  "zwj"  
-  FClassNames: "All_Others"  "aa"  "ra"  "zwj"  
+ 2 0 0
+  ClsList: 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "post-aa forms" 
+ 3 0 0
+  ClsList: 3 4 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 2 0 0
+  ClsList: 1 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "post-aa forms" 
+ 3 0 0
+  ClsList: 1 4 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 2 0 0
+  ClsList: 3 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "post-aa forms" 
+ 3 0 0
+  ClsList: 3 4 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 3 0 0
+  ClsList: 1 5 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 4 0 0
+  ClsList: 1 5 4 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 3 "post-aa forms" 
+ 3 0 0
+  ClsList: 3 5 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 4 0 0
+  ClsList: 3 5 4 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 3 "post-aa forms" 
+ 3 0 0
+  ClsList: 1 5 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 4 0 0
+  ClsList: 1 5 4 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 3 "post-aa forms" 
+ 3 0 0
+  ClsList: 3 5 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+ 4 0 0
+  ClsList: 3 5 4 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 3 "post-aa forms" 
+  ClassNames: "All_Others"  "aa"  "ra"  "raa"  "zwj"  "ekaar"  
+  BClassNames: "All_Others"  "aa"  "ra"  "raa"  "zwj"  "ekaar"  
+  FClassNames: "All_Others"  "aa"  "ra"  "raa"  "zwj"  "ekaar"  
 EndFPST
-ContextSub2: class "sara contextual forms-1"  4 4 4 2
+ContextSub2: class "sara contextual forms-1"  5 5 5 4
   Class: 2 sa
-  Class: 5 ra ri
+  Class: 8 ra ri rA
   Class: 8 zerojoin
+  Class: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
   BClass: 2 sa
-  BClass: 5 ra ri
+  BClass: 8 ra ri rA
   BClass: 8 zerojoin
+  BClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
   FClass: 2 sa
-  FClass: 5 ra ri
+  FClass: 8 ra ri rA
   FClass: 8 zerojoin
+  FClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -182,16 +394,28 @@ ContextSub2: class "sara contextual forms-1"  4 4 4 2
   FClsList:
  1
   SeqLookup: 2 "post-sa forms" 
-  ClassNames: "All_Others"  "sa"  "ra"  "zwj"  
-  BClassNames: "All_Others"  "sa"  "ra"  "zwj"  
-  FClassNames: "All_Others"  "sa"  "ra"  "zwj"  
+ 3 0 0
+  ClsList: 1 4 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-sa forms" 
+ 4 0 0
+  ClsList: 1 4 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 3 "post-sa forms" 
+  ClassNames: "All_Others"  "sa"  "ra"  "zwj"  "ekaar"  
+  BClassNames: "All_Others"  "sa"  "ra"  "zwj"  "ekaar"  
+  FClassNames: "All_Others"  "sa"  "ra"  "zwj"  "ekaar"  
 EndFPST
 ContextSub2: class "Contextual forms-1"  3 3 3 1
-  Class: 22 tha da dha pa ma ya ra
+  Class: 60 tha da dha pa ma ya ra thA dhA pA mA yA thi dhi pi yi ri dhu
   Class: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
-  BClass: 22 tha da dha pa ma ya ra
+  BClass: 60 tha da dha pa ma ya ra thA dhA pA mA yA thi dhi pi yi ri dhu
   BClass: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
-  FClass: 22 tha da dha pa ma ya ra
+  FClass: 60 tha da dha pa ma ya ra thA dhA pA mA yA thi dhi pi yi ri dhu
   FClass: 635 ardhaka ardhakha ardhaga ardhagha ardhaGa ardhaca ardhacha ardhaja ardhajha ardhaJa ardhaTa ardhaTha ardhaDa ardhaDha ardhaNa ardhata ardhatha ardhada ardhadha ardhana ardhapa ardhapha ardhaba ardhabha ardhama ardhaya ardhara ardhala ardhava ardhaza ardhaSa ardhasa ardhaha ardhaLa ardhakSa ardhajJa ardhakra ardhakhra ardhagra ardhaghra ardhaGra ardhacra ardhachra ardhajra ardhajhra ardhaJra ardhaTra ardhaThra ardhaDra ardhaDhra ardhaNra ardhatra ardhathra ardhadra ardhadhra ardhanra ardhapra ardhaphra ardhabra ardhabhra ardhamra ardhayra ardharra ardhalra ardhavra ardhazra ardhaSra ardhasra ardhahra ardhaLra ardhakSra ardhajJra
  2 0 0
   ClsList: 2 1
@@ -253,7 +477,7 @@ ContextSub2: class "iT forms-1"  4 4 4 5
   FClassNames: "All_Others"  "iT"  "Full"  "Half"  
 EndFPST
 LangName: 1033 "" "" "Medium" 
-Encoding: Custom
+Encoding: Original
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
@@ -269,7 +493,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvAra2"  "Above-base mark2mark-1" "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 411 411
+BeginChars: 488 488
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -1072,6 +1296,11 @@ SplineSet
 0 600 m 1
  689 600 l 1
 EndSplineSet
+Substitution2: "ura5-1" ra.postu5
+Substitution2: "ura4-1" ra.postu4
+Substitution2: "ura3-1" ra.postu3
+Substitution2: "ura2-1" ra.postu2
+Substitution2: "ura1-1" ra.postu1
 Substitution2: "kaara ligated forms-1" kAra
 Substitution2: "kara ligated forms-1" kara
 Substitution2: "Rounded ra-1" ra.round
@@ -1319,7 +1548,7 @@ Flags: W
 AnchorPoint: "anusvara" 200 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 0 0 2
+Refer: 49 2368 S 1 0 0 1 0 0 2
 Substitution2: "IT forms-1" void
 EndChar
 
@@ -1388,7 +1617,6 @@ Encoding: 54 2375 54
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvAra2" -10 800 basemark 0
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
@@ -1810,6 +2038,7 @@ LayerCount: 2
 Fore
 Refer: 47 2366 N 1 0 0 1 708 0 2
 Refer: 209 -1 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" thA.alt
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" tha AT
 EndChar
@@ -1840,6 +2069,7 @@ LayerCount: 2
 Fore
 Refer: 47 2366 S 1 0 0 1 722 0 2
 Refer: 211 -1 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" dhA.alt
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" dha AT
 EndChar
@@ -1879,6 +2109,7 @@ LayerCount: 2
 Fore
 Refer: 47 2366 N 1 0 0 1 576 0 2
 Refer: 212 -1 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" pA.alt
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" pa AT
 EndChar
@@ -1985,6 +2216,7 @@ SplineSet
 0 600 m 1
  753 600 l 1
 EndSplineSet
+Substitution2: "Devanagari-like forms-1" mA.alt
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" ma AT
 EndChar
@@ -2009,6 +2241,7 @@ SplineSet
 0 600 m 1
  882 600 l 1
 EndSplineSet
+Substitution2: "Devanagari-like forms-1" yA.alt
 LCarets2: 1 0 
 Ligature2: "AT ligatures-1" ya AT
 EndChar
@@ -2024,6 +2257,14 @@ LayerCount: 2
 Fore
 Refer: 47 2366 N 1 0 0 1 563 0 2
 Refer: 215 -1 N 1 0 0 1 0 0 2
+Substitution2: "ura5-1" rA.postu5
+Substitution2: "ura4-1" rA.postu4
+Substitution2: "ura3-1" rA.postu3
+Substitution2: "ura2-1" rA.postu2
+Substitution2: "ura1-1" rA.postu1
+Substitution2: "post-sa forms-1" rA.postsa
+Substitution2: "post-aa forms-1" rA.postaa
+Substitution2: "Devanagari-like forms-1" rA.alt
 Substitution2: "kaara ligated forms-1" kArA
 Substitution2: "kara ligated forms-1" karA
 LCarets2: 1 0 
@@ -2528,6 +2769,7 @@ LayerCount: 2
 Fore
 Refer: 49 2368 N 1 0 0 1 861 0 2
 Refer: 27 2341 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" thi.alt
 LCarets2: 1 0 
 Ligature2: "IT ligatures-1" tha IT
 EndChar
@@ -2567,6 +2809,7 @@ LayerCount: 2
 Fore
 Refer: 49 2368 N 1 0 0 1 715 0 2
 Refer: 29 2343 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" dhi.alt
 LCarets2: 1 0 
 Ligature2: "IT ligatures-1" dha IT
 EndChar
@@ -2606,6 +2849,7 @@ LayerCount: 2
 Fore
 Refer: 49 2368 N 1 0 0 1 738 0 2
 Refer: 31 2346 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" pi.alt
 LCarets2: 1 0 
 Ligature2: "IT ligatures-1" pa IT
 EndChar
@@ -2708,6 +2952,7 @@ SplineSet
 0 600 m 1
  1047 600 l 1
 EndSplineSet
+Substitution2: "Devanagari-like forms-1" yi.alt
 LCarets2: 1 0 
 Ligature2: "IT ligatures-1" ya IT
 EndChar
@@ -2721,6 +2966,14 @@ LayerCount: 2
 Fore
 Refer: 49 2368 N 1 0 0 1 689 0 2
 Refer: 37 2352 N 1 0 0 1 0 0 2
+Substitution2: "ura5-1" ri.postu5
+Substitution2: "ura4-1" ri.postu4
+Substitution2: "ura3-1" ri.postu3
+Substitution2: "ura2-1" ri.postu2
+Substitution2: "ura1-1" ri.postu1
+Substitution2: "Rounded ra-1" ri.round
+Substitution2: "post-aa forms-1" ri.postaa
+Substitution2: "Devanagari-like forms-1" ri.alt
 Substitution2: "kaara ligated forms-1" kAri
 Substitution2: "kara ligated forms-1" kari
 Substitution2: "post-sa forms-1" ri.postsa
@@ -3024,6 +3277,7 @@ SplineSet
 0 600 m 1
  657 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" gu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" ga uT
 Ligature2: "uT ligatures-1" ga UT
@@ -3053,6 +3307,7 @@ SplineSet
 0 600 m 1
  654 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" ghu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" gha uT
 Ligature2: "uT ligatures-1" gha UT
@@ -3067,6 +3322,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 621 0 2
 Refer: 15 2329 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Gu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Ga uT
 Ligature2: "uT ligatures-1" Ga UT
@@ -3096,6 +3352,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 621 0 2
 Refer: 17 2331 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" chu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" cha uT
 Ligature2: "uT ligatures-1" cha UT
@@ -3164,6 +3421,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 639 0 2
 Refer: 21 2335 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Tu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Ta uT
 Ligature2: "uT ligatures-1" Ta UT
@@ -3178,6 +3436,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 639 0 2
 Refer: 22 2336 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Thu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Tha uT
 Ligature2: "uT ligatures-1" Tha UT
@@ -3192,6 +3451,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 630 0 2
 Refer: 23 2337 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Du.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Da uT
 Ligature2: "uT ligatures-1" Da UT
@@ -3206,6 +3466,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 736 0 2
 Refer: 24 2338 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Dhu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Dha uT
 Ligature2: "uT ligatures-1" Dha UT
@@ -3234,6 +3495,7 @@ SplineSet
 0 600 m 1
  707 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" Nu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Na uT
 Ligature2: "uT ligatures-1" Na UT
@@ -3289,6 +3551,7 @@ SplineSet
 0 600 m 1
  752 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" thu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" tha uT
 Ligature2: "uT ligatures-1" tha UT
@@ -3331,6 +3594,7 @@ LayerCount: 2
 Fore
 Refer: 169 -1 N 1 0 0 1 615 0 2
 Refer: 29 2343 N 1 0 0 1 0 0 2
+Substitution2: "Devanagari-like forms-1" dhu.alt
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" dha uT
 Ligature2: "uT ligatures-1" dha UT
@@ -3384,6 +3648,7 @@ SplineSet
 0 600 m 1
  575 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" pu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" pa uT
 Ligature2: "uT ligatures-1" pa UT
@@ -3455,6 +3720,7 @@ SplineSet
 0 600 m 1
  750 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" bhu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" bha uT
 Ligature2: "uT ligatures-1" bha UT
@@ -3482,6 +3748,7 @@ SplineSet
 0 600 m 1
  750 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" mu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" ma uT
 Ligature2: "uT ligatures-1" ma UT
@@ -3509,6 +3776,7 @@ SplineSet
 0 600 m 1
  752 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" yu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" ya uT
 Ligature2: "uT ligatures-1" ya UT
@@ -3595,6 +3863,7 @@ SplineSet
 0 600 m 1
  797 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" zu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" za uT
 Ligature2: "uT ligatures-1" za UT
@@ -3624,6 +3893,7 @@ SplineSet
 0 600 m 1
  575 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" Su.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Sa uT
 Ligature2: "uT ligatures-1" Sa UT
@@ -3695,6 +3965,7 @@ LayerCount: 2
 Fore
 Refer: 50 2369 N 1 0 0 1 667 0 2
 Refer: 44 2355 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Lu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" La uT
 Ligature2: "uT ligatures-1" La UT
@@ -3727,6 +3998,7 @@ SplineSet
 0 600 m 1
  779 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" kSu.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" kSa uT
 Ligature2: "uT ligatures-1" kSa UT
@@ -3782,7 +4054,6 @@ Encoding: 171 -1 171
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvAra2" 50 720 basemark 0
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
@@ -7089,6 +7360,7 @@ SplineSet
 166.5 61.4121 m 17
  292.119 82.4121 379.5 163.413 453.381 238 c 9
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" gru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" gra uT
 Ligature2: "uT ligatures-1" gra UT
@@ -7120,6 +7392,7 @@ SplineSet
 184.5 28.4121 m 21
  315.237 61.0996 393 90 453.381 238 c 9
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" ghru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" ghra uT
 Ligature2: "uT ligatures-1" ghra UT
@@ -7143,6 +7416,7 @@ SplineSet
  351.21 -192 338.011 -219.176 326.011 -237.176 c 13
 EndSplineSet
 Refer: 15 2329 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Gru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Gra uT
 Ligature2: "uT ligatures-1" Gra UT
@@ -7181,6 +7455,7 @@ SplineSet
  212.5 -87 144 -156 -21 -201 c 9
 EndSplineSet
 Refer: 17 2331 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" chru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" chra uT
 Ligature2: "uT ligatures-1" chra UT
@@ -7270,6 +7545,7 @@ SplineSet
  291.21 -192 278.011 -219.176 266.011 -237.176 c 9
 EndSplineSet
 Refer: 21 2335 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Tru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Tra uT
 Ligature2: "uT ligatures-1" Tra UT
@@ -7284,6 +7560,7 @@ LayerCount: 2
 Fore
 Refer: 59 2306 S 1 0 0 1 426 -612 2
 Refer: 334 -1 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Thru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Thra uT
 Ligature2: "uT ligatures-1" Thra UT
@@ -7307,6 +7584,7 @@ SplineSet
  351.21 -192 338.011 -219.176 326.011 -237.176 c 13
 EndSplineSet
 Refer: 23 2337 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Dru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Dra uT
 Ligature2: "uT ligatures-1" Dra UT
@@ -7330,6 +7608,7 @@ SplineSet
  375.21 -192 362.011 -219.176 350.011 -237.176 c 9
 EndSplineSet
 Refer: 24 2338 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Dhru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Dhra uT
 Ligature2: "uT ligatures-1" Dhra UT
@@ -7360,6 +7639,7 @@ SplineSet
 0 600 m 1
  707 600 l 1
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" Nru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Nra uT
 Ligature2: "uT ligatures-1" Nra UT
@@ -7389,6 +7669,7 @@ SplineSet
  628 -195 510.902 -234.702 418 -219 c 0
  309.258 -200.621 271 -111 205 -33 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" tru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" tra uT
 Ligature2: "uT ligatures-1" tra UT
@@ -7419,6 +7700,7 @@ SplineSet
 202 0 m 0
  431.999 36 490.462 86 550.463 238 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" thru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" thra uT
 Ligature2: "uT ligatures-1" thra UT
@@ -7449,6 +7731,7 @@ SplineSet
  698 -324 580.902 -363.702 488 -348 c 0
  379.258 -329.621 357.5 -313.588 291.5 -235.588 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" dru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" dra uT
 Ligature2: "uT ligatures-1" dra UT
@@ -7483,6 +7766,7 @@ SplineSet
  636.511 -195 520.133 -229.593 426.511 -219 c 0
  361 -211.587 325 -208.588 259 -130.588 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" dhru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" dhra uT
 Ligature2: "uT ligatures-1" dhra UT
@@ -7540,6 +7824,7 @@ SplineSet
 65.7188 0 m 0
  211.719 30 345.719 134 422.463 246 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" pru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" pra uT
 Ligature2: "uT ligatures-1" pra UT
@@ -7619,6 +7904,7 @@ SplineSet
 543 162 m 17
  495 103.413 413 47.9121 297 25.4121 c 9
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" bhru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" bhra uT
 Ligature2: "uT ligatures-1" bhra UT
@@ -7648,6 +7934,7 @@ SplineSet
 260.5 97.4619 m 17
  321 -28.5875 131.5 -124.588 -21 -121.588 c 9
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" mru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" mra uT
 Ligature2: "uT ligatures-1" mra UT
@@ -7677,6 +7964,7 @@ SplineSet
 138.463 -60 m 17
  368.462 -24 490.462 86 550.463 238 c 9
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" yru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" yra uT
 Ligature2: "uT ligatures-1" yra UT
@@ -7770,6 +8058,7 @@ SplineSet
  646 -195 528.902 -234.702 436 -219 c 0
  327.258 -200.621 301 -181.588 235 -103.588 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" zru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" zra uT
 Ligature2: "uT ligatures-1" zra UT
@@ -7801,6 +8090,7 @@ SplineSet
 95.5 55.4121 m 17
  241.5 85.4121 345.719 134 422.463 246 c 9
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" Sru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Sra uT
 Ligature2: "uT ligatures-1" Sra UT
@@ -7835,6 +8125,7 @@ SplineSet
  750 -195 634.201 -220.861 540 -219 c 0
  468.5 -217.588 384 -160.546 342 -115.546 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" sru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" sra uT
 Ligature2: "uT ligatures-1" sra UT
@@ -7887,6 +8178,7 @@ SplineSet
  351.21 -192 338.011 -219.176 326.011 -237.176 c 9
 EndSplineSet
 Refer: 44 2355 N 1 0 0 1 0 0 2
+Substitution2: "pre-ra forms of uT-1" Lru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" Lra uT
 Ligature2: "uT ligatures-1" Lra UT
@@ -7922,6 +8214,7 @@ SplineSet
  713.5 -195 597.701 -220.861 503.5 -219 c 0
  432 -217.588 328.5 -184.106 286.5 -139.106 c 0
 EndSplineSet
+Substitution2: "pre-ra forms of uT-1" kSru.prera
 LCarets2: 1 0 
 Ligature2: "uT ligatures-1" kSra uT
 Ligature2: "uT ligatures-1" kSra UT
@@ -8990,7 +9283,7 @@ EndChar
 
 StartChar: ra.postaa
 Encoding: 409 -1 409
-Width: 0
+Width: 100
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 100 800 basechar 0
@@ -8998,10 +9291,12 @@ AnchorPoint: "eT" 100 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--160.256 0 m 0
- -55.2559 71.8037 76.2207 40.1289 94.9883 -24.1963 c 0
- 114.244 -90.1963 226.744 -180.196 286.744 -195 c 0
- 395.094 -221.732 454.744 -183.196 511.744 -138.196 c 0
+-160.256 0 m 4
+ -55.2559 71.8037 24.9766 40.1289 43.7441 -24.1963 c 4
+ 63 -90.1963 226.744 -180.196 286.744 -195 c 4
+ 395.094 -221.732 454.744 -183.196 511.744 -138.196 c 4
+0 600 m 1
+ 100 600 l 1
 EndSplineSet
 EndChar
 
@@ -9022,6 +9317,1618 @@ SplineSet
 0 600 m 1
  512 600 l 1
 EndSplineSet
+EndChar
+
+StartChar: thA.alt
+Encoding: 411 -1 411
+Width: 1012
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 855.709 800 basechar 0
+AnchorPoint: "eT" 840.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 209 -1 N 1 0 0 1 0 0 2
+Refer: 47 2366 N 1 0 0 1 752 0 2
+EndChar
+
+StartChar: dhA.alt
+Encoding: 412 -1 412
+Width: 986
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" 814.247 600 basechar 0
+AnchorPoint: "anusvara" 829.247 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 211 -1 N 1 0 0 1 0 0 2
+Refer: 47 2366 N 1 0 0 1 726 0 2
+EndChar
+
+StartChar: pA.alt
+Encoding: 413 -1 413
+Width: 835
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" 663.247 600 basechar 0
+AnchorPoint: "anusvara" 678.247 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 212 -1 N 1 0 0 1 0 0 2
+Refer: 47 2366 N 1 0 0 1 575 0 2
+EndChar
+
+StartChar: mA.alt
+Encoding: 414 -1 414
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" 838.709 600 basechar 0
+AnchorPoint: "anusvara" 853.709 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 N 1 0 0 1 750 0 2
+Refer: 213 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: yA.alt
+Encoding: 415 -1 415
+Width: 1012
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 855.709 800 basechar 0
+AnchorPoint: "eT" 840.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 214 -1 N 1 0 0 1 0 0 2
+Refer: 47 2366 N 1 0 0 1 752 0 2
+EndChar
+
+StartChar: thi.alt
+Encoding: 416 -1 416
+Width: 1096
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 952 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+ 650.925 0 662.925 34.8252 672.925 72.8252 c 0
+263 384 m 0
+ 131 399 122 600 245 600 c 0
+ 341 600 355.644 524.815 335 465 c 0
+ 298.021 357.856 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+585 600 m 0
+ 610.188 681 649.489 759 730.532 759 c 0
+ 890.059 759 1085.97 0 878.863 0 c 0
+ 758.52 0 884.461 456 1016 600 c 0
+0 600 m 1
+ 1096 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: dhi.alt
+Encoding: 417 -1 417
+Width: 1070
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 926 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+554.462 600 m 0
+ 536.462 440.825 511.462 0 586.462 0 c 0
+ 624.462 0 636.462 34.8252 646.462 72.8252 c 0
+80 488.129 m 0
+ 111.413 456.33 228.346 422.415 300 470.129 c 0
+ 345.412 500.369 318.771 600 248 600 c 0
+ 176 600 149.972 478.039 185.871 408 c 0
+ 219.093 343.184 295.871 344.128 367.871 366.129 c 1
+ 271.871 340.128 209.872 292 219.871 244 c 0
+ 242.514 135.307 301.872 140 375.871 140 c 0
+ 457.872 140 499.872 218 533.871 294.129 c 0
+557 600 m 0
+ 582.306 681 621.789 759 703.208 759 c 0
+ 863.474 759 1060.29 0 852.229 0 c 0
+ 731.324 0 857.851 456 990 600 c 0
+-0 600 m 1
+ 1070 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: pi.alt
+Encoding: 418 -1 418
+Width: 919
+Flags: W
+AnchorPoint: "anusvara" 775 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+444.091 600 m 0
+ 445.396 366 399.438 0 447.438 0 c 0
+ 479.438 0 483.438 30.7129 495.438 62.7129 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.438 216 c 0
+ 370.669 221.29 409.438 300.713 433.438 356.713 c 0
+445.445 600 m 0
+ 468.444 681 504.331 759 578.334 759 c 0
+ 724 759 902.889 0 713.778 0 c 0
+ 603.889 0 718.889 456 839 600 c 0
+0 600 m 1
+ 919 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: yi.alt
+Encoding: 419 -1 419
+Width: 1096
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 952 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+672.925 72.8252 m 0
+ 662.925 34.8252 650.925 0 612.925 0 c 0
+ 537.925 0 562.925 440.825 580.925 600 c 0
+190.511 600 m 0
+ 295.511 570 290.143 512.507 277.511 444 c 0
+ 260.798 353.367 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+580 600 m 0
+ 605.48 681 645.237 759 727.221 759 c 0
+ 888.598 759 1086.78 0 877.272 0 c 0
+ 755.532 0 882.936 456 1016 600 c 0
+0 600 m 1
+ 1096 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ri.alt
+Encoding: 420 -1 420
+Width: 951
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 807 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+435.462 600 m 0
+ 417.462 440.825 392.462 0 467.462 0 c 0
+ 505.462 0 517.462 34.8252 527.462 72.8252 c 0
+120 294 m 0
+ 288 285 357.537 342 408.537 420 c 0
+0 600 m 1
+ 951 600 l 1
+438 600 m 0
+ 463.306 681 502.789 759 584.208 759 c 0
+ 744.474 759 941.292 0 733.228 0 c 0
+ 612.324 0 738.851 456 871 600 c 0
+EndSplineSet
+EndChar
+
+StartChar: dhu.alt
+Encoding: 421 -1 421
+Width: 726
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 410 800 basechar 0
+AnchorPoint: "eT" 555 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+554.462 600 m 0
+ 536.462 440.825 511.462 0 586.462 0 c 0
+80 488.129 m 0
+ 111.413 456.33 228.346 422.415 300 470.129 c 0
+ 345.412 500.369 318.771 600 248 600 c 0
+ 176 600 149.972 478.039 185.871 408 c 0
+ 219.093 343.184 295.871 344.128 367.871 366.129 c 1
+ 271.871 340.128 209.872 292 219.871 244 c 0
+ 242.514 135.307 301.872 140 375.871 140 c 0
+ 457.872 140 499.872 218 533.871 294.129 c 0
+-0 600 m 1
+ 726 600 l 1
+459.511 0 m 0
+ 573.511 -9 640.924 -62.5967 639.511 -105 c 0
+ 636.511 -195 520.133 -229.593 426.511 -219 c 0
+ 361 -211.587 325 -208.588 259 -130.588 c 0
+EndSplineSet
+EndChar
+
+StartChar: rA.postsa
+Encoding: 422 -1 422
+Width: 540
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 383.709 800 basechar 0
+AnchorPoint: "eT" 368.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 280 0 2
+Refer: 407 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: rA.postaa
+Encoding: 423 -1 423
+Width: 360
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" 188.709 600 basechar 0
+AnchorPoint: "anusvara" 203.709 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 409 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.postaa
+Encoding: 424 -1 424
+Width: 444
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 N 1 0 0 1 100 0 2
+Refer: 409 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.round
+Encoding: 425 -1 425
+Width: 856
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 712 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 N 1 0 0 1 512 0 2
+Refer: 410 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eM
+Encoding: 426 -1 426
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 59 2306 N 1 0 0 1 50 0 2
+Refer: 54 2375 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" eT anusvAra
+EndChar
+
+StartChar: aiM
+Encoding: 427 -1 427
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 59 2306 N 1 0 0 1 50 0 2
+Refer: 55 2376 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" aiT anusvAra
+EndChar
+
+StartChar: repha_e
+Encoding: 428 -1 428
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 54 2375 N 1 0 0 1 0 0 2
+Refer: 171 -1 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" repha eT
+EndChar
+
+StartChar: repha_ai
+Encoding: 429 -1 429
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-100 600 m 17
+ -166.469 722.92 -45.0498 900 70.5312 900 c 0
+ 167.95 900 178.531 848.92 174.419 803.02 c 0
+EndSplineSet
+Refer: 55 2376 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" repha aiT
+EndChar
+
+StartChar: repha_eM
+Encoding: 430 -1 430
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 59 2306 S 1 0 0 1 130 -60 2
+Refer: 54 2375 N 1 0 0 1 0 0 2
+Refer: 171 -1 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" repha eT anusvAra
+EndChar
+
+StartChar: repha_aiM
+Encoding: 431 -1 431
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 59 2306 S 1 0 0 1 130 -60 2
+Refer: 429 -1 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" repha aiT anusvAra
+EndChar
+
+StartChar: repha_anusvAra
+Encoding: 432 -1 432
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 59 2306 S 1 0 0 1 130 -60 2
+Refer: 171 -1 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" repha anusvAra
+EndChar
+
+StartChar: gu.prera
+Encoding: 433 -1 433
+Width: 657
+Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+475.486 600 m 0
+ 469.486 351.704 448.486 0 491.681 0 c 0
+197.681 600 m 0
+ 247.486 414.704 265.486 327.704 253.486 243.704 c 0
+ 246.59 195.43 196.522 160.44 149.681 174 c 0
+ 111.017 185.192 112.862 246.516 139.486 276.704 c 0
+ 169.147 310.337 229.486 324.704 253.486 291.704 c 0
+384 0 m 0
+ 498 -9 565.413 -62.5967 564 -105 c 0
+ 561 -195 443.902 -234.702 351 -219 c 0
+0 600 m 1
+ 657 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ghu.prera
+Encoding: 434 -1 434
+Width: 654
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+472 600 m 0
+ 468.701 343.547 450.701 0 502 0 c 0
+208.298 600 m 0
+ 148 571.547 120 535.547 120 483.547 c 0
+ 120.001 407.892 228 407.547 304.298 423 c 1
+ 228 407.547 136.517 347.769 142 257.547 c 0
+ 146.399 185.161 240.636 180.153 318 197.547 c 0
+ 382.701 212.094 422.701 263.547 466 321 c 0
+381 0 m 0
+ 495 -9 562.413 -62.5967 561 -105 c 0
+ 558 -195 440.902 -234.702 348 -219 c 0
+0 600 m 1
+ 654 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Gu.prera
+Encoding: 435 -1 435
+Width: 780
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+343.5 -300 m 21
+ 436.401 -315.701 525 -276 528 -186 c 0
+ 529.413 -143.597 481.011 -81 403.011 -81 c 0
+ 360.21 -81 347.011 -108.176 335.011 -126.176 c 9
+468 600 m 0
+ 366 570 293 470 309 390 c 0
+ 317.385 348.075 367.029 300.499 439 324 c 0
+ 537 356 573 314 573 198 c 0
+ 573 67.2139 505.115 0 352.885 0 c 0
+ 161.115 0 130 210 120 420 c 0
+0 600 m 1
+ 780 600 l 1
+681 432.5 m 25
+ 639 402.5 l 25
+EndSplineSet
+EndChar
+
+StartChar: chu.prera
+Encoding: 436 -1 436
+Width: 672
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+315 -279 m 17
+ 407.902 -294.702 525 -276 528 -186 c 0
+ 529.413 -143.597 481.011 -81 403.011 -81 c 0
+ 360.21 -81 347.011 -108.176 335.011 -126.176 c 9
+253.117 600 m 0
+ 167.118 565.983 106.521 514.087 122.588 447 c 0
+ 139.117 377.983 199.117 331.983 321.117 389.983 c 1
+ 181.118 333.982 139.117 281.983 157.117 139.983 c 0
+ 172.84 15.9473 277.117 0 339.117 0 c 0
+ 441.118 0 520.071 89.0166 545.117 207.983 c 0
+ 585.118 397.982 459.118 467.982 444.588 401 c 0
+ 429.496 331.424 531.256 344.294 543.117 453.983 c 0
+ 551.118 527.966 507.118 585.982 471.117 600 c 0
+0 600 m 1
+ 672 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Tu.prera
+Encoding: 437 -1 437
+Width: 639
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+352.5 -291 m 17
+ 445.402 -306.702 543 -276 546 -186 c 0
+ 547.413 -143.597 499.011 -81 421.011 -81 c 0
+ 378.21 -81 365.011 -108.176 353.011 -126.176 c 9
+510.662 600 m 0
+ 470.663 548.996 456.906 514.081 456.615 453 c 0
+ 456.071 338.865 551.945 270.576 508.589 164.996 c 0
+ 465.686 60.5186 394.59 0 270.59 0 c 0
+ 134.76 0 36.5898 180.996 222.59 312.996 c 0
+0 600 m 1
+ 639 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Thu.prera
+Encoding: 438 -1 438
+Width: 639
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+352.5 -291 m 21
+ 445.402 -306.702 543 -276 546 -186 c 4
+ 547.413 -143.597 499.011 -81 421.011 -81 c 4
+ 378.21 -81 365.011 -108.176 353.011 -126.176 c 13
+345 201.5 m 25
+ 303 171.5 l 25
+510.662 600 m 0
+ 470.663 548.996 456.906 514.081 456.615 453 c 0
+ 456.071 338.865 551.945 270.576 508.589 164.996 c 0
+ 465.686 60.5186 394.59 0 270.59 0 c 0
+ 134.76 0 36.5898 180.996 222.59 312.996 c 0
+0 600 m 1
+ 639 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Du.prera
+Encoding: 439 -1 439
+Width: 693
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+334.5 -279 m 17
+ 427.402 -294.702 534 -276 537 -186 c 0
+ 538.413 -143.597 490.011 -81 412.011 -81 c 0
+ 369.21 -81 356.011 -108.176 344.011 -126.176 c 9
+468 600 m 0
+ 366 570 293 470 309 390 c 0
+ 317.385 348.075 367.029 300.499 439 324 c 0
+ 537 356 573 314 573 198 c 0
+ 573 67.2139 505.115 0 352.885 0 c 0
+ 161.115 0 130 210 120 420 c 0
+0 600 m 1
+ 693 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dhu.prera
+Encoding: 440 -1 440
+Width: 790
+Flags: W
+AnchorPoint: "anusvara" 450 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478.5 -324 m 21
+ 583.5 -309 640 -276 643 -186 c 0
+ 644.413 -143.597 596.011 -81 518.011 -81 c 0
+ 475.21 -81 462.011 -108.176 450.011 -126.176 c 9
+459 600 m 0
+ 485.821 585.602 516 540.602 465 501.602 c 0
+ 287.16 365.609 120 381.602 120 204.602 c 0
+ 120 95.1797 184.657 59.7812 267 51.6016 c 0
+ 392.935 39.0918 429.835 155.512 573 159.602 c 0
+ 678.001 162.602 714.001 0 603 0 c 0
+ 519.001 0 474 63.6016 438 108.602 c 0
+0 600 m 1
+ 790 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Nu.prera
+Encoding: 441 -1 441
+Width: 707
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+535.931 600 m 0
+ 517.931 440.825 492.931 0 567.931 0 c 0
+132.712 600 m 0
+ 159.657 476 31.6572 190 253.539 190 c 0
+ 308.755 190 387.154 278.08 391.539 338 c 0
+ 397.539 420 293.31 428.167 293.539 408 c 0
+ 295.539 232 383.539 482 380.713 600 c 0
+434 0 m 0
+ 548 -9 615.413 -62.5967 614 -105 c 0
+ 611 -195 493.902 -234.702 401 -219 c 0
+0 600 m 1
+ 707 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: thu.prera
+Encoding: 442 -1 442
+Width: 752
+Flags: W
+AnchorPoint: "anusvara" 415 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+499.511 0 m 0
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 0
+ 676.511 -195 568.402 -213.702 475.5 -198 c 13
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+263 384 m 0
+ 131 399 122 600 245 600 c 0
+ 341 600 355.644 524.815 335 465 c 0
+ 298.021 357.856 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+0 600 m 1
+ 752 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: pu.prera
+Encoding: 443 -1 443
+Width: 575
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+343.511 0 m 0
+ 457.511 -9 524.924 -62.5967 523.511 -105 c 0
+ 520.511 -195 403.402 -213.702 310.5 -198 c 13
+444.091 600 m 0
+ 445.396 366 399.438 0 447.438 0 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.438 216 c 0
+ 370.669 221.29 409.438 300.713 433.438 356.713 c 0
+0 600 m 1
+ 575 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: bhu.prera
+Encoding: 444 -1 444
+Width: 750
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+390.263 528 m 0
+ 336.263 488 242.629 416.018 150.263 450 c 0
+ 93.0166 471.062 122.126 600 194.562 600 c 0
+ 289.837 600 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 0
+ 534.562 600 553.837 0 604.837 0 c 0
+477 0 m 0
+ 591 -9 658.413 -62.5967 657 -105 c 0
+ 654 -195 536.902 -234.702 444 -219 c 0
+0 600 m 1
+ 750 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: mu.prera
+Encoding: 445 -1 445
+Width: 750
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+205.511 600 m 0
+ 244.511 532.412 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 0
+ 534.562 600 553.837 0 604.837 0 c 0
+477 0 m 0
+ 591 -9 658.413 -62.5967 657 -105 c 0
+ 654 -195 536.902 -234.702 444 -219 c 0
+0 600 m 1
+ 750 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: yu.prera
+Encoding: 446 -1 446
+Width: 752
+Flags: W
+AnchorPoint: "anusvara" 415 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+499.511 0 m 0
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 0
+ 676.511 -195 553.402 -219.702 460.5 -204 c 13
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+190.511 600 m 0
+ 295.511 570 290.143 512.507 277.511 444 c 0
+ 260.798 353.367 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+0 600 m 1
+ 752 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: zu.prera
+Encoding: 447 -1 447
+Width: 797
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+625.216 600 m 0
+ 607.216 440.825 582.216 0 657.216 0 c 0
+194.423 600 m 0
+ 304.423 564 304.423 380 199.216 328 c 0
+ 154.964 306.128 91.2158 380 133.216 436 c 0
+ 192.368 514.869 389.086 504.467 384.216 406 c 0
+ 374.423 208 193.426 251.496 175.216 112 c 0
+ 165.521 37.7334 235.216 0 331.216 0 c 0
+ 423.601 0 457.216 88 498.216 168 c 0
+524 0 m 0
+ 638 -9 705.413 -62.5967 704 -105 c 0
+ 701 -195 585.215 -218.037 491 -219 c 0
+0 600 m 1
+ 797 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Su.prera
+Encoding: 448 -1 448
+Width: 575
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+159.091 558 m 1
+ 407.438 346.713 l 1
+444.091 600 m 0
+ 445.396 366 399.438 0 447.438 0 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.438 216 c 0
+ 370.669 221.29 409.438 300.713 433.438 356.713 c 0
+302 0 m 0
+ 416 -9 483.413 -62.5967 482 -105 c 0
+ 479 -195 361.902 -234.702 269 -219 c 0
+0 600 m 1
+ 575 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Lu.prera
+Encoding: 449 -1 449
+Width: 808
+Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+361 -300 m 24
+ 453.902 -315.702 571 -276 574 -186 c 0
+ 575.413 -143.597 527.011 -81 449.011 -81 c 0
+ 406.21 -81 393.011 -108.176 381.011 -126.176 c 9
+363.383 323.999 m 0
+ 330.384 377.999 323.385 398.999 268.737 398.999 c 0
+ 58.5811 398.999 106.581 0 197.176 0 c 0
+ 516.845 0 288.384 399 612.383 399 c 0
+ 721.581 399 730.581 0 520.737 0 c 0
+ 361.738 0 409.43 170.997 406.581 282 c 0
+ 403.425 405 421.581 507 445.581 600 c 0
+0 600 m 1
+ 808 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: kSu.prera
+Encoding: 450 -1 450
+Width: 779
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+391.926 491.363 m 0
+ 595.926 170.363 645.852 600 621.852 600 c 0
+ 579.852 600 585.852 0 648.852 0 c 0
+286.926 431.363 m 0
+ 145.926 533.363 187.926 689.363 280.926 695.363 c 0
+ 412.788 703.871 442.926 560.363 391.926 491.363 c 0
+ 314.24 386.26 186.852 456 126.852 264 c 0
+ 99.1406 175.326 158.551 77.1758 249.852 60 c 0
+ 338.925 43.2441 388.282 126.46 429.852 207 c 0
+ 446.417 239.096 344.515 282.094 345.852 246 c 0
+ 348.852 165 390.852 84 504.852 0 c 0
+598.926 0 m 0
+ 697.926 0 726.339 -62.5967 724.926 -105 c 0
+ 721.926 -195 607.402 -213.702 514.5 -198 c 13
+0 600 m 1
+ 779 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: gru.prera
+Encoding: 451 -1 451
+Width: 657
+Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+475.486 600 m 0
+ 469.486 351.704 448.486 0 491.681 0 c 0
+197.681 600 m 0
+ 247.486 414.704 261.305 383.116 249.305 299.116 c 0
+ 242.409 250.843 192.341 215.853 145.5 229.412 c 0
+ 106.836 240.604 108.681 301.929 135.305 332.116 c 0
+ 164.966 365.75 225.305 380.116 249.305 347.116 c 0
+384 0 m 0
+ 498 -9 565.413 -62.5967 564 -105 c 0
+ 561 -195 443.902 -234.702 351 -219 c 0
+0 600 m 1
+ 657 600 l 1
+166.5 61.4121 m 17
+ 292.119 82.4121 379.5 163.413 453.381 238 c 9
+EndSplineSet
+EndChar
+
+StartChar: ghru.prera
+Encoding: 452 -1 452
+Width: 654
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+472 600 m 0
+ 468.701 343.547 450.701 0 502 0 c 0
+208.298 600 m 0
+ 148 571.547 120 535.547 120 483.547 c 0
+ 120.001 407.892 228 407.547 304.298 423 c 1
+ 228 407.547 136.517 347.769 142 257.547 c 0
+ 146.399 185.161 240.636 180.153 318 197.547 c 0
+ 382.701 212.094 422.701 263.547 466 321 c 0
+381 0 m 0
+ 495 -9 562.413 -62.5967 561 -105 c 0
+ 558 -195 440.902 -234.702 348 -219 c 0
+0 600 m 1
+ 654 600 l 1
+184.5 28.4121 m 17
+ 315.237 61.0996 393 90 453.381 238 c 9
+EndSplineSet
+EndChar
+
+StartChar: Gru.prera
+Encoding: 453 -1 453
+Width: 780
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+570.015 -177 m 0
+ 496.015 -123.711 477.499 -124.517 403.5 -57 c 9
+ 209.762 -146.581 l 25
+304.5 -354 m 24
+ 389.151 -375.613 511.5 -366 514.5 -276 c 0
+ 515.913 -233.597 472.011 -192 394.011 -192 c 0
+ 351.21 -192 338.011 -219.176 326.011 -237.176 c 9
+468 600 m 0
+ 366 570 293 470 309 390 c 0
+ 317.385 348.075 367.029 300.499 439 324 c 0
+ 537 356 573 314 573 198 c 0
+ 573 67.2139 505.115 0 352.885 0 c 0
+ 161.115 0 130 210 120 420 c 0
+0 600 m 1
+ 780 600 l 1
+681 432.5 m 25
+ 639 402.5 l 25
+EndSplineSet
+EndChar
+
+StartChar: chru.prera
+Encoding: 454 -1 454
+Width: 672
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+376.989 -360.688 m 17
+ 450.891 -358.177 525.489 -336.688 528.489 -246.688 c 0
+ 529.902 -204.284 481.5 -141.688 403.5 -141.688 c 0
+ 360.699 -141.688 347.5 -168.863 335.5 -186.863 c 9
+249 0 m 17
+ 212.5 -87 144 -156 -21 -201 c 9
+253.117 600 m 0
+ 167.118 565.983 106.521 514.087 122.588 447 c 0
+ 139.117 377.983 199.117 331.983 321.117 389.983 c 1
+ 181.118 333.982 139.117 281.983 157.117 139.983 c 0
+ 172.84 15.9473 277.117 0 339.117 0 c 0
+ 441.118 0 520.071 89.0166 545.117 207.983 c 0
+ 585.118 397.982 459.118 467.982 444.588 401 c 0
+ 429.496 331.424 531.256 344.294 543.117 453.983 c 0
+ 551.118 527.966 507.118 585.982 471.117 600 c 0
+0 600 m 1
+ 672 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Tru.prera
+Encoding: 455 -1 455
+Width: 639
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+550.5 -148.105 m 0
+ 472.5 -124.106 417.499 -124.517 343.5 -57 c 9
+ 149.762 -146.581 l 25
+277.5 -354 m 17
+ 362.151 -375.613 484.5 -366 487.5 -276 c 0
+ 488.913 -233.597 442.5 -192 364.5 -192 c 0
+ 321.699 -192 278.011 -219.176 266.011 -237.176 c 9
+510.662 600 m 0
+ 470.663 548.996 456.906 514.081 456.615 453 c 0
+ 456.071 338.865 551.945 270.576 508.589 164.996 c 0
+ 465.686 60.5186 394.59 0 270.59 0 c 0
+ 134.76 0 36.5898 180.996 222.59 312.996 c 0
+0 600 m 1
+ 639 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Thru.prera
+Encoding: 456 -1 456
+Width: 639
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+277.5 -354 m 17
+ 362.151 -375.613 484.5 -366 487.5 -276 c 0
+ 488.913 -233.597 442.5 -192 364.5 -192 c 0
+ 321.699 -192 278.011 -219.176 266.011 -237.176 c 9
+345 201.5 m 25
+ 303 171.5 l 25
+550.5 -148.105 m 4
+ 472.5 -124.106 417.499 -124.517 343.5 -57 c 13
+ 149.762 -146.581 l 29
+510.662 600 m 0
+ 470.663 548.996 456.906 514.081 456.615 453 c 0
+ 456.071 338.865 551.945 270.576 508.589 164.996 c 0
+ 465.686 60.5186 394.59 0 270.59 0 c 0
+ 134.76 0 36.5898 180.996 222.59 312.996 c 0
+0 600 m 1
+ 639 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dru.prera
+Encoding: 457 -1 457
+Width: 693
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+606.015 -177 m 0
+ 532.5 -138 477.499 -124.517 403.5 -57 c 9
+ 209.762 -146.581 l 25
+340.5 -354 m 17
+ 425.151 -375.613 547.5 -366 550.5 -276 c 0
+ 551.913 -233.597 508.011 -192 430.011 -192 c 0
+ 387.21 -192 338.011 -219.176 326.011 -237.176 c 9
+468 600 m 0
+ 366 570 293 470 309 390 c 0
+ 317.385 348.075 367.029 300.499 439 324 c 0
+ 537 356 573 314 573 198 c 0
+ 573 67.2139 505.115 0 352.885 0 c 0
+ 161.115 0 130 210 120 420 c 0
+0 600 m 1
+ 693 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dhru.prera
+Encoding: 458 -1 458
+Width: 790
+Flags: W
+AnchorPoint: "anusvara" 450 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+594.015 -177 m 0
+ 520.015 -123.711 501.499 -124.517 427.5 -57 c 9
+ 233.762 -146.581 l 25
+319.5 -327 m 21
+ 404.151 -348.613 535.5 -366 538.5 -276 c 0
+ 539.913 -233.597 496.011 -192 418.011 -192 c 0
+ 375.21 -192 362.011 -219.176 350.011 -237.176 c 9
+459 600 m 0
+ 485.821 585.602 516 540.602 465 501.602 c 0
+ 287.16 365.609 120 381.602 120 204.602 c 0
+ 120 95.1797 184.657 59.7812 267 51.6016 c 0
+ 392.935 39.0918 429.835 155.512 573 159.602 c 0
+ 678.001 162.602 714.001 0 603 0 c 0
+ 519.001 0 474 63.6016 438 108.602 c 0
+0 600 m 1
+ 790 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Nru.prera
+Encoding: 459 -1 459
+Width: 707
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+271.5 25.8936 m 25
+ 494.5 150 l 25
+535.931 600 m 0
+ 517.931 440.825 492.931 0 567.931 0 c 0
+132.712 600 m 0
+ 159.657 476 31.6572 190 253.539 190 c 0
+ 308.755 190 387.154 278.08 391.539 338 c 0
+ 397.539 420 293.31 428.167 293.539 408 c 0
+ 295.539 232 383.539 482 380.713 600 c 0
+434 0 m 0
+ 548 -9 615.413 -62.5967 614 -105 c 0
+ 611 -195 493.902 -234.702 401 -219 c 0
+0 600 m 1
+ 707 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: tru.prera
+Encoding: 460 -1 460
+Width: 710
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+AnchorPoint: "eT" 465 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+120 372 m 0
+ 176 420 249.933 463.479 338 446 c 0
+ 389.055 435.867 382 390 382 320 c 0
+129.881 98 m 0
+ 246 150 324 218 408 342 c 0
+ 470.594 434.4 483.251 537.271 464.692 600 c 1
+ 537.251 531.271 426.251 0 554.692 0 c 0
+0 600 m 1
+ 710 600 l 1
+451 0 m 0
+ 565 -9 632.413 -62.5967 631 -105 c 0
+ 628 -195 508.402 -216.702 415.5 -201 c 13
+EndSplineSet
+EndChar
+
+StartChar: thru.prera
+Encoding: 461 -1 461
+Width: 752
+Flags: W
+AnchorPoint: "anusvara" 415 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+499.511 0 m 0
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 0
+ 676.511 -195 562.402 -210.702 469.5 -195 c 13
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+263 384 m 0
+ 131 399 122 600 245 600 c 0
+ 341 600 355.644 524.815 335 465 c 0
+ 298.021 357.856 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+0 600 m 1
+ 752 600 l 1
+202 0 m 0
+ 431.999 36 490.462 86 550.463 238 c 0
+EndSplineSet
+EndChar
+
+StartChar: dru.prera
+Encoding: 462 -1 462
+Width: 754
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 400 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+284.429 600 m 0
+ 172.429 533.927 83.7725 417.704 134.772 345.704 c 0
+ 184.789 275.091 345.96 277.05 347.772 318.704 c 0
+ 350.772 387.704 170.772 318.704 185.772 189.704 c 0
+ 203.169 40.083 300.938 0 476.772 0 c 0
+ 674.771 0 652 417.704 539.771 417.704 c 0
+ 505.855 417.704 475.834 283.906 493 198 c 0
+ 526.384 30.9277 686 60 641 -162 c 0
+0 600 m 1
+ 754 600 l 1
+521 -129 m 0
+ 635 -138 702.413 -191.597 701 -234 c 0
+ 698 -324 598.5 -348 517.5 -345 c 9
+EndSplineSet
+EndChar
+
+StartChar: dhru.prera
+Encoding: 463 -1 463
+Width: 726
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 410 800 basechar 0
+AnchorPoint: "eT" 555 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+554.462 600 m 0
+ 536.462 440.825 511.462 0 586.462 0 c 0
+80 488.129 m 0
+ 111.413 456.33 228.346 422.415 300 470.129 c 0
+ 345.412 500.369 318.771 600 248 600 c 0
+ 176 600 149.972 478.039 185.871 408 c 0
+ 219.093 343.184 295.871 344.128 367.871 366.129 c 1
+ 271.871 340.128 209.872 292 219.871 244 c 0
+ 242.514 135.307 301.872 140 375.871 140 c 0
+ 457.872 140 499.872 218 533.871 294.129 c 0
+127 -67.5879 m 1
+ 524.463 208 l 1
+0 600 m 1
+ 726 600 l 1
+459.511 0 m 0
+ 573.511 -9 640.924 -62.5967 639.511 -105 c 0
+ 636.511 -195 514.5 -204 426.511 -219 c 9
+EndSplineSet
+EndChar
+
+StartChar: pru.prera
+Encoding: 464 -1 464
+Width: 575
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+343.511 0 m 0
+ 457.511 -9 524.924 -62.5967 523.511 -105 c 0
+ 520.511 -195 400.5 -192 310.511 -219 c 13
+444.091 600 m 0
+ 445.396 366 399.438 0 447.438 0 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.438 216 c 0
+ 370.669 221.29 409.438 300.713 433.438 356.713 c 0
+0 600 m 1
+ 575 600 l 1
+65.7188 0 m 0
+ 211.719 30 345.719 134 422.463 246 c 0
+EndSplineSet
+EndChar
+
+StartChar: bhru.prera
+Encoding: 465 -1 465
+Width: 750
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+390.263 528 m 0
+ 336.263 488 242.629 416.018 150.263 450 c 0
+ 93.0166 471.062 122.126 600 194.562 600 c 0
+ 289.837 600 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 0
+ 534.562 600 553.837 0 604.837 0 c 0
+477 0 m 0
+ 591 -9 658.413 -62.5967 657 -105 c 0
+ 654 -195 526.5 -201 444 -219 c 13
+0 600 m 1
+ 750 600 l 1
+543 162 m 17
+ 495 103.413 413 47.9121 297 25.4121 c 9
+EndSplineSet
+EndChar
+
+StartChar: mru.prera
+Encoding: 466 -1 466
+Width: 750
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+205.511 600 m 0
+ 244.511 532.412 300.604 332.584 244.562 152 c 0
+ 226.562 94 163.222 97.0596 142.562 130 c 0
+ 121.771 163.148 165.208 203.354 226.562 222 c 0
+ 430.562 284 714.562 600 588.562 600 c 0
+ 534.562 600 553.837 0 604.837 0 c 0
+477 0 m 0
+ 591 -9 658.413 -62.5967 657 -105 c 0
+ 654 -195 541.5 -204 444 -219 c 13
+0 600 m 1
+ 750 600 l 1
+260.5 97.4619 m 17
+ 321 -28.5879 131.5 -124.588 -21 -121.588 c 9
+EndSplineSet
+EndChar
+
+StartChar: yru.prera
+Encoding: 467 -1 467
+Width: 752
+Flags: W
+AnchorPoint: "anusvara" 415 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+499.511 0 m 0
+ 613.511 -9 680.924 -62.5967 679.511 -105 c 0
+ 676.511 -195 550.5 -201 466.511 -219 c 13
+580.925 600 m 0
+ 562.925 440.825 537.925 0 612.925 0 c 0
+190.511 600 m 0
+ 295.511 570 290.143 512.507 277.511 444 c 0
+ 260.798 353.367 221 306 128 261 c 1
+ 197 216 257.19 145.825 356 150 c 0
+ 448.081 153.891 503 201 554 279 c 0
+0 600 m 1
+ 752 600 l 1
+138.463 -60 m 17
+ 368.462 -24 490.462 86 550.463 238 c 9
+EndSplineSet
+EndChar
+
+StartChar: zru.prera
+Encoding: 468 -1 468
+Width: 716
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 369.16 800 basechar 0
+AnchorPoint: "eT" 544.16 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+120 226 m 0
+ 228 234 321.709 307.964 381.459 420 c 0
+ 416.398 485.514 413.458 600 319.459 600 c 0
+ 167.76 600 154 364 498 292 c 0
+175.459 0 m 0
+ 288.188 28 442.917 124 508.188 220 c 0
+544.376 600 m 0
+ 526.376 440.825 501.376 0 576.376 0 c 0
+0 600 m 1
+ 716 600 l 1
+469 0 m 0
+ 583 -9 650.413 -62.5967 649 -105 c 0
+ 646 -195 526.5 -198 436 -219 c 13
+EndSplineSet
+EndChar
+
+StartChar: Sru.prera
+Encoding: 469 -1 469
+Width: 575
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 350 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+159.091 558 m 1
+ 407.438 346.713 l 1
+444.091 600 m 0
+ 445.396 366 399.438 0 447.438 0 c 0
+126.091 600 m 0
+ 132.075 497.318 100.346 431.004 141.437 336.713 c 0
+ 171.679 267.316 217.914 210.827 293.438 216 c 0
+ 370.669 221.29 409.438 300.713 433.438 356.713 c 0
+302 0 m 0
+ 416 -9 483.413 -62.5967 482 -105 c 0
+ 479 -195 355.5 -204 269 -219 c 13
+0 600 m 1
+ 575 600 l 1
+95.5 55.4121 m 17
+ 241.5 85.4121 345.719 134 422.463 246 c 9
+EndSplineSet
+EndChar
+
+StartChar: sru.prera
+Encoding: 470 -1 470
+Width: 828
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" 656 600 basechar 0
+AnchorPoint: "anusvara" 444.441 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+602.75 232 m 0
+ 578.75 96 490 96.4541 366 52.4541 c 0
+628.75 266 m 0
+ 450.75 206 378.75 262 344.75 290 c 0
+270.955 320 m 0
+ 176.955 292 120.456 274 120.456 203.312 c 0
+ 120.456 138 180 62 266 0 c 0
+252.457 600 m 0
+ 291.457 548.312 324.174 442 324.174 342 c 0
+ 324.174 251.104 292.955 158 190.955 250 c 0
+656.75 600 m 0
+ 638.75 440.825 613.75 0 688.75 0 c 0
+0 600 m 1
+ 828 600 l 1
+573 0 m 0
+ 687 -9 754.413 -62.5967 753 -105 c 0
+ 750 -195 652.5 -198 540 -219 c 13
+EndSplineSet
+EndChar
+
+StartChar: Lru.prera
+Encoding: 471 -1 471
+Width: 808
+Flags: W
+AnchorPoint: "anusvara" 420 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+607.5 -156 m 4
+ 532.5 -132 477.499 -124.517 403.5 -57 c 9
+ 209.762 -146.581 l 25
+325.5 -354 m 17
+ 410.151 -375.613 532.5 -366 535.5 -276 c 0
+ 536.913 -233.597 493.011 -192 415.011 -192 c 0
+ 372.21 -192 338.011 -219.176 326.011 -237.176 c 9
+363.383 323.999 m 0
+ 330.384 377.999 323.385 398.999 268.737 398.999 c 0
+ 58.5811 398.999 106.581 0 197.176 0 c 0
+ 516.845 0 288.384 399 612.383 399 c 0
+ 721.581 399 730.581 0 520.737 0 c 0
+ 361.738 0 409.43 170.997 406.581 282 c 0
+ 403.425 405 421.581 507 445.581 600 c 0
+0 600 m 1
+ 808 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: kSru.prera
+Encoding: 472 -1 472
+Width: 779
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 500 800 basechar 0
+AnchorPoint: "eT" 620 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+582.381 189.863 m 17
+ 554.976 53.1416 299.5 -4.57422 194.5 -37.5742 c 9
+391.926 491.363 m 0
+ 595.926 170.363 645.852 600 621.852 600 c 0
+ 579.852 600 585.852 0 648.852 0 c 0
+286.926 431.363 m 0
+ 145.926 533.363 187.926 689.363 280.926 695.363 c 0
+ 412.788 703.871 442.926 560.363 391.926 491.363 c 0
+ 314.24 386.26 186.852 481.862 126.852 289.862 c 0
+ 99.1406 201.188 158.551 143.038 249.852 125.862 c 0
+ 338.925 109.106 388.282 192.322 429.852 272.862 c 0
+ 446.417 304.959 344.515 347.957 345.852 311.862 c 0
+ 348.852 230.862 348.381 203.725 462.381 119.725 c 0
+0 600 m 1
+ 779 600 l 1
+536.5 0 m 0
+ 650.5 -9 717.913 -62.5967 716.5 -105 c 0
+ 713.5 -195 590.701 -208.861 496.5 -207 c 9
+EndSplineSet
+EndChar
+
+StartChar: ra.postu1
+Encoding: 473 -1 473
+Width: 100
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 100 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-182.756 -201 m 0
+ -134.756 -189 -19.5044 -194.886 -35.7559 -259.892 c 0
+ -47.7558 -307.892 40 -320.088 100 -334.892 c 0
+ 208.35 -361.624 312.244 -189 327.244 -75 c 0
+0 600 m 1
+ 100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ra.postu2
+Encoding: 474 -1 474
+Width: 100
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 100 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-182.756 -282 m 0
+ -134.756 -270 -19.5049 -275.886 -35.7559 -340.892 c 0
+ -47.7559 -388.892 40 -401.088 100 -415.892 c 0
+ 208.35 -442.624 312.244 -189 327.244 -75 c 0
+0 600 m 1
+ 100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ra.postu3
+Encoding: 475 -1 475
+Width: 100
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 100 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-182.756 -336 m 4
+ -134.756 -324 -19.5049 -329.886 -35.7559 -394.892 c 4
+ -47.7559 -442.892 40 -455.088 100 -469.892 c 4
+ 208.35 -496.624 312.244 -189 327.244 -75 c 0
+0 600 m 1
+ 100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ra.postu4
+Encoding: 476 -1 476
+Width: 100
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 100 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-295.756 -282 m 0
+ -247.756 -270 -132.505 -275.886 -148.756 -340.892 c 0
+ -160.756 -388.892 0 -419.637 100 -415.892 c 4
+ 211.52 -411.715 312.244 -189 327.244 -75 c 0
+0 600 m 1
+ 100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: ra.postu5
+Encoding: 477 -1 477
+Width: 100
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 100 800 basechar 0
+AnchorPoint: "eT" 100 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-295.756 -336 m 0
+ -247.756 -324 -132.505 -329.886 -148.756 -394.892 c 0
+ -160.756 -442.892 -32.2559 -474.683 100 -469.892 c 4
+ 211.525 -465.851 312.244 -189 327.244 -75 c 0
+0 600 m 1
+ 100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: rA.postu1
+Encoding: 478 -1 478
+Width: 360
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 203.709 800 basechar 0
+AnchorPoint: "eT" 188.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 473 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: rA.postu2
+Encoding: 479 -1 479
+Width: 360
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 203.709 800 basechar 0
+AnchorPoint: "eT" 188.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 474 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: rA.postu3
+Encoding: 480 -1 480
+Width: 360
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 203.709 800 basechar 0
+AnchorPoint: "eT" 188.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 475 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: rA.postu4
+Encoding: 481 -1 481
+Width: 360
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 203.709 800 basechar 0
+AnchorPoint: "eT" 188.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 476 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: rA.postu5
+Encoding: 482 -1 482
+Width: 360
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 203.709 800 basechar 0
+AnchorPoint: "eT" 188.709 600 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 477 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.postu1
+Encoding: 483 -1 483
+Width: 444
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 473 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.postu2
+Encoding: 484 -1 484
+Width: 444
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 474 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.postu3
+Encoding: 485 -1 485
+Width: 444
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 475 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.postu4
+Encoding: 486 -1 486
+Width: 444
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 476 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ri.postu5
+Encoding: 487 -1 487
+Width: 444
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 300 800 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 477 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
