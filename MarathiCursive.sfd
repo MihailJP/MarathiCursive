@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336324632
+ModificationTime: 1336351407
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,21 +36,22 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 2 0 0 "oT/auT Decomposition"  {"oT/auT Decomposition-1"  } [' RQD' ('deva' <'dflt' > ) 'psts' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "Akhand ligatures"  {"Akhand ligatures-1"  } ['akhn' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "Repha"  {"Repha-1"  } ['rphf' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "Rakaar"  {"Rakaar-1"  } ['blwf' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "Half forms"  {"Half forms-1"  } ['half' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "Vattu forms"  {"Vattu forms-1"  } ['vatu' ('deva' <'dflt' > ) ]
-Lookup: 5 0 0 "iT forms"  {"iT forms-1"  } ['pres' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "uT ligatures"  {"uT ligatures-1"  } ['blws' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "AT ligatures"  {"AT ligatures-1"  } ['psts' ('deva' <'dflt' > ) ]
-Lookup: 4 0 0 "IT ligatures"  {"IT ligatures-1"  } ['psts' ('deva' <'dflt' > ) ]
-Lookup: 5 0 0 "Contextual forms"  {"Contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
-Lookup: 5 0 0 "kara contextual substitution"  {"kara contextual substitution-1"  } ['calt' ('deva' <'dflt' > ) ]
-Lookup: 5 0 0 "sara contextual forms"  {"sara contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
-Lookup: 5 0 0 "Ara contextual forms"  {"Ara contextual forms-1"  } ['calt' ('deva' <'dflt' > ) ]
-Lookup: 5 0 0 "Rounded ra substitution"  {"Rounded ra substitution-1"  } ['calt' ('deva' <'dflt' > ) ]
+Lookup: 2 0 0 "oT/auT Decomposition"  {"oT/auT Decomposition-1"  } [' RQD' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "Akhand ligatures"  {"Akhand ligatures-1"  } ['akhn' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "Repha"  {"Repha-1"  } ['rphf' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "Rakaar ligatures"  {"Rakaar ligatures-1"  } ['rkrf' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "Rakaar"  {"Rakaar-1"  } ['blwf' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "Half forms"  {"Half forms-1"  } ['half' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "Vattu forms"  {"Vattu forms-1"  } ['vatu' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "iT forms"  {"iT forms-1"  } ['pres' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "uT ligatures"  {"uT ligatures-1"  } ['blws' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "AT ligatures"  {"AT ligatures-1"  } ['psts' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "IT ligatures"  {"IT ligatures-1"  } ['psts' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "Contextual forms"  {"Contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "kara contextual substitution"  {"kara contextual substitution-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "sara contextual forms"  {"sara contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "Ara contextual forms"  {"Ara contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
+Lookup: 5 0 0 "Rounded ra substitution"  {"Rounded ra substitution-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
 Lookup: 1 0 0 "IT forms"  {"IT forms-1"  } []
 Lookup: 1 0 0 "Devanagari-like forms"  {"Devanagari-like forms-1" ("alt" ) } []
 Lookup: 1 0 0 "kara ligated forms"  {"kara ligated forms-1"  } []
@@ -58,20 +59,23 @@ Lookup: 1 0 0 "kaara ligated forms"  {"kaara ligated forms-1"  } []
 Lookup: 1 0 0 "post-sa forms"  {"post-sa forms-1"  } []
 Lookup: 1 0 0 "post-aa forms"  {"post-aa forms-1"  } []
 Lookup: 1 0 0 "Rounded ra"  {"Rounded ra-1"  } []
-Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('deva' <'dflt' > ) ]
-Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
+Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('dev2' <'dflt' > ) ]
+Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('dev2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ContextSub2: class "kara contextual substitution-1"  4 4 4 2
+ContextSub2: class "kara contextual substitution-1"  5 5 5 4
   Class: 2 ka
   Class: 2 kA
   Class: 11 ra rA ri ru
+  Class: 8 zerojoin
   BClass: 2 ka
   BClass: 2 kA
   BClass: 11 ra rA ri ru
+  BClass: 8 zerojoin
   FClass: 2 ka
   FClass: 2 kA
   FClass: 11 ra rA ri ru
+  FClass: 8 zerojoin
  2 0 0
   ClsList: 1 3
   BClsList:
@@ -86,60 +90,101 @@ ContextSub2: class "kara contextual substitution-1"  4 4 4 2
  2
   SeqLookup: 0 "kaara ligated forms" 
   SeqLookup: 1 "kaara ligated forms" 
-  ClassNames: "All_Others"  "ka"  "kA"  "ra"  
-  BClassNames: "All_Others"  "ka"  "kA"  "ra"  
-  FClassNames: "All_Others"  "ka"  "kA"  "ra"  
+ 3 0 0
+  ClsList: 1 4 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "kara ligated forms" 
+  SeqLookup: 2 "kara ligated forms" 
+ 3 0 0
+  ClsList: 2 4 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "kaara ligated forms" 
+  SeqLookup: 2 "kaara ligated forms" 
+  ClassNames: "All_Others"  "ka"  "kA"  "ra"  "zwj"  
+  BClassNames: "All_Others"  "ka"  "kA"  "ra"  "zwj"  
+  FClassNames: "All_Others"  "ka"  "kA"  "ra"  "zwj"  
 EndFPST
-ContextSub2: class "Rounded ra substitution-1"  3 3 3 1
+ContextSub2: class "Rounded ra substitution-1"  4 4 4 2
   Class: 32 kha tha da dha pa ya ha khra hra
   Class: 2 ra
+  Class: 8 zerojoin
   BClass: 32 kha tha da dha pa ya ha khra hra
   BClass: 2 ra
+  BClass: 8 zerojoin
   FClass: 32 kha tha da dha pa ya ha khra hra
   FClass: 2 ra
+  FClass: 8 zerojoin
  2 0 0
   ClsList: 1 2
   BClsList:
   FClsList:
  1
   SeqLookup: 1 "Rounded ra" 
-  ClassNames: "All_Others"  "letters"  "ra"  
-  BClassNames: "All_Others"  "letters"  "ra"  
-  FClassNames: "All_Others"  "letters"  "ra"  
+ 3 0 0
+  ClsList: 1 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "Rounded ra" 
+  ClassNames: "All_Others"  "letters"  "ra"  "zwj"  
+  BClassNames: "All_Others"  "letters"  "ra"  "zwj"  
+  FClassNames: "All_Others"  "letters"  "ra"  "zwj"  
 EndFPST
-ContextSub2: class "Ara contextual forms-1"  3 3 3 1
+ContextSub2: class "Ara contextual forms-1"  4 4 4 2
   Class: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
   Class: 2 ra
+  Class: 8 zerojoin
   BClass: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
   BClass: 2 ra
+  BClass: 8 zerojoin
   FClass: 503 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA rA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi ri vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru tru dru dhru bru lru vru sru hru
   FClass: 2 ra
+  FClass: 8 zerojoin
  2 0 0
   ClsList: 1 2
   BClsList:
   FClsList:
  1
   SeqLookup: 1 "post-aa forms" 
-  ClassNames: "All_Others"  "aa"  "ra"  
-  BClassNames: "All_Others"  "aa"  "ra"  
-  FClassNames: "All_Others"  "aa"  "ra"  
+ 3 0 0
+  ClsList: 1 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-aa forms" 
+  ClassNames: "All_Others"  "aa"  "ra"  "zwj"  
+  BClassNames: "All_Others"  "aa"  "ra"  "zwj"  
+  FClassNames: "All_Others"  "aa"  "ra"  "zwj"  
 EndFPST
-ContextSub2: class "sara contextual forms-1"  3 3 3 1
+ContextSub2: class "sara contextual forms-1"  4 4 4 2
   Class: 2 sa
   Class: 5 ra ri
+  Class: 8 zerojoin
   BClass: 2 sa
   BClass: 5 ra ri
+  BClass: 8 zerojoin
   FClass: 2 sa
   FClass: 5 ra ri
+  FClass: 8 zerojoin
  2 0 0
   ClsList: 1 2
   BClsList:
   FClsList:
  1
   SeqLookup: 1 "post-sa forms" 
-  ClassNames: "All_Others"  "sa"  "ra"  
-  BClassNames: "All_Others"  "sa"  "ra"  
-  FClassNames: "All_Others"  "sa"  "ra"  
+ 3 0 0
+  ClsList: 1 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 2 "post-sa forms" 
+  ClassNames: "All_Others"  "sa"  "ra"  "zwj"  
+  BClassNames: "All_Others"  "sa"  "ra"  "zwj"  
+  FClassNames: "All_Others"  "sa"  "ra"  "zwj"  
 EndFPST
 ContextSub2: class "Contextual forms-1"  3 3 3 1
   Class: 22 tha da dha pa ma ya ra
@@ -3763,7 +3808,7 @@ SplineSet
  -478.238 -259 l 29
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "Rakaar-1" ra virAma 
+Ligature2: "Rakaar-1" virAma ra 
 EndChar
 
 StartChar: ardhaka
@@ -4644,6 +4689,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ka raphala
+Ligature2: "Rakaar ligatures-1" ka virAma ra
 Substitution2: "IT forms-1" kri
 EndChar
 
@@ -4673,6 +4719,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" kha raphala
+Ligature2: "Rakaar ligatures-1" kha virAma ra
 Substitution2: "IT forms-1" khri
 EndChar
 
@@ -4701,6 +4748,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ga raphala
+Ligature2: "Rakaar ligatures-1" ga virAma ra
 Substitution2: "IT forms-1" gri
 EndChar
 
@@ -4730,6 +4778,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" gha raphala
+Ligature2: "Rakaar ligatures-1" gha virAma ra
 Substitution2: "IT forms-1" ghri
 EndChar
 
@@ -4756,6 +4805,7 @@ Refer: 172 -1 N 1 0 0 1 688 0 2
 Refer: 59 2306 N 1 0 0 1 762 -381 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Ga raphala
+Ligature2: "Rakaar ligatures-1" Ga virAma ra
 Substitution2: "IT forms-1" Gri
 EndChar
 
@@ -4772,6 +4822,7 @@ Refer: 16 2330 N 1 0 0 1 0 0 2
 Refer: 172 -1 S 1 0 0 1 568 45 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ca raphala
+Ligature2: "Rakaar ligatures-1" ca virAma ra
 Substitution2: "IT forms-1" cri
 EndChar
 
@@ -4801,6 +4852,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" cha raphala
+Ligature2: "Rakaar ligatures-1" cha virAma ra
 Substitution2: "IT forms-1" chri
 EndChar
 
@@ -4828,6 +4880,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ja raphala
+Ligature2: "Rakaar ligatures-1" ja virAma ra
 Substitution2: "IT forms-1" jri
 EndChar
 
@@ -4860,6 +4913,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" jha raphala
+Ligature2: "Rakaar ligatures-1" jha virAma ra
 Substitution2: "IT forms-1" jhri
 EndChar
 
@@ -4889,6 +4943,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Ja raphala
+Ligature2: "Rakaar ligatures-1" Ja virAma ra
 Substitution2: "IT forms-1" Jri
 EndChar
 
@@ -4905,6 +4960,7 @@ Refer: 21 2335 N 1 0 0 1 0 0 2
 Refer: 172 -1 N 1 0 0 1 600 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Ta raphala
+Ligature2: "Rakaar ligatures-1" Ta virAma ra
 Substitution2: "IT forms-1" Tri
 EndChar
 
@@ -4921,6 +4977,7 @@ Refer: 22 2336 S 1 0 0 1 0 0 2
 Refer: 172 -1 N 1 0 0 1 600 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Tha raphala
+Ligature2: "Rakaar ligatures-1" Tha virAma ra
 Substitution2: "IT forms-1" Thri
 EndChar
 
@@ -4937,6 +4994,7 @@ Refer: 23 2337 N 1 0 0 1 0 0 2
 Refer: 172 -1 N 1 0 0 1 636 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Da raphala
+Ligature2: "Rakaar ligatures-1" Da virAma ra
 Substitution2: "IT forms-1" Dri
 EndChar
 
@@ -4953,6 +5011,7 @@ Refer: 24 2338 N 1 0 0 1 0 0 2
 Refer: 172 -1 N 1 0 0 1 684 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Dha raphala
+Ligature2: "Rakaar ligatures-1" Dha virAma ra
 Substitution2: "IT forms-1" Dhri
 EndChar
 
@@ -4981,6 +5040,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Na raphala
+Ligature2: "Rakaar ligatures-1" Na virAma ra
 Substitution2: "IT forms-1" Nri
 EndChar
 
@@ -5007,6 +5067,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ta raphala
+Ligature2: "Rakaar ligatures-1" ta virAma ra
 Substitution2: "IT forms-1" tri
 EndChar
 
@@ -5036,6 +5097,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" tha raphala
+Ligature2: "Rakaar ligatures-1" tha virAma ra
 Substitution2: "IT forms-1" thri
 EndChar
 
@@ -5062,6 +5124,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" da raphala
+Ligature2: "Rakaar ligatures-1" da virAma ra
 Substitution2: "IT forms-1" dri
 EndChar
 
@@ -5093,6 +5156,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" dha raphala
+Ligature2: "Rakaar ligatures-1" dha virAma ra
 Substitution2: "IT forms-1" dhri
 EndChar
 
@@ -5120,6 +5184,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" na raphala
+Ligature2: "Rakaar ligatures-1" na virAma ra
 Substitution2: "IT forms-1" nri
 EndChar
 
@@ -5146,6 +5211,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" pa raphala
+Ligature2: "Rakaar ligatures-1" pa virAma ra
 Substitution2: "IT forms-1" pri
 EndChar
 
@@ -5173,6 +5239,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" pha raphala
+Ligature2: "Rakaar ligatures-1" pha virAma ra
 Substitution2: "IT forms-1" phri
 EndChar
 
@@ -5202,6 +5269,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ba raphala
+Ligature2: "Rakaar ligatures-1" ba virAma ra
 Substitution2: "IT forms-1" bri
 EndChar
 
@@ -5231,6 +5299,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" bha raphala
+Ligature2: "Rakaar ligatures-1" bha virAma ra
 Substitution2: "IT forms-1" bhri
 EndChar
 
@@ -5256,6 +5325,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ma raphala
+Ligature2: "Rakaar ligatures-1" ma virAma ra
 Substitution2: "IT forms-1" mri
 EndChar
 
@@ -5284,6 +5354,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ya raphala
+Ligature2: "Rakaar ligatures-1" ya virAma ra
 Substitution2: "IT forms-1" yri
 EndChar
 
@@ -5300,6 +5371,7 @@ Refer: 37 2352 N 1 0 0 1 0 0 2
 Refer: 172 -1 S 1 0 0 1 644 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ra raphala
+Ligature2: "Rakaar ligatures-1" ra virAma ra
 Substitution2: "IT forms-1" rri
 EndChar
 
@@ -5327,6 +5399,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" la raphala
+Ligature2: "Rakaar ligatures-1" la virAma ra
 Substitution2: "IT forms-1" lri
 EndChar
 
@@ -5354,6 +5427,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" va raphala
+Ligature2: "Rakaar ligatures-1" va virAma ra
 Substitution2: "IT forms-1" vri
 EndChar
 
@@ -5381,6 +5455,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" za raphala
+Ligature2: "Rakaar ligatures-1" za virAma ra
 Substitution2: "IT forms-1" zri
 EndChar
 
@@ -5410,6 +5485,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" Sa raphala
+Ligature2: "Rakaar ligatures-1" Sa virAma ra
 Substitution2: "IT forms-1" Sri
 EndChar
 
@@ -5441,6 +5517,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" sa raphala
+Ligature2: "Rakaar ligatures-1" sa virAma ra
 Substitution2: "IT forms-1" sri
 EndChar
 
@@ -5468,6 +5545,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ha raphala
+Ligature2: "Rakaar ligatures-1" ha virAma ra
 Substitution2: "IT forms-1" hri
 EndChar
 
@@ -5484,6 +5562,7 @@ Refer: 44 2355 S 1 0 0 1 0 0 2
 Refer: 172 -1 S 1 0 0 1 680 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" La raphala
+Ligature2: "Rakaar ligatures-1" La virAma ra
 Substitution2: "IT forms-1" Lri
 EndChar
 
@@ -5516,6 +5595,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" kSa raphala
+Ligature2: "Rakaar ligatures-1" kSa virAma ra
 Substitution2: "IT forms-1" kSri
 EndChar
 
@@ -5532,6 +5612,7 @@ Refer: 235 -1 N 1 0 0 1 308 0 2
 Refer: 190 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" jJa raphala
+Ligature2: "Rakaar ligatures-1" jJa virAma ra
 Substitution2: "IT forms-1" jJri
 EndChar
 
@@ -7884,6 +7965,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaka raphala
+Ligature2: "Half forms-1" kra virAma
 EndChar
 
 StartChar: ardhakhra
@@ -7909,6 +7991,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhakha raphala
+Ligature2: "Half forms-1" khra virAma
 EndChar
 
 StartChar: ardhagra
@@ -7931,6 +8014,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaga raphala
+Ligature2: "Half forms-1" gra virAma
 EndChar
 
 StartChar: ardhaghra
@@ -7956,6 +8040,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhagha raphala
+Ligature2: "Half forms-1" ghra virAma
 EndChar
 
 StartChar: ardhaGra
@@ -7977,6 +8062,7 @@ EndSplineSet
 Refer: 15 2329 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaGa raphala
+Ligature2: "Half forms-1" Gra virAma
 EndChar
 
 StartChar: ardhacra
@@ -8003,6 +8089,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaca raphala
+Ligature2: "Half forms-1" cra virAma
 EndChar
 
 StartChar: ardhachra
@@ -8023,6 +8110,7 @@ EndSplineSet
 Refer: 17 2331 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhacha raphala
+Ligature2: "Half forms-1" chra virAma
 EndChar
 
 StartChar: ardhajra
@@ -8047,6 +8135,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhaja raphala
+Ligature2: "Half forms-1" jra virAma
 EndChar
 
 StartChar: ardhajhra
@@ -8074,6 +8163,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhajha raphala
+Ligature2: "Half forms-1" jhra virAma
 EndChar
 
 StartChar: ardhaJra
@@ -8098,6 +8188,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaJa raphala
+Ligature2: "Half forms-1" Jra virAma
 EndChar
 
 StartChar: ardhaTra
@@ -8119,6 +8210,7 @@ EndSplineSet
 Refer: 21 2335 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaTa raphala
+Ligature2: "Half forms-1" Tra virAma
 EndChar
 
 StartChar: ardhaThra
@@ -8134,6 +8226,7 @@ Refer: 59 2306 N 1 0 0 1 426 -612 2
 Refer: 370 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaTha raphala
+Ligature2: "Half forms-1" Thra virAma
 EndChar
 
 StartChar: ardhaDra
@@ -8155,6 +8248,7 @@ EndSplineSet
 Refer: 23 2337 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaDa raphala
+Ligature2: "Half forms-1" Dra virAma
 EndChar
 
 StartChar: ardhaDhra
@@ -8176,6 +8270,7 @@ EndSplineSet
 Refer: 24 2338 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaDha raphala
+Ligature2: "Half forms-1" Dhra virAma
 EndChar
 
 StartChar: ardhaNra
@@ -8198,6 +8293,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhaNa raphala
+Ligature2: "Half forms-1" Nra virAma
 EndChar
 
 StartChar: ardhatra
@@ -8219,6 +8315,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhata raphala
+Ligature2: "Half forms-1" tra virAma
 EndChar
 
 StartChar: ardhathra
@@ -8241,6 +8338,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhatha raphala
+Ligature2: "Half forms-1" thra virAma
 EndChar
 
 StartChar: ardhadra
@@ -8261,6 +8359,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhada raphala
+Ligature2: "Half forms-1" dra virAma
 EndChar
 
 StartChar: ardhadhra
@@ -8286,6 +8385,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhadha raphala
+Ligature2: "Half forms-1" dhra virAma
 EndChar
 
 StartChar: ardhanra
@@ -8310,6 +8410,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhana raphala
+Ligature2: "Half forms-1" nra virAma
 EndChar
 
 StartChar: ardhapra
@@ -8331,6 +8432,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhapa raphala
+Ligature2: "Half forms-1" pra virAma
 EndChar
 
 StartChar: ardhaphra
@@ -8353,6 +8455,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhapha raphala
+Ligature2: "Half forms-1" phra virAma
 EndChar
 
 StartChar: ardhabra
@@ -8376,6 +8479,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhaba raphala
+Ligature2: "Half forms-1" bra virAma
 EndChar
 
 StartChar: ardhabhra
@@ -8400,6 +8504,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhabha raphala
+Ligature2: "Half forms-1" bhra virAma
 EndChar
 
 StartChar: ardhamra
@@ -8420,6 +8525,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhama raphala
+Ligature2: "Half forms-1" mra virAma
 EndChar
 
 StartChar: ardhayra
@@ -8441,6 +8547,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhaya raphala
+Ligature2: "Half forms-1" yra virAma
 EndChar
 
 StartChar: ardharra
@@ -8459,6 +8566,7 @@ EndSplineSet
 Refer: 172 -1 N 1 0 0 1 596.993 222 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhara raphala
+Ligature2: "Half forms-1" rra virAma
 EndChar
 
 StartChar: ardhalra
@@ -8482,6 +8590,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhala raphala
+Ligature2: "Half forms-1" lra virAma
 EndChar
 
 StartChar: ardhavra
@@ -8503,6 +8612,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhava raphala
+Ligature2: "Half forms-1" vra virAma
 EndChar
 
 StartChar: ardhazra
@@ -8524,6 +8634,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhaza raphala
+Ligature2: "Half forms-1" zra virAma
 EndChar
 
 StartChar: ardhaSra
@@ -8547,6 +8658,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhaSa raphala
+Ligature2: "Half forms-1" Sra virAma
 EndChar
 
 StartChar: ardhasra
@@ -8572,6 +8684,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhasa raphala
+Ligature2: "Half forms-1" sra virAma
 EndChar
 
 StartChar: ardhahra
@@ -8592,6 +8705,7 @@ EndSplineSet
 Refer: 43 2361 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaha raphala
+Ligature2: "Half forms-1" hra virAma
 EndChar
 
 StartChar: ardhaLra
@@ -8613,6 +8727,7 @@ EndSplineSet
 Refer: 44 2355 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhaLa raphala
+Ligature2: "Half forms-1" Lra virAma
 EndChar
 
 StartChar: ardhakSra
@@ -8640,6 +8755,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Vattu forms-1" ardhakSa raphala
+Ligature2: "Half forms-1" kSra virAma
 EndChar
 
 StartChar: ardhajJra
@@ -8653,6 +8769,7 @@ Refer: 190 -1 N 1 0 0 1 0 0 2
 Refer: 379 -1 N 1 0 0 1 308 0 2
 LCarets2: 2 0 0 
 Ligature2: "Vattu forms-1" ardhajJa raphala
+Ligature2: "Half forms-1" jJra virAma
 EndChar
 
 StartChar: space
@@ -8898,10 +9015,12 @@ AnchorPoint: "eT" 107.316 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120.816 600 m 1
+120.816 600 m 0
  255.816 600 318.816 576 318.816 447 c 0
  318.816 335.959 129.816 372 120.816 279 c 0
- 105.146 117.063 318.816 0 432.816 0 c 1
+ 105.146 117.063 318.816 0 432.816 0 c 0
+0 600 m 1
+ 512 600 l 1
 EndSplineSet
 EndChar
 EndChars
