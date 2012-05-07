@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336370821
+ModificationTime: 1336371785
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -67,7 +67,6 @@ Lookup: 1 0 0 "ura2"  {"ura2-1" ("postu2" ) } []
 Lookup: 1 0 0 "ura3"  {"ura3-1" ("postu3" ) } []
 Lookup: 1 0 0 "ura4"  {"ura4-1" ("postu4" ) } []
 Lookup: 1 0 0 "ura5"  {"ura5-1" ("postu5" ) } []
-Lookup: 262 0 0 "Above-base mark2mark"  {"Above-base mark2mark-1"  } ['abvm' ('dev2' <'dflt' > ) ]
 Lookup: 260 0 0 "Above-base marks"  {"Above-base marks-1"  } ['abvm' ('dev2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -216,15 +215,15 @@ ContextSub2: class "Rounded ra substitution-1"  5 5 5 4
   Class: 32 kha tha da dha pa ya ha khra hra
   Class: 5 ra ri
   Class: 8 zerojoin
-  Class: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  Class: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
   BClass: 32 kha tha da dha pa ya ha khra hra
   BClass: 5 ra ri
   BClass: 8 zerojoin
-  BClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  BClass: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
   FClass: 32 kha tha da dha pa ya ha khra hra
   FClass: 5 ra ri
   FClass: 8 zerojoin
-  FClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  FClass: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -258,17 +257,17 @@ ContextSub2: class "Ara contextual forms-1"  6 6 6 16
   Class: 2 ra
   Class: 5 rA ri
   Class: 8 zerojoin
-  Class: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  Class: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
   BClass: 495 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru bru lru vru hru daNDa dvidaNDa
   BClass: 2 ra
   BClass: 5 rA ri
   BClass: 8 zerojoin
-  BClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  BClass: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
   FClass: 495 gA ghA GA cA chA DA DhA NA tA thA dA dhA pA zA SA sA LA kSA ki khi gi ghi Gi ci chi ji jhi Ji Ti Thi Di Dhi Ni ti thi di dhi ni pi phi bi bhi mi yi vi zi Si si hi Li kSi jJi khu cu jhu Ju tu du dhu bu lu vu su hu grA ghrA GrA crA chrA DrA DhrA NrA trA thrA drA dhrA prA rrA zrA SrA srA LrA kSrA kri khri gri ghri Gri cri chri jri jhri Jri Tri Thri Dri Dhri Nri tri thri dri dhri nri pri phri bri bhri mri yri rri vri zri Sri sri hri Lri kSri jJri khru cru jhru Jru bru lru vru hru daNDa dvidaNDa
   FClass: 2 ra
   FClass: 5 rA ri
   FClass: 8 zerojoin
-  FClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  FClass: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -373,15 +372,15 @@ ContextSub2: class "sara contextual forms-1"  5 5 5 4
   Class: 2 sa
   Class: 8 ra ri rA
   Class: 8 zerojoin
-  Class: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  Class: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
   BClass: 2 sa
   BClass: 8 ra ri rA
   BClass: 8 zerojoin
-  BClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  BClass: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
   FClass: 2 sa
   FClass: 8 ra ri rA
   FClass: 8 zerojoin
-  FClass: 79 eT aiT repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra anusvAra
+  FClass: 103 eT aiT anusvAra repha eM aiM repha_e repha_ai repha_eM repha_aiM repha_anusvAra ET EM repha_ET repha_EM
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -477,7 +476,7 @@ ContextSub2: class "iT forms-1"  4 4 4 5
   FClassNames: "All_Others"  "iT"  "Full"  "Half"  
 EndFPST
 LangName: 1033 "" "" "Medium" 
-Encoding: Original
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
@@ -492,8 +491,8 @@ Grid
   Named: "topline" 
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "anusvAra2"  "Above-base mark2mark-1" "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 604 604
+AnchorClass2: "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
+BeginChars: 611 611
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -1631,7 +1630,6 @@ Encoding: 55 2376 55
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvAra2" -10 800 basemark 0
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
@@ -1686,7 +1684,6 @@ Encoding: 59 2306 59
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvAra2" -100 800 mark 0
 AnchorPoint: "anusvara" -100 800 mark 0
 LayerCount: 2
 Fore
@@ -9621,7 +9618,7 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 59 2306 N 1 0 0 1 50 0 2
+Refer: 59 2306 S 1 0 0 1 50 0 2
 Refer: 55 2376 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "above-base matra conjunction-1" aiT anusvAra
@@ -12848,6 +12845,113 @@ SplineSet
 0 600 m 1
  720 600 l 1
 EndSplineSet
+EndChar
+
+StartChar: ET
+Encoding: 604 2373 604
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-450 900.8 m 17
+ -464 830.6 -333.424 763.951 -267.679 747.8 c 0
+ -169.982 723.8 -21.6787 812.92 -24.6787 854.92 c 0
+-100 600 m 9
+-100 600 m 21
+EndSplineSet
+EndChar
+
+StartChar: OT
+Encoding: 605 2377 605
+Width: 260
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 604 2373 N 1 0 0 1 190 0 2
+Refer: 47 2366 N 1 0 0 1 0 0 2
+MultipleSubs2: "oT/auT Decomposition-1" AT ET
+EndChar
+
+StartChar: EM
+Encoding: 606 -1 606
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-100 600 m 21,0,1
+EndSplineSet
+Refer: 59 2306 S 1 0 0 1 -112 141 2
+Refer: 604 2373 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
+Ligature2: "above-base matra conjunction-1" ET anusvAra
+EndChar
+
+StartChar: repha_ET
+Encoding: 607 -1 607
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-450 900.8 m 17
+ -464 830.6 -333.424 763.951 -267.679 747.8 c 0
+ -243.62 741.89 -216.493 742.839 -189.311 748.256 c 1
+-100 600 m 9
+-100 600 m 17
+ -287 657.8 -95.5811 900 20 900 c 0
+ 117.419 900 159.419 845.02 174.419 803.02 c 0
+-100 600 m 21
+EndSplineSet
+Ligature2: "above-base matra conjunction-1" repha ET
+EndChar
+
+StartChar: repha_EM
+Encoding: 608 -1 608
+Width: 0
+VWidth: 0
+Flags: W
+AnchorPoint: "eT" -100 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-100 600 m 21,0,1
+EndSplineSet
+Refer: 59 2306 S 1 0 0 1 130 -60 2
+Refer: 607 -1 N 1 0 0 1 0 0 2
+Ligature2: "above-base matra conjunction-1" repha ET anusvAra
+EndChar
+
+StartChar: Et
+Encoding: 609 2317 609
+Width: 899
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 683 944 basechar 0
+LayerCount: 2
+Fore
+Refer: 604 2373 N 1 0 0 1 904 0 2
+Refer: 0 2309 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ot
+Encoding: 610 2321 610
+Width: 843
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 550 930 basechar 0
+LayerCount: 2
+Fore
+Refer: 604 2373 N 1 0 0 1 778 0 2
+Refer: 1 2310 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
