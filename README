@@ -1,0 +1,14 @@
+MarathiCursive font
+===================
+
+'MarathiCursive' is a Modi script font which uses OpenType feature for Deva-
+nagari.  This font shows Modi script instead of Devanagari.  Modi is the
+shorthand script which was used to write Marathi language, which is spoken in
+Maharashtra, western India.
+
+Limitations:
+Under Windows OS (with UniScribe), it requires a ZWJ between a certain letter
+and following 'ra' in order to show intersyllabic ligatures.
+
+
+MihailJP <mihailjp@gmail.com>
