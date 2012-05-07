@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336366430
+ModificationTime: 1336366576
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -1698,10 +1698,17 @@ EndChar
 
 StartChar: visarga
 Encoding: 60 2307 60
-Width: 1000
+Width: 242
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+0 600 m 1
+ 242 600 l 1
+EndSplineSet
+Refer: 59 2306 N 1 0 0 1 203 -630 2
+Refer: 59 2306 N 1 0 0 1 203 -408 2
 EndChar
 
 StartChar: kA
