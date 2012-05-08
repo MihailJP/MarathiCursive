@@ -1,0 +1,1224 @@
+/*
+    Glyph information for font MarathiCursiveT at Tue May  8 07:36:12 2012
+*/
+
+table(glyph) {MUnits = 2048};
+g__notdef = glyphid(0);
+g__null = glyphid(1);
+g_nonmarkingreturn = glyphid(2);
+g_ak_ara = glyphid(3) {anusvaraS = point(1516m, 1638m)};
+g__ak_ara = glyphid(4) {anusvaraS = point(1352m, 1638m)};
+g_it = glyphid(5) {anusvaraS = point(1434m, 1638m)};
+g__it = glyphid(6) {anusvaraS = point(1434m, 1638m)};
+g_ut = glyphid(7) {anusvaraS = point(1638m, 1638m)};
+g__ut = glyphid(8) {anusvaraS = point(1638m, 1638m)};
+g__rt = glyphid(9) {anusvaraS = point(983m, 1638m); eTS = point(952m, 1229m)};
+g_et = glyphid(10) {anusvaraS = point(1761m, 1638m)};
+g_ait = glyphid(11) {anusvaraS = point(1761m, 1638m)};
+g_ot = glyphid(12) {anusvaraS = point(1475m, 1638m)};
+g_aut = glyphid(13) {anusvaraS = point(1475m, 1638m)};
+g_ka = glyphid(14) {anusvaraS = point(1024m, 1638m); eTS = point(1264m, 1229m)};
+g_kha = glyphid(15) {anusvaraS = point(1024m, 1638m); eTS = point(1270m, 1233m)};
+g_ga = glyphid(16) {anusvaraS = point(717m, 1638m); eTS = point(975m, 1229m)};
+g_gha = glyphid(17) {anusvaraS = point(717m, 1638m); eTS = point(967m, 1229m)};
+g__ga = glyphid(18) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g_ca = glyphid(19) {anusvaraS = point(819m, 1638m); eTS = point(874m, 1229m)};
+g_cha = glyphid(20) {anusvaraS = point(819m, 1638m); eTS = point(965m, 1229m)};
+g_ja = glyphid(21) {anusvaraS = point(901m, 1638m); eTS = point(1112m, 1229m)};
+g_jha = glyphid(22) {anusvaraS = point(1126m, 1638m); eTS = point(1329m, 1229m)};
+g__ja = glyphid(23) {anusvaraS = point(1126m, 1638m); eTS = point(1333m, 1229m)};
+g__ta = glyphid(24) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g__tha = glyphid(25) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g__da = glyphid(26) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g__dha = glyphid(27) {anusvaraS = point(922m, 1638m); eTS = point(940m, 1229m)};
+g__na = glyphid(28) {anusvaraS = point(1024m, 1638m); eTS = point(1098m, 1229m)};
+g_ta = glyphid(29) {anusvaraS = point(1024m, 1638m); eTS = point(993m, 1229m)};
+g_tha = glyphid(30) {anusvaraS = point(1126m, 1638m); eTS = point(1352m, 1229m)};
+g_da = glyphid(31) {anusvaraS = point(819m, 1638m); eTS = point(1192m, 1233m)};
+g_dha = glyphid(32) {anusvaraS = point(942m, 1638m); eTS = point(1024m, 1229m)};
+g_na = glyphid(33) {anusvaraS = point(717m, 1638m); eTS = point(952m, 1229m)};
+g_pa = glyphid(34) {anusvaraS = point(819m, 1638m); eTS = point(1135m, 1229m)};
+g_pha = glyphid(35) {anusvaraS = point(1024m, 1638m); eTS = point(1554m, 1229m)};
+g_ba = glyphid(36) {anusvaraS = point(819m, 1638m); eTS = point(1182m, 1229m)};
+g_bha = glyphid(37) {anusvaraS = point(860m, 1638m); eTS = point(1206m, 1229m)};
+g_ma = glyphid(38) {anusvaraS = point(819m, 1638m); eTS = point(1206m, 1229m)};
+g_ya = glyphid(39) {anusvaraS = point(819m, 1638m); eTS = point(1194m, 1229m)};
+g_ra = glyphid(40) {anusvaraS = point(1024m, 1638m); eTS = point(1038m, 1229m)};
+g_la = glyphid(41) {anusvaraS = point(819m, 1638m); eTS = point(1100m, 1229m)};
+g_va = glyphid(42) {anusvaraS = point(819m, 1638m); eTS = point(1161m, 1229m)};
+g_za = glyphid(43) {anusvaraS = point(819m, 1638m); eTS = point(1280m, 1229m)};
+g__sa = glyphid(44) {anusvaraS = point(717m, 1638m); eTS = point(909m, 1229m)};
+g_sa = glyphid(45) {anusvaraS = point(922m, 1638m); eTS = point(1006m, 1229m)};
+g_ha = glyphid(46) {anusvaraS = point(717m, 1638m); eTS = point(877m, 1229m)};
+g__la = glyphid(47) {anusvaraS = point(860m, 1638m); eTS = point(913m, 1229m)};
+g_k_sa = glyphid(48) {anusvaraS = point(1024m, 1638m); eTS = point(1270m, 1229m)};
+g_j_ja = glyphid(49) {anusvaraS = point(1348m, 1638m); eTS = point(1583m, 1229m)};
+g__a_t = glyphid(50) {anusvaraS = point(213m, 1638m); eTS = point(182m, 1229m)};
+g_i_t = glyphid(51) {anusvaraS = point(410m, 1638m)};
+g__i_t = glyphid(52) {anusvaraS = point(410m, 1638m)};
+g_u_t = glyphid(53);
+g__u_t = glyphid(54);
+g__r_t = glyphid(55);
+g_e_t = glyphid(56) {eTM = point(-205m, 1229m)};
+g_ai_t = glyphid(57) {eTM = point(-205m, 1229m)};
+g_o_t = glyphid(58);
+g_au_t = glyphid(59);
+g_vir_ama = glyphid(60);
+g_anusv_ara = glyphid(61) {anusvaraM = point(-205m, 1638m)};
+g_visarga = glyphid(62);
+g_k_a = glyphid(63) {anusvaraS = point(1229m, 1638m); eTS = point(1468m, 1229m)};
+g_kh_a = glyphid(64) {anusvaraS = point(1434m, 1638m); eTS = point(1679m, 1233m)};
+g_g_a = glyphid(65) {anusvaraS = point(1559m, 1638m); eTS = point(1528m, 1229m)};
+g_gh_a = glyphid(66) {anusvaraS = point(1552m, 1638m); eTS = point(1522m, 1229m)};
+g__g_a = glyphid(67) {anusvaraS = point(1810m, 1638m); eTS = point(1780m, 1229m)};
+g_c_a = glyphid(68) {anusvaraS = point(819m, 1638m); eTS = point(1006m, 1229m)};
+g_ch_a = glyphid(69) {anusvaraS = point(1589m, 1638m); eTS = point(1559m, 1229m)};
+g_j_a = glyphid(70) {anusvaraS = point(965m, 1638m); eTS = point(1352m, 1229m)};
+g_jh_a = glyphid(71) {anusvaraS = point(1536m, 1638m); eTS = point(1739m, 1229m)};
+g__j_a = glyphid(72) {anusvaraS = point(1536m, 1638m); eTS = point(1743m, 1229m)};
+g__t_a = glyphid(73) {anusvaraS = point(1393m, 1638m); eTS = point(1454m, 1229m)};
+g__th_a = glyphid(74) {anusvaraS = point(1393m, 1638m); eTS = point(1454m, 1229m)};
+g__d_a = glyphid(75) {anusvaraS = point(1632m, 1638m); eTS = point(1602m, 1229m)};
+g__dh_a = glyphid(76) {anusvaraS = point(1831m, 1638m); eTS = point(1800m, 1229m)};
+g__n_a = glyphid(77) {anusvaraS = point(1661m, 1638m); eTS = point(1630m, 1229m)};
+g_t_a = glyphid(78) {anusvaraS = point(1708m, 1638m); eTS = point(1677m, 1229m)};
+g_th_a = glyphid(79) {anusvaraS = point(1663m, 1638m); eTS = point(1632m, 1229m)};
+g_d_a = glyphid(80) {anusvaraS = point(1151m, 1638m); eTS = point(1120m, 1229m)};
+g_dh_a = glyphid(81) {anusvaraS = point(1690m, 1638m); eTS = point(1659m, 1229m)};
+g_n_a = glyphid(82) {anusvaraS = point(860m, 1638m); eTS = point(1247m, 1229m)};
+g_p_a = glyphid(83) {anusvaraS = point(1391m, 1638m); eTS = point(1360m, 1229m)};
+g_ph_a = glyphid(84) {anusvaraS = point(1434m, 1638m); eTS = point(1964m, 1229m)};
+g_b_a = glyphid(85) {anusvaraS = point(922m, 1638m); eTS = point(1284m, 1229m)};
+g_bh_a = glyphid(86) {anusvaraS = point(1229m, 1638m); eTS = point(1468m, 1229m)};
+g_m_a = glyphid(87) {anusvaraS = point(891m, 1638m); eTS = point(1278m, 1229m)};
+g_y_a = glyphid(88) {anusvaraS = point(952m, 1638m); eTS = point(1483m, 1229m)};
+g_r_a = glyphid(89) {anusvaraS = point(1364m, 1638m); eTS = point(1333m, 1229m)};
+g_l_a = glyphid(90) {anusvaraS = point(967m, 1638m); eTS = point(1354m, 1229m)};
+g_v_a = glyphid(91) {anusvaraS = point(922m, 1638m); eTS = point(1284m, 1229m)};
+g_z_a = glyphid(92) {anusvaraS = point(1845m, 1638m); eTS = point(1815m, 1229m)};
+g__s_a = glyphid(93) {anusvaraS = point(1391m, 1638m); eTS = point(1360m, 1229m)};
+g_s_a = glyphid(94) {anusvaraS = point(922m, 1638m); eTS = point(1341m, 1229m)};
+g_h_a = glyphid(95) {anusvaraS = point(911m, 1638m); eTS = point(1278m, 1229m)};
+g__l_a = glyphid(96) {anusvaraS = point(1868m, 1638m); eTS = point(1837m, 1229m)};
+g_k_s_a = glyphid(97) {anusvaraS = point(1808m, 1638m); eTS = point(1778m, 1229m)};
+g_j_j_a = glyphid(98) {anusvaraS = point(1491m, 1638m); eTS = point(1878m, 1229m)};
+g_ki = glyphid(99) {anusvaraS = point(2009m, 1638m)};
+g_khi = glyphid(100) {anusvaraS = point(1966m, 1638m)};
+g_gi = glyphid(101) {anusvaraS = point(1755m, 1638m)};
+g_ghi = glyphid(102) {anusvaraS = point(1749m, 1638m)};
+g__gi = glyphid(103) {anusvaraS = point(2007m, 1638m)};
+g_ci = glyphid(104) {anusvaraS = point(1634m, 1638m)};
+g_chi = glyphid(105) {anusvaraS = point(1786m, 1638m)};
+g_ji = glyphid(106) {anusvaraS = point(1767m, 1638m)};
+g_jhi = glyphid(107) {anusvaraS = point(2116m, 1638m)};
+g__ji = glyphid(108) {anusvaraS = point(2064m, 1638m)};
+g__ti = glyphid(109) {anusvaraS = point(1718m, 1638m)};
+g__thi = glyphid(110) {anusvaraS = point(1718m, 1638m)};
+g__di = glyphid(111) {anusvaraS = point(1829m, 1638m)};
+g__dhi = glyphid(112) {anusvaraS = point(2028m, 1638m)};
+g__ni = glyphid(113) {anusvaraS = point(1858m, 1638m)};
+g_ti = glyphid(114) {anusvaraS = point(1905m, 1638m)};
+g_thi = glyphid(115) {anusvaraS = point(2173m, 1638m)};
+g_di = glyphid(116) {anusvaraS = point(1888m, 1638m)};
+g_dhi = glyphid(117) {anusvaraS = point(1874m, 1638m)};
+g_ni = glyphid(118) {anusvaraS = point(1608m, 1638m)};
+g_pi = glyphid(119) {anusvaraS = point(1921m, 1638m)};
+g_phi = glyphid(120) {anusvaraS = point(2210m, 1638m)};
+g_bi = glyphid(121) {anusvaraS = point(1958m, 1638m)};
+g_bhi = glyphid(122) {anusvaraS = point(1946m, 1638m)};
+g_mi = glyphid(123) {anusvaraS = point(1950m, 1638m)};
+g_yi = glyphid(124) {anusvaraS = point(1849m, 1638m)};
+g_ri = glyphid(125) {anusvaraS = point(1821m, 1638m)};
+g_li = glyphid(126) {anusvaraS = point(758m, 1638m)};
+g_vi = glyphid(127) {anusvaraS = point(1937m, 1638m)};
+g_zi = glyphid(128) {anusvaraS = point(2042m, 1638m)};
+g__si = glyphid(129) {anusvaraS = point(1587m, 1638m)};
+g_si = glyphid(130) {anusvaraS = point(2083m, 1638m)};
+g_hi = glyphid(131) {anusvaraS = point(1729m, 1638m)};
+g__li = glyphid(132) {anusvaraS = point(2064m, 1638m)};
+g_k_si = glyphid(133) {anusvaraS = point(2005m, 1638m)};
+g_j_ji = glyphid(134) {anusvaraS = point(2238m, 1638m)};
+g_ku = glyphid(135) {anusvaraS = point(1720m, 1638m)};
+g_khu = glyphid(136) {anusvaraS = point(1802m, 1638m)};
+g_gu = glyphid(137) {anusvaraS = point(717m, 1638m)};
+g_ghu = glyphid(138) {anusvaraS = point(717m, 1638m)};
+g__gu = glyphid(139) {anusvaraS = point(819m, 1638m)};
+g_cu = glyphid(140) {anusvaraS = point(819m, 1638m)};
+g_chu = glyphid(141) {anusvaraS = point(819m, 1638m)};
+g_ju = glyphid(142) {anusvaraS = point(1229m, 1638m)};
+g_jhu = glyphid(143) {anusvaraS = point(1126m, 1638m)};
+g__ju = glyphid(144) {anusvaraS = point(1126m, 1638m)};
+g__tu = glyphid(145) {anusvaraS = point(983m, 1638m)};
+g__thu = glyphid(146) {anusvaraS = point(983m, 1638m)};
+g__du = glyphid(147) {anusvaraS = point(819m, 1638m)};
+g__dhu = glyphid(148) {anusvaraS = point(922m, 1638m)};
+g__nu = glyphid(149) {anusvaraS = point(1024m, 1638m)};
+g_tu = glyphid(150) {anusvaraS = point(1597m, 1638m)};
+g_thu = glyphid(151) {anusvaraS = point(850m, 1638m)};
+g_du = glyphid(152) {anusvaraS = point(1618m, 1638m)};
+g_dhu = glyphid(153) {anusvaraS = point(942m, 1638m)};
+g_nu = glyphid(154) {anusvaraS = point(1229m, 1638m)};
+g_pu = glyphid(155) {anusvaraS = point(614m, 1638m)};
+g_phu = glyphid(156) {anusvaraS = point(1024m, 1638m)};
+g_bu = glyphid(157) {anusvaraS = point(819m, 1638m)};
+g_bhu = glyphid(158) {anusvaraS = point(860m, 1638m)};
+g_mu = glyphid(159) {anusvaraS = point(860m, 1638m)};
+g_yu = glyphid(160) {anusvaraS = point(850m, 1638m)};
+g_ru = glyphid(161) {anusvaraS = point(909m, 1638m)};
+g_lu = glyphid(162) {anusvaraS = point(819m, 1638m)};
+g_vu = glyphid(163) {anusvaraS = point(819m, 1638m)};
+g_zu = glyphid(164) {anusvaraS = point(819m, 1638m)};
+g__su = glyphid(165) {anusvaraS = point(717m, 1638m)};
+g_su = glyphid(166) {anusvaraS = point(913m, 1638m)};
+g_hu = glyphid(167) {anusvaraS = point(1597m, 1638m)};
+g__lu = glyphid(168) {anusvaraS = point(860m, 1638m)};
+g_k_su = glyphid(169) {anusvaraS = point(1024m, 1638m)};
+g_j_ju = glyphid(170) {anusvaraS = point(1860m, 1638m)};
+g_u_t_full = glyphid(171);
+g_void = glyphid(172);
+g_repha = glyphid(173) {eTM = point(-205m, 1229m)};
+g_raphala = glyphid(174);
+g_ardhaka = glyphid(175);
+g_ardhakha = glyphid(176);
+g_ardhaga = glyphid(177);
+g_ardhagha = glyphid(178);
+g_ardha_ga = glyphid(179) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g_ardhaca = glyphid(180);
+g_ardhacha = glyphid(181) {anusvaraS = point(819m, 1638m); eTS = point(965m, 1229m)};
+g_ardhaja = glyphid(182);
+g_ardhajha = glyphid(183);
+g_ardha_ja = glyphid(184);
+g_ardha_ta = glyphid(185) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g_ardha_tha = glyphid(186) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g_ardha_da = glyphid(187) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g_ardha_dha = glyphid(188) {anusvaraS = point(922m, 1638m); eTS = point(940m, 1229m)};
+g_ardha_na = glyphid(189);
+g_ardhata = glyphid(190);
+g_ardhatha = glyphid(191);
+g_ardhada = glyphid(192);
+g_ardhadha = glyphid(193);
+g_ardhana = glyphid(194);
+g_ardhapa = glyphid(195);
+g_ardhapha = glyphid(196);
+g_ardhaba = glyphid(197);
+g_ardhabha = glyphid(198);
+g_ardhama = glyphid(199);
+g_ardhaya = glyphid(200);
+g_ardhara = glyphid(201);
+g_ardhala = glyphid(202);
+g_ardhava = glyphid(203);
+g_ardhaza = glyphid(204);
+g_ardha_sa = glyphid(205);
+g_ardhasa = glyphid(206);
+g_ardhaha = glyphid(207) {anusvaraS = point(717m, 1638m); eTS = point(877m, 1229m)};
+g_ardha_la = glyphid(208) {anusvaraS = point(860m, 1638m); eTS = point(913m, 1229m)};
+g_ardhak_sa = glyphid(209);
+g_ardhaj_ja = glyphid(210);
+g_tha_alt = glyphid(211) {anusvaraS = point(922m, 1638m); eTS = point(1190m, 1229m)};
+g_da_alt = glyphid(212) {anusvaraS = point(614m, 1638m); eTS = point(582m, 1229m)};
+g_dha_alt = glyphid(213) {anusvaraS = point(840m, 1638m); eTS = point(1137m, 1229m)};
+g_pa_alt = glyphid(214) {anusvaraS = point(614m, 1638m); eTS = point(909m, 1229m)};
+g_ma_alt = glyphid(215) {anusvaraS = point(860m, 1638m); eTS = point(1206m, 1229m)};
+g_ya_alt = glyphid(216) {anusvaraS = point(850m, 1638m); eTS = point(1190m, 1229m)};
+g_ra_alt = glyphid(217) {anusvaraS = point(819m, 1638m); eTS = point(893m, 1229m)};
+g_kra = glyphid(218) {anusvaraS = point(1024m, 1638m); eTS = point(1264m, 1229m)};
+g_khra = glyphid(219) {anusvaraS = point(1024m, 1638m); eTS = point(1270m, 1233m)};
+g_gra = glyphid(220) {anusvaraS = point(717m, 1638m); eTS = point(975m, 1229m)};
+g_ghra = glyphid(221) {anusvaraS = point(717m, 1638m); eTS = point(967m, 1229m)};
+g__gra = glyphid(222) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g_cra = glyphid(223) {anusvaraS = point(819m, 1638m); eTS = point(874m, 1229m)};
+g_chra = glyphid(224) {anusvaraS = point(819m, 1638m); eTS = point(965m, 1229m)};
+g_jra = glyphid(225) {anusvaraS = point(901m, 1638m); eTS = point(1112m, 1229m)};
+g_jhra = glyphid(226) {anusvaraS = point(1126m, 1638m); eTS = point(1329m, 1229m)};
+g__jra = glyphid(227) {anusvaraS = point(1126m, 1638m); eTS = point(1333m, 1229m)};
+g__tra = glyphid(228) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g__thra = glyphid(229) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g__dra = glyphid(230) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g__dhra = glyphid(231) {anusvaraS = point(922m, 1638m); eTS = point(940m, 1229m)};
+g__nra = glyphid(232) {anusvaraS = point(1024m, 1638m); eTS = point(1098m, 1229m)};
+g_tra = glyphid(233) {anusvaraS = point(983m, 1638m); eTS = point(952m, 1229m)};
+g_thra = glyphid(234) {anusvaraS = point(922m, 1638m); eTS = point(1190m, 1229m)};
+g_dra = glyphid(235) {anusvaraS = point(819m, 1638m); eTS = point(1192m, 1233m)};
+g_dhra = glyphid(236) {anusvaraS = point(840m, 1638m); eTS = point(1137m, 1229m)};
+g_nra = glyphid(237) {anusvaraS = point(717m, 1638m); eTS = point(952m, 1229m)};
+g_pra = glyphid(238) {anusvaraS = point(614m, 1638m); eTS = point(909m, 1229m)};
+g_phra = glyphid(239) {anusvaraS = point(1024m, 1638m); eTS = point(1554m, 1229m)};
+g_bra = glyphid(240) {anusvaraS = point(819m, 1638m); eTS = point(1182m, 1229m)};
+g_bhra = glyphid(241) {anusvaraS = point(860m, 1638m); eTS = point(1206m, 1229m)};
+g_mra = glyphid(242) {anusvaraS = point(819m, 1638m); eTS = point(1206m, 1229m)};
+g_yra = glyphid(243) {anusvaraS = point(850m, 1638m); eTS = point(1190m, 1229m)};
+g_rra = glyphid(244) {anusvaraS = point(1024m, 1638m); eTS = point(1038m, 1229m)};
+g_lra = glyphid(245) {anusvaraS = point(819m, 1638m); eTS = point(1100m, 1229m)};
+g_vra = glyphid(246) {anusvaraS = point(819m, 1638m); eTS = point(1161m, 1229m)};
+g_zra = glyphid(247) {anusvaraS = point(756m, 1638m); eTS = point(1114m, 1229m)};
+g__sra = glyphid(248) {anusvaraS = point(717m, 1638m); eTS = point(909m, 1229m)};
+g_sra = glyphid(249) {anusvaraS = point(909m, 1638m); eTS = point(1343m, 1229m)};
+g_hra = glyphid(250) {anusvaraS = point(717m, 1638m); eTS = point(877m, 1229m)};
+g__lra = glyphid(251) {anusvaraS = point(860m, 1638m); eTS = point(913m, 1229m)};
+g_k_sra = glyphid(252) {anusvaraS = point(1024m, 1638m); eTS = point(1270m, 1229m)};
+g_j_jra = glyphid(253) {anusvaraS = point(1348m, 1638m); eTS = point(1583m, 1229m)};
+g_kr_a = glyphid(254) {anusvaraS = point(1229m, 1638m); eTS = point(1468m, 1229m)};
+g_khr_a = glyphid(255) {anusvaraS = point(1434m, 1638m); eTS = point(1679m, 1233m)};
+g_gr_a = glyphid(256) {anusvaraS = point(1559m, 1638m); eTS = point(1528m, 1229m)};
+g_ghr_a = glyphid(257) {anusvaraS = point(1552m, 1638m); eTS = point(1522m, 1229m)};
+g__gr_a = glyphid(258) {anusvaraS = point(1810m, 1638m); eTS = point(1780m, 1229m)};
+g_cr_a = glyphid(259) {anusvaraS = point(819m, 1638m); eTS = point(1006m, 1229m)};
+g_chr_a = glyphid(260) {anusvaraS = point(1589m, 1638m); eTS = point(1559m, 1229m)};
+g_jr_a = glyphid(261) {anusvaraS = point(965m, 1638m); eTS = point(1352m, 1229m)};
+g_jhr_a = glyphid(262) {anusvaraS = point(1536m, 1638m); eTS = point(1739m, 1229m)};
+g__jr_a = glyphid(263) {anusvaraS = point(1536m, 1638m); eTS = point(1743m, 1229m)};
+g__tr_a = glyphid(264) {anusvaraS = point(1393m, 1638m); eTS = point(1454m, 1229m)};
+g__thr_a = glyphid(265) {anusvaraS = point(1393m, 1638m); eTS = point(1454m, 1229m)};
+g__dr_a = glyphid(266) {anusvaraS = point(1632m, 1638m); eTS = point(1602m, 1229m)};
+g__dhr_a = glyphid(267) {anusvaraS = point(1831m, 1638m); eTS = point(1800m, 1229m)};
+g__nr_a = glyphid(268) {anusvaraS = point(1661m, 1638m); eTS = point(1630m, 1229m)};
+g_tr_a = glyphid(269) {anusvaraS = point(1667m, 1638m); eTS = point(1636m, 1229m)};
+g_thr_a = glyphid(270) {anusvaraS = point(1753m, 1638m); eTS = point(1722m, 1229m)};
+g_dr_a = glyphid(271) {anusvaraS = point(1683m, 1638m); eTS = point(1653m, 1229m)};
+g_dhr_a = glyphid(272) {anusvaraS = point(1698m, 1638m); eTS = point(1667m, 1229m)};
+g_nr_a = glyphid(273) {anusvaraS = point(860m, 1638m); eTS = point(1247m, 1229m)};
+g_pr_a = glyphid(274) {anusvaraS = point(1389m, 1638m); eTS = point(1358m, 1229m)};
+g_phr_a = glyphid(275) {anusvaraS = point(1434m, 1638m); eTS = point(1964m, 1229m)};
+g_br_a = glyphid(276) {anusvaraS = point(922m, 1638m); eTS = point(1284m, 1229m)};
+g_bhr_a = glyphid(277) {anusvaraS = point(1229m, 1638m); eTS = point(1468m, 1229m)};
+g_mr_a = glyphid(278) {anusvaraS = point(891m, 1638m); eTS = point(1278m, 1229m)};
+g_yr_a = glyphid(279) {anusvaraS = point(1753m, 1638m); eTS = point(1722m, 1229m)};
+g_rr_a = glyphid(280) {anusvaraS = point(1364m, 1638m); eTS = point(1333m, 1229m)};
+g_lr_a = glyphid(281) {anusvaraS = point(967m, 1638m); eTS = point(1354m, 1229m)};
+g_vr_a = glyphid(282) {anusvaraS = point(922m, 1638m); eTS = point(1284m, 1229m)};
+g_zr_a = glyphid(283) {anusvaraS = point(1679m, 1638m); eTS = point(1649m, 1229m)};
+g__sr_a = glyphid(284) {anusvaraS = point(1391m, 1638m); eTS = point(1360m, 1229m)};
+g_sr_a = glyphid(285) {anusvaraS = point(1909m, 1638m); eTS = point(1878m, 1229m)};
+g_hr_a = glyphid(286) {anusvaraS = point(911m, 1638m); eTS = point(1278m, 1229m)};
+g__lr_a = glyphid(287) {anusvaraS = point(1868m, 1638m); eTS = point(1837m, 1229m)};
+g_k_sr_a = glyphid(288) {anusvaraS = point(1808m, 1638m); eTS = point(1778m, 1229m)};
+g_j_jr_a = glyphid(289) {anusvaraS = point(1491m, 1638m); eTS = point(1878m, 1229m)};
+g_kri = glyphid(290) {anusvaraS = point(2009m, 1638m)};
+g_khri = glyphid(291) {anusvaraS = point(1966m, 1638m)};
+g_gri = glyphid(292) {anusvaraS = point(1755m, 1638m)};
+g_ghri = glyphid(293) {anusvaraS = point(1749m, 1638m)};
+g__gri = glyphid(294) {anusvaraS = point(2007m, 1638m)};
+g_cri = glyphid(295) {anusvaraS = point(1634m, 1638m)};
+g_chri = glyphid(296) {anusvaraS = point(1786m, 1638m)};
+g_jri = glyphid(297) {anusvaraS = point(1767m, 1638m)};
+g_jhri = glyphid(298) {anusvaraS = point(2116m, 1638m)};
+g__jri = glyphid(299) {anusvaraS = point(2064m, 1638m)};
+g__tri = glyphid(300) {anusvaraS = point(1718m, 1638m)};
+g__thri = glyphid(301) {anusvaraS = point(1718m, 1638m)};
+g__dri = glyphid(302) {anusvaraS = point(1829m, 1638m)};
+g__dhri = glyphid(303) {anusvaraS = point(2028m, 1638m)};
+g__nri = glyphid(304) {anusvaraS = point(1858m, 1638m)};
+g_tri = glyphid(305) {anusvaraS = point(1864m, 1638m)};
+g_thri = glyphid(306) {anusvaraS = point(1950m, 1638m)};
+g_dri = glyphid(307) {anusvaraS = point(1954m, 1638m)};
+g_dhri = glyphid(308) {anusvaraS = point(1896m, 1638m)};
+g_nri = glyphid(309) {anusvaraS = point(1608m, 1638m)};
+g_pri = glyphid(310) {anusvaraS = point(1587m, 1638m)};
+g_phri = glyphid(311) {anusvaraS = point(2210m, 1638m)};
+g_bri = glyphid(312) {anusvaraS = point(1958m, 1638m)};
+g_bhri = glyphid(313) {anusvaraS = point(1946m, 1638m)};
+g_mri = glyphid(314) {anusvaraS = point(1950m, 1638m)};
+g_yri = glyphid(315) {anusvaraS = point(1950m, 1638m)};
+g_rri = glyphid(316) {anusvaraS = point(1821m, 1638m)};
+g_lri = glyphid(317) {anusvaraS = point(758m, 1638m)};
+g_vri = glyphid(318) {anusvaraS = point(1937m, 1638m)};
+g_zri = glyphid(319) {anusvaraS = point(1876m, 1638m)};
+g__sri = glyphid(320) {anusvaraS = point(1587m, 1638m)};
+g_sri = glyphid(321) {anusvaraS = point(2105m, 1638m)};
+g_hri = glyphid(322) {anusvaraS = point(1729m, 1638m)};
+g__lri = glyphid(323) {anusvaraS = point(2064m, 1638m)};
+g_k_sri = glyphid(324) {anusvaraS = point(2005m, 1638m)};
+g_j_jri = glyphid(325) {anusvaraS = point(2238m, 1638m)};
+g_kru = glyphid(326) {anusvaraS = point(1720m, 1638m)};
+g_khru = glyphid(327) {anusvaraS = point(1802m, 1638m)};
+g_gru = glyphid(328) {anusvaraS = point(717m, 1638m)};
+g_ghru = glyphid(329) {anusvaraS = point(717m, 1638m)};
+g__gru = glyphid(330) {anusvaraS = point(819m, 1638m)};
+g_cru = glyphid(331) {anusvaraS = point(819m, 1638m)};
+g_chru = glyphid(332) {anusvaraS = point(819m, 1638m)};
+g_jru = glyphid(333) {anusvaraS = point(1229m, 1638m)};
+g_jhru = glyphid(334) {anusvaraS = point(1126m, 1638m)};
+g__jru = glyphid(335) {anusvaraS = point(1126m, 1638m)};
+g__tru = glyphid(336) {anusvaraS = point(983m, 1638m)};
+g__thru = glyphid(337) {anusvaraS = point(983m, 1638m)};
+g__dru = glyphid(338) {anusvaraS = point(819m, 1638m)};
+g__dhru = glyphid(339) {anusvaraS = point(922m, 1638m)};
+g__nru = glyphid(340) {anusvaraS = point(1024m, 1638m)};
+g_tru = glyphid(341) {anusvaraS = point(983m, 1638m); eTS = point(952m, 1229m)};
+g_thru = glyphid(342) {anusvaraS = point(850m, 1638m)};
+g_dru = glyphid(343) {anusvaraS = point(819m, 1638m); eTS = point(1192m, 1233m)};
+g_dhru = glyphid(344) {anusvaraS = point(840m, 1638m); eTS = point(1137m, 1229m)};
+g_nru = glyphid(345) {anusvaraS = point(1229m, 1638m)};
+g_pru = glyphid(346) {anusvaraS = point(614m, 1638m)};
+g_phru = glyphid(347) {anusvaraS = point(1024m, 1638m)};
+g_bru = glyphid(348) {anusvaraS = point(819m, 1638m)};
+g_bhru = glyphid(349) {anusvaraS = point(860m, 1638m)};
+g_mru = glyphid(350) {anusvaraS = point(860m, 1638m)};
+g_yru = glyphid(351) {anusvaraS = point(850m, 1638m)};
+g_rru = glyphid(352) {anusvaraS = point(909m, 1638m)};
+g_lru = glyphid(353) {anusvaraS = point(819m, 1638m)};
+g_vru = glyphid(354) {anusvaraS = point(819m, 1638m)};
+g_zru = glyphid(355) {anusvaraS = point(756m, 1638m); eTS = point(1114m, 1229m)};
+g__sru = glyphid(356) {anusvaraS = point(717m, 1638m)};
+g_sru = glyphid(357) {anusvaraS = point(909m, 1638m); eTS = point(1343m, 1229m)};
+g_hru = glyphid(358) {anusvaraS = point(1597m, 1638m)};
+g__lru = glyphid(359) {anusvaraS = point(860m, 1638m)};
+g_k_sru = glyphid(360) {anusvaraS = point(1024m, 1638m); eTS = point(1270m, 1229m)};
+g_j_jru = glyphid(361) {anusvaraS = point(1860m, 1638m)};
+g_ardhakra = glyphid(362);
+g_ardhakhra = glyphid(363);
+g_ardhagra = glyphid(364);
+g_ardhaghra = glyphid(365);
+g_ardha_gra = glyphid(366) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g_ardhacra = glyphid(367);
+g_ardhachra = glyphid(368) {anusvaraS = point(819m, 1638m); eTS = point(965m, 1229m)};
+g_ardhajra = glyphid(369);
+g_ardhajhra = glyphid(370);
+g_ardha_jra = glyphid(371);
+g_ardha_tra = glyphid(372) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g_ardha_thra = glyphid(373) {anusvaraS = point(983m, 1638m); eTS = point(1044m, 1229m)};
+g_ardha_dra = glyphid(374) {anusvaraS = point(819m, 1638m); eTS = point(958m, 1229m)};
+g_ardha_dhra = glyphid(375) {anusvaraS = point(922m, 1638m); eTS = point(940m, 1229m)};
+g_ardha_nra = glyphid(376);
+g_ardhatra = glyphid(377);
+g_ardhathra = glyphid(378);
+g_ardhadra = glyphid(379);
+g_ardhadhra = glyphid(380);
+g_ardhanra = glyphid(381);
+g_ardhapra = glyphid(382);
+g_ardhaphra = glyphid(383);
+g_ardhabra = glyphid(384);
+g_ardhabhra = glyphid(385);
+g_ardhamra = glyphid(386);
+g_ardhayra = glyphid(387);
+g_ardharra = glyphid(388);
+g_ardhalra = glyphid(389);
+g_ardhavra = glyphid(390);
+g_ardhazra = glyphid(391);
+g_ardha_sra = glyphid(392);
+g_ardhasra = glyphid(393);
+g_ardhahra = glyphid(394) {anusvaraS = point(717m, 1638m); eTS = point(877m, 1229m)};
+g_ardha_lra = glyphid(395) {anusvaraS = point(860m, 1638m); eTS = point(913m, 1229m)};
+g_ardhak_sra = glyphid(396);
+g_ardhaj_jra = glyphid(397);
+g_space = glyphid(398);
+g_zeronojoin = glyphid(399);
+g_zerojoin = glyphid(400);
+g_kara = glyphid(401) {anusvaraS = point(512m, 1638m); eTS = point(678m, 1229m)};
+g_k_ara = glyphid(402) {anusvaraS = point(512m, 1638m); eTS = point(678m, 1229m)};
+g_kar_a = glyphid(403) {anusvaraS = point(1196m, 1638m); eTS = point(1165m, 1229m)};
+g_k_ar_a = glyphid(404) {anusvaraS = point(1196m, 1638m); eTS = point(1165m, 1229m)};
+g_kari = glyphid(405) {anusvaraS = point(1393m, 1638m)};
+g_k_ari = glyphid(406) {anusvaraS = point(1393m, 1638m)};
+g_karu = glyphid(407) {anusvaraS = point(1024m, 1638m)};
+g_k_aru = glyphid(408) {anusvaraS = point(1024m, 1638m)};
+g_ra_postsa = glyphid(409) {anusvaraS = point(205m, 1638m); eTS = point(268m, 1229m)};
+g_ri_postsa = glyphid(410) {anusvaraS = point(983m, 1638m)};
+g_ra_postaa = glyphid(411) {anusvaraS = point(205m, 1638m); eTS = point(205m, 1229m)};
+g_ra_round = glyphid(412) {anusvaraS = point(424m, 1638m); eTS = point(219m, 1229m)};
+g_th_a_alt = glyphid(413) {anusvaraS = point(1753m, 1638m); eTS = point(1722m, 1229m)};
+g_dh_a_alt = glyphid(414) {anusvaraS = point(1698m, 1638m); eTS = point(1667m, 1229m)};
+g_p_a_alt = glyphid(415) {anusvaraS = point(1389m, 1638m); eTS = point(1358m, 1229m)};
+g_m_a_alt = glyphid(416) {anusvaraS = point(1749m, 1638m); eTS = point(1718m, 1229m)};
+g_y_a_alt = glyphid(417) {anusvaraS = point(1753m, 1638m); eTS = point(1722m, 1229m)};
+g_thi_alt = glyphid(418) {anusvaraS = point(1950m, 1638m)};
+g_dhi_alt = glyphid(419) {anusvaraS = point(1896m, 1638m)};
+g_pi_alt = glyphid(420) {anusvaraS = point(1587m, 1638m)};
+g_yi_alt = glyphid(421) {anusvaraS = point(1950m, 1638m)};
+g_ri_alt = glyphid(422) {anusvaraS = point(1653m, 1638m)};
+g_dhu_alt = glyphid(423) {anusvaraS = point(840m, 1638m); eTS = point(1137m, 1229m)};
+g_r_a_postsa = glyphid(424) {anusvaraS = point(786m, 1638m); eTS = point(756m, 1229m)};
+g_r_a_postaa = glyphid(425) {anusvaraS = point(418m, 1638m); eTS = point(387m, 1229m)};
+g_ri_postaa = glyphid(426) {anusvaraS = point(614m, 1638m)};
+g_ri_round = glyphid(427) {anusvaraS = point(1458m, 1638m)};
+g_e_m = glyphid(428) {eTM = point(-205m, 1229m)};
+g_ai_m = glyphid(429) {eTM = point(-205m, 1229m)};
+g_repha_e = glyphid(430) {eTM = point(-205m, 1229m)};
+g_repha_ai = glyphid(431) {eTM = point(-205m, 1229m)};
+g_repha_e_m = glyphid(432) {eTM = point(-205m, 1229m)};
+g_repha_ai_m = glyphid(433) {eTM = point(-205m, 1229m)};
+g_repha_anusv_ara = glyphid(434) {eTM = point(-205m, 1229m)};
+g_gu_prera = glyphid(435) {anusvaraS = point(717m, 1638m)};
+g_ghu_prera = glyphid(436) {anusvaraS = point(717m, 1638m)};
+g__gu_prera = glyphid(437) {anusvaraS = point(819m, 1638m)};
+g_chu_prera = glyphid(438) {anusvaraS = point(819m, 1638m)};
+g__tu_prera = glyphid(439) {anusvaraS = point(983m, 1638m)};
+g__thu_prera = glyphid(440) {anusvaraS = point(983m, 1638m)};
+g__du_prera = glyphid(441) {anusvaraS = point(819m, 1638m)};
+g__dhu_prera = glyphid(442) {anusvaraS = point(922m, 1638m)};
+g__nu_prera = glyphid(443) {anusvaraS = point(1024m, 1638m)};
+g_thu_prera = glyphid(444) {anusvaraS = point(850m, 1638m)};
+g_pu_prera = glyphid(445) {anusvaraS = point(614m, 1638m)};
+g_bhu_prera = glyphid(446) {anusvaraS = point(860m, 1638m)};
+g_mu_prera = glyphid(447) {anusvaraS = point(860m, 1638m)};
+g_yu_prera = glyphid(448) {anusvaraS = point(850m, 1638m)};
+g_zu_prera = glyphid(449) {anusvaraS = point(819m, 1638m)};
+g__su_prera = glyphid(450) {anusvaraS = point(717m, 1638m)};
+g__lu_prera = glyphid(451) {anusvaraS = point(860m, 1638m)};
+g_k_su_prera = glyphid(452) {anusvaraS = point(1024m, 1638m)};
+g_gru_prera = glyphid(453) {anusvaraS = point(717m, 1638m)};
+g_ghru_prera = glyphid(454) {anusvaraS = point(717m, 1638m)};
+g__gru_prera = glyphid(455) {anusvaraS = point(819m, 1638m)};
+g_chru_prera = glyphid(456) {anusvaraS = point(819m, 1638m)};
+g__tru_prera = glyphid(457) {anusvaraS = point(983m, 1638m)};
+g__thru_prera = glyphid(458) {anusvaraS = point(983m, 1638m)};
+g__dru_prera = glyphid(459) {anusvaraS = point(819m, 1638m)};
+g__dhru_prera = glyphid(460) {anusvaraS = point(922m, 1638m)};
+g__nru_prera = glyphid(461) {anusvaraS = point(1024m, 1638m)};
+g_tru_prera = glyphid(462) {anusvaraS = point(983m, 1638m); eTS = point(952m, 1229m)};
+g_thru_prera = glyphid(463) {anusvaraS = point(850m, 1638m)};
+g_dru_prera = glyphid(464) {anusvaraS = point(819m, 1638m)};
+g_dhru_prera = glyphid(465) {anusvaraS = point(840m, 1638m); eTS = point(1137m, 1229m)};
+g_pru_prera = glyphid(466) {anusvaraS = point(614m, 1638m)};
+g_bhru_prera = glyphid(467) {anusvaraS = point(860m, 1638m)};
+g_mru_prera = glyphid(468) {anusvaraS = point(860m, 1638m)};
+g_yru_prera = glyphid(469) {anusvaraS = point(850m, 1638m)};
+g_zru_prera = glyphid(470) {anusvaraS = point(756m, 1638m); eTS = point(1114m, 1229m)};
+g__sru_prera = glyphid(471) {anusvaraS = point(717m, 1638m)};
+g_sru_prera = glyphid(472) {anusvaraS = point(909m, 1638m); eTS = point(1343m, 1229m)};
+g__lru_prera = glyphid(473) {anusvaraS = point(860m, 1638m)};
+g_k_sru_prera = glyphid(474) {anusvaraS = point(1024m, 1638m); eTS = point(1270m, 1229m)};
+g_ra_postu1 = glyphid(475) {anusvaraS = point(205m, 1638m); eTS = point(205m, 1229m)};
+g_ra_postu2 = glyphid(476) {anusvaraS = point(205m, 1638m); eTS = point(205m, 1229m)};
+g_ra_postu3 = glyphid(477) {anusvaraS = point(205m, 1638m); eTS = point(205m, 1229m)};
+g_ra_postu4 = glyphid(478) {anusvaraS = point(205m, 1638m); eTS = point(205m, 1229m)};
+g_ra_postu5 = glyphid(479) {anusvaraS = point(205m, 1638m); eTS = point(205m, 1229m)};
+g_r_a_postu1 = glyphid(480) {anusvaraS = point(418m, 1638m); eTS = point(387m, 1229m)};
+g_r_a_postu2 = glyphid(481) {anusvaraS = point(418m, 1638m); eTS = point(387m, 1229m)};
+g_r_a_postu3 = glyphid(482) {anusvaraS = point(418m, 1638m); eTS = point(387m, 1229m)};
+g_r_a_postu4 = glyphid(483) {anusvaraS = point(418m, 1638m); eTS = point(387m, 1229m)};
+g_r_a_postu5 = glyphid(484) {anusvaraS = point(418m, 1638m); eTS = point(387m, 1229m)};
+g_ri_postu1 = glyphid(485) {anusvaraS = point(614m, 1638m)};
+g_ri_postu2 = glyphid(486) {anusvaraS = point(614m, 1638m)};
+g_ri_postu3 = glyphid(487) {anusvaraS = point(614m, 1638m)};
+g_ri_postu4 = glyphid(488) {anusvaraS = point(614m, 1638m)};
+g_ri_postu5 = glyphid(489) {anusvaraS = point(614m, 1638m)};
+g_sa_mdhay_a = glyphid(490);
+g_ek = glyphid(491);
+g_don = glyphid(492);
+g_t_in = glyphid(493);
+g_ch_ar = glyphid(494);
+g_p_ac = glyphid(495);
+g_sah_a = glyphid(496);
+g_s_at = glyphid(497);
+g__a_th = glyphid(498);
+g_na_u = glyphid(499);
+g_zero = glyphid(500);
+g_one = glyphid(501);
+g_two = glyphid(502);
+g_three = glyphid(503);
+g_four = glyphid(504);
+g_five = glyphid(505);
+g_six = glyphid(506);
+g_seven = glyphid(507);
+g_eight = glyphid(508);
+g_nine = glyphid(509);
+g_period = glyphid(510);
+g_comma = glyphid(511);
+g_exclam = glyphid(512);
+g_question = glyphid(513);
+g_da_n_da = glyphid(514);
+g_dvida_n_da = glyphid(515);
+g_abbr = glyphid(516);
+g_parenleft = glyphid(517);
+g_parenright = glyphid(518);
+g_bracketleft = glyphid(519);
+g_bracketright = glyphid(520);
+g_quotesingle = glyphid(521);
+g_quotedbl = glyphid(522);
+g_numbersign = glyphid(523);
+g_dollar = glyphid(524);
+g_percent = glyphid(525);
+g_ampersand = glyphid(526);
+g_asterisk = glyphid(527);
+g_plus = glyphid(528);
+g_hyphen = glyphid(529);
+g_slash = glyphid(530);
+g_colon = glyphid(531);
+g_semicolon = glyphid(532);
+g_less = glyphid(533);
+g_equal = glyphid(534);
+g_greater = glyphid(535);
+g_at = glyphid(536);
+g__a = glyphid(537);
+g__b = glyphid(538);
+g__c = glyphid(539);
+g__d = glyphid(540);
+g__e = glyphid(541);
+g__f = glyphid(542);
+g__g = glyphid(543);
+g__h = glyphid(544);
+g__i = glyphid(545);
+g__j = glyphid(546);
+g__k = glyphid(547);
+g__l = glyphid(548);
+g__m = glyphid(549);
+g__n = glyphid(550);
+g__o = glyphid(551);
+g__p = glyphid(552);
+g__q = glyphid(553);
+g__r = glyphid(554);
+g__s = glyphid(555);
+g__t = glyphid(556);
+g__u = glyphid(557);
+g__v = glyphid(558);
+g__w = glyphid(559);
+g__x = glyphid(560);
+g__y = glyphid(561);
+g__z = glyphid(562);
+g_backslash = glyphid(563);
+g_asciicircum = glyphid(564);
+g_underscore = glyphid(565);
+g_grave = glyphid(566);
+g_a = glyphid(567);
+g_b = glyphid(568);
+g_c = glyphid(569);
+g_d = glyphid(570);
+g_e = glyphid(571);
+g_f = glyphid(572);
+g_g = glyphid(573);
+g_h = glyphid(574);
+g_i = glyphid(575);
+g_j = glyphid(576);
+g_k = glyphid(577);
+g_l = glyphid(578);
+g_m = glyphid(579);
+g_n = glyphid(580);
+g_o = glyphid(581);
+g_p = glyphid(582);
+g_q = glyphid(583);
+g_r = glyphid(584);
+g_s = glyphid(585);
+g_t = glyphid(586);
+g_u = glyphid(587);
+g_v = glyphid(588);
+g_w = glyphid(589);
+g_x = glyphid(590);
+g_y = glyphid(591);
+g_z = glyphid(592);
+g_braceleft = glyphid(593);
+g_bar = glyphid(594);
+g_braceright = glyphid(595);
+g_asciitilde = glyphid(596);
+g_quotesinglbase = glyphid(597);
+g_quotedblbase = glyphid(598);
+g_ellipsis = glyphid(599);
+g_quoteleft = glyphid(600);
+g_quoteright = glyphid(601);
+g_quotedblleft = glyphid(602);
+g_quotedblright = glyphid(603);
+g_endash = glyphid(604);
+g_emdash = glyphid(605);
+g__e_t = glyphid(606) {eTM = point(-205m, 1229m)};
+g__o_t = glyphid(607);
+g__e_m = glyphid(608) {eTM = point(-205m, 1229m)};
+g_repha__e_t = glyphid(609) {eTM = point(-205m, 1229m)};
+g_repha__e_m = glyphid(610) {eTM = point(-205m, 1229m)};
+g__et = glyphid(611) {anusvaraS = point(1399m, 1933m)};
+g__ot = glyphid(612) {anusvaraS = point(1126m, 1905m)};
+
+/* Classes */
+canusvaraDia = (g_anusv_ara);
+
+cnanusvaraDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g__rt, g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga,
+    g_gha, g__ga, g_ca, g_cha, g_ja, g_jha, g__ja, g__ta,
+    g__tha, g__da, g__dha, g__na, g_ta, g_tha, g_da, g_dha,
+    g_na, g_pa, g_pha, g_ba, g_bha, g_ma, g_ya, g_ra,
+    g_la, g_va, g_za, g__sa, g_sa, g_ha, g__la, g_k_sa,
+    g_j_ja, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g__r_t, g_e_t,
+    g_ai_t, g_o_t, g_au_t, g_vir_ama, g_visarga, g_k_a, g_kh_a, g_g_a,
+    g_gh_a, g__g_a, g_c_a, g_ch_a, g_j_a, g_jh_a, g__j_a, g__t_a,
+    g__th_a, g__d_a, g__dh_a, g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a,
+    g_n_a, g_p_a, g_ph_a, g_b_a, g_bh_a, g_m_a, g_y_a, g_r_a,
+    g_l_a, g_v_a, g_z_a, g__s_a, g_s_a, g_h_a, g__l_a, g_k_s_a,
+    g_j_j_a, g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi,
+    g_ji, g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni,
+    g_ti, g_thi, g_di, g_dhi, g_ni, g_pi, g_phi, g_bi,
+    g_bhi, g_mi, g_yi, g_ri, g_li, g_vi, g_zi, g__si,
+    g_si, g_hi, g__li, g_k_si, g_j_ji, g_ku, g_khu, g_gu,
+    g_ghu, g__gu, g_cu, g_chu, g_ju, g_jhu, g__ju, g__tu,
+    g__thu, g__du, g__dhu, g__nu, g_tu, g_thu, g_du, g_dhu,
+    g_nu, g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru,
+    g_lu, g_vu, g_zu, g__su, g_su, g_hu, g__lu, g_k_su,
+    g_j_ju, g_u_t_full, g_void, g_repha, g_raphala, g_ardhaka, g_ardhakha, g_ardhaga,
+    g_ardhagha, g_ardha_ga, g_ardhaca, g_ardhacha, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_ta,
+    g_ardha_tha, g_ardha_da, g_ardha_dha, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada, g_ardhadha,
+    g_ardhana, g_ardhapa, g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara,
+    g_ardhala, g_ardhava, g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhaha, g_ardha_la, g_ardhak_sa,
+    g_ardhaj_ja, g_tha_alt, g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt,
+    g_kra, g_khra, g_gra, g_ghra, g__gra, g_cra, g_chra, g_jra,
+    g_jhra, g__jra, g__tra, g__thra, g__dra, g__dhra, g__nra, g_tra,
+    g_thra, g_dra, g_dhra, g_nra, g_pra, g_phra, g_bra, g_bhra,
+    g_mra, g_yra, g_rra, g_lra, g_vra, g_zra, g__sra, g_sra,
+    g_hra, g__lra, g_k_sra, g_j_jra, g_kr_a, g_khr_a, g_gr_a, g_ghr_a,
+    g__gr_a, g_cr_a, g_chr_a, g_jr_a, g_jhr_a, g__jr_a, g__tr_a, g__thr_a,
+    g__dr_a, g__dhr_a, g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_nr_a,
+    g_pr_a, g_phr_a, g_br_a, g_bhr_a, g_mr_a, g_yr_a, g_rr_a, g_lr_a,
+    g_vr_a, g_zr_a, g__sr_a, g_sr_a, g_hr_a, g__lr_a, g_k_sr_a, g_j_jr_a,
+    g_kri, g_khri, g_gri, g_ghri, g__gri, g_cri, g_chri, g_jri,
+    g_jhri, g__jri, g__tri, g__thri, g__dri, g__dhri, g__nri, g_tri,
+    g_thri, g_dri, g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri,
+    g_mri, g_yri, g_rri, g_lri, g_vri, g_zri, g__sri, g_sri,
+    g_hri, g__lri, g_k_sri, g_j_jri, g_kru, g_khru, g_gru, g_ghru,
+    g__gru, g_cru, g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru,
+    g__dru, g__dhru, g__nru, g_tru, g_thru, g_dru, g_dhru, g_nru,
+    g_pru, g_phru, g_bru, g_bhru, g_mru, g_yru, g_rru, g_lru,
+    g_vru, g_zru, g__sru, g_sru, g_hru, g__lru, g_k_sru, g_j_jru,
+    g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra, g_ardha_gra, g_ardhacra, g_ardhachra, g_ardhajra,
+    g_ardhajhra, g_ardha_jra, g_ardha_tra, g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardha_nra, g_ardhatra,
+    g_ardhathra, g_ardhadra, g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra,
+    g_ardhamra, g_ardhayra, g_ardharra, g_ardhalra, g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra,
+    g_ardhahra, g_ardha_lra, g_ardhak_sra, g_ardhaj_jra, g_space, g_zeronojoin, g_zerojoin, g_kara,
+    g_k_ara, g_kar_a, g_k_ar_a, g_kari, g_k_ari, g_karu, g_k_aru, g_ra_postsa,
+    g_ri_postsa, g_ra_postaa, g_ra_round, g_th_a_alt, g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt,
+    g_thi_alt, g_dhi_alt, g_pi_alt, g_yi_alt, g_ri_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa,
+    g_ri_postaa, g_ri_round, g_e_m, g_ai_m, g_repha_e, g_repha_ai, g_repha_e_m, g_repha_ai_m,
+    g_repha_anusv_ara, g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera, g__tu_prera, g__thu_prera, g__du_prera,
+    g__dhu_prera, g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera,
+    g__su_prera, g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera, g__gru_prera, g_chru_prera, g__tru_prera,
+    g__thru_prera, g__dru_prera, g__dhru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dru_prera, g_dhru_prera,
+    g_pru_prera, g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera,
+    g_k_sru_prera, g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5, g_r_a_postu1, g_r_a_postu2,
+    g_r_a_postu3, g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5,
+    g_sa_mdhay_a, g_ek, g_don, g_t_in, g_ch_ar, g_p_ac, g_sah_a, g_s_at,
+    g__a_th, g_na_u, g_zero, g_one, g_two, g_three, g_four, g_five,
+    g_six, g_seven, g_eight, g_nine, g_period, g_comma, g_exclam, g_question,
+    g_da_n_da, g_dvida_n_da, g_abbr, g_parenleft, g_parenright, g_bracketleft, g_bracketright, g_quotesingle,
+    g_quotedbl, g_numbersign, g_dollar, g_percent, g_ampersand, g_asterisk, g_plus, g_hyphen,
+    g_slash, g_colon, g_semicolon, g_less, g_equal, g_greater, g_at, g__a,
+    g__b, g__c, g__d, g__e, g__f, g__g, g__h, g__i,
+    g__j, g__k, g__l, g__m, g__n, g__o, g__p, g__q,
+    g__r, g__s, g__t, g__u, g__v, g__w, g__x, g__y,
+    g__z, g_backslash, g_asciicircum, g_underscore, g_grave, g_a, g_b, g_c,
+    g_d, g_e, g_f, g_g, g_h, g_i, g_j, g_k,
+    g_l, g_m, g_n, g_o, g_p, g_q, g_r, g_s,
+    g_t, g_u, g_v, g_w, g_x, g_y, g_z, g_braceleft,
+    g_bar, g_braceright, g_asciitilde, g_quotesinglbase, g_quotedblbase, g_ellipsis, g_quoteleft, g_quoteright,
+    g_quotedblleft, g_quotedblright, g_endash, g_emdash, g__e_t, g__o_t, g__e_m, g_repha__e_t,
+    g_repha__e_m, g__et, g__ot);
+
+ceTDia = (g_e_t, g_ai_t, g_repha, g_e_m, g_ai_m, g_repha_e, g_repha_ai, g_repha_e_m,
+    g_repha_ai_m, g_repha_anusv_ara, g__e_t, g__e_m, g_repha__e_t, g_repha__e_m);
+
+cneTDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g__rt, g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga,
+    g_gha, g__ga, g_ca, g_cha, g_ja, g_jha, g__ja, g__ta,
+    g__tha, g__da, g__dha, g__na, g_ta, g_tha, g_da, g_dha,
+    g_na, g_pa, g_pha, g_ba, g_bha, g_ma, g_ya, g_ra,
+    g_la, g_va, g_za, g__sa, g_sa, g_ha, g__la, g_k_sa,
+    g_j_ja, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g__r_t, g_o_t,
+    g_au_t, g_vir_ama, g_anusv_ara, g_visarga, g_k_a, g_kh_a, g_g_a, g_gh_a,
+    g__g_a, g_c_a, g_ch_a, g_j_a, g_jh_a, g__j_a, g__t_a, g__th_a,
+    g__d_a, g__dh_a, g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a, g_n_a,
+    g_p_a, g_ph_a, g_b_a, g_bh_a, g_m_a, g_y_a, g_r_a, g_l_a,
+    g_v_a, g_z_a, g__s_a, g_s_a, g_h_a, g__l_a, g_k_s_a, g_j_j_a,
+    g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji,
+    g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni, g_ti,
+    g_thi, g_di, g_dhi, g_ni, g_pi, g_phi, g_bi, g_bhi,
+    g_mi, g_yi, g_ri, g_li, g_vi, g_zi, g__si, g_si,
+    g_hi, g__li, g_k_si, g_j_ji, g_ku, g_khu, g_gu, g_ghu,
+    g__gu, g_cu, g_chu, g_ju, g_jhu, g__ju, g__tu, g__thu,
+    g__du, g__dhu, g__nu, g_tu, g_thu, g_du, g_dhu, g_nu,
+    g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru, g_lu,
+    g_vu, g_zu, g__su, g_su, g_hu, g__lu, g_k_su, g_j_ju,
+    g_u_t_full, g_void, g_raphala, g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha, g_ardha_ga,
+    g_ardhaca, g_ardhacha, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_ta, g_ardha_tha, g_ardha_da,
+    g_ardha_dha, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada, g_ardhadha, g_ardhana, g_ardhapa,
+    g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara, g_ardhala, g_ardhava,
+    g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhaha, g_ardha_la, g_ardhak_sa, g_ardhaj_ja, g_tha_alt,
+    g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt, g_kra, g_khra,
+    g_gra, g_ghra, g__gra, g_cra, g_chra, g_jra, g_jhra, g__jra,
+    g__tra, g__thra, g__dra, g__dhra, g__nra, g_tra, g_thra, g_dra,
+    g_dhra, g_nra, g_pra, g_phra, g_bra, g_bhra, g_mra, g_yra,
+    g_rra, g_lra, g_vra, g_zra, g__sra, g_sra, g_hra, g__lra,
+    g_k_sra, g_j_jra, g_kr_a, g_khr_a, g_gr_a, g_ghr_a, g__gr_a, g_cr_a,
+    g_chr_a, g_jr_a, g_jhr_a, g__jr_a, g__tr_a, g__thr_a, g__dr_a, g__dhr_a,
+    g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_nr_a, g_pr_a, g_phr_a,
+    g_br_a, g_bhr_a, g_mr_a, g_yr_a, g_rr_a, g_lr_a, g_vr_a, g_zr_a,
+    g__sr_a, g_sr_a, g_hr_a, g__lr_a, g_k_sr_a, g_j_jr_a, g_kri, g_khri,
+    g_gri, g_ghri, g__gri, g_cri, g_chri, g_jri, g_jhri, g__jri,
+    g__tri, g__thri, g__dri, g__dhri, g__nri, g_tri, g_thri, g_dri,
+    g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri, g_mri, g_yri,
+    g_rri, g_lri, g_vri, g_zri, g__sri, g_sri, g_hri, g__lri,
+    g_k_sri, g_j_jri, g_kru, g_khru, g_gru, g_ghru, g__gru, g_cru,
+    g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru, g__dru, g__dhru,
+    g__nru, g_tru, g_thru, g_dru, g_dhru, g_nru, g_pru, g_phru,
+    g_bru, g_bhru, g_mru, g_yru, g_rru, g_lru, g_vru, g_zru,
+    g__sru, g_sru, g_hru, g__lru, g_k_sru, g_j_jru, g_ardhakra, g_ardhakhra,
+    g_ardhagra, g_ardhaghra, g_ardha_gra, g_ardhacra, g_ardhachra, g_ardhajra, g_ardhajhra, g_ardha_jra,
+    g_ardha_tra, g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra,
+    g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra,
+    g_ardharra, g_ardhalra, g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhahra, g_ardha_lra,
+    g_ardhak_sra, g_ardhaj_jra, g_space, g_zeronojoin, g_zerojoin, g_kara, g_k_ara, g_kar_a,
+    g_k_ar_a, g_kari, g_k_ari, g_karu, g_k_aru, g_ra_postsa, g_ri_postsa, g_ra_postaa,
+    g_ra_round, g_th_a_alt, g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt, g_thi_alt, g_dhi_alt,
+    g_pi_alt, g_yi_alt, g_ri_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa, g_ri_postaa, g_ri_round,
+    g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera, g__tu_prera, g__thu_prera, g__du_prera, g__dhu_prera,
+    g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera,
+    g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera, g__gru_prera, g_chru_prera, g__tru_prera, g__thru_prera,
+    g__dru_prera, g__dhru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dru_prera, g_dhru_prera, g_pru_prera,
+    g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera, g_k_sru_prera,
+    g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5, g_r_a_postu1, g_r_a_postu2, g_r_a_postu3,
+    g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g_sa_mdhay_a,
+    g_ek, g_don, g_t_in, g_ch_ar, g_p_ac, g_sah_a, g_s_at, g__a_th,
+    g_na_u, g_zero, g_one, g_two, g_three, g_four, g_five, g_six,
+    g_seven, g_eight, g_nine, g_period, g_comma, g_exclam, g_question, g_da_n_da,
+    g_dvida_n_da, g_abbr, g_parenleft, g_parenright, g_bracketleft, g_bracketright, g_quotesingle, g_quotedbl,
+    g_numbersign, g_dollar, g_percent, g_ampersand, g_asterisk, g_plus, g_hyphen, g_slash,
+    g_colon, g_semicolon, g_less, g_equal, g_greater, g_at, g__a, g__b,
+    g__c, g__d, g__e, g__f, g__g, g__h, g__i, g__j,
+    g__k, g__l, g__m, g__n, g__o, g__p, g__q, g__r,
+    g__s, g__t, g__u, g__v, g__w, g__x, g__y, g__z,
+    g_backslash, g_asciicircum, g_underscore, g_grave, g_a, g_b, g_c, g_d,
+    g_e, g_f, g_g, g_h, g_i, g_j, g_k, g_l,
+    g_m, g_n, g_o, g_p, g_q, g_r, g_s, g_t,
+    g_u, g_v, g_w, g_x, g_y, g_z, g_braceleft, g_bar,
+    g_braceright, g_asciitilde, g_quotesinglbase, g_quotedblbase, g_ellipsis, g_quoteleft, g_quoteright, g_quotedblleft,
+    g_quotedblright, g_endash, g_emdash, g__o_t, g__et, g__ot);
+
+cTakesanusvaraDia = (g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut, g__rt, g_et,
+    g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gha, g__ga,
+    g_ca, g_cha, g_ja, g_jha, g__ja, g__ta, g__tha, g__da,
+    g__dha, g__na, g_ta, g_tha, g_da, g_dha, g_na, g_pa,
+    g_pha, g_ba, g_bha, g_ma, g_ya, g_ra, g_la, g_va,
+    g_za, g__sa, g_sa, g_ha, g__la, g_k_sa, g_j_ja, g__a_t,
+    g_i_t, g__i_t, g_k_a, g_kh_a, g_g_a, g_gh_a, g__g_a, g_c_a,
+    g_ch_a, g_j_a, g_jh_a, g__j_a, g__t_a, g__th_a, g__d_a, g__dh_a,
+    g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a, g_n_a, g_p_a, g_ph_a,
+    g_b_a, g_bh_a, g_m_a, g_y_a, g_r_a, g_l_a, g_v_a, g_z_a,
+    g__s_a, g_s_a, g_h_a, g__l_a, g_k_s_a, g_j_j_a, g_ki, g_khi,
+    g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji, g_jhi, g__ji,
+    g__ti, g__thi, g__di, g__dhi, g__ni, g_ti, g_thi, g_di,
+    g_dhi, g_ni, g_pi, g_phi, g_bi, g_bhi, g_mi, g_yi,
+    g_ri, g_li, g_vi, g_zi, g__si, g_si, g_hi, g__li,
+    g_k_si, g_j_ji, g_ku, g_khu, g_gu, g_ghu, g__gu, g_cu,
+    g_chu, g_ju, g_jhu, g__ju, g__tu, g__thu, g__du, g__dhu,
+    g__nu, g_tu, g_thu, g_du, g_dhu, g_nu, g_pu, g_phu,
+    g_bu, g_bhu, g_mu, g_yu, g_ru, g_lu, g_vu, g_zu,
+    g__su, g_su, g_hu, g__lu, g_k_su, g_j_ju, g_ardha_ga, g_ardhacha,
+    g_ardha_ta, g_ardha_tha, g_ardha_da, g_ardha_dha, g_ardhaha, g_ardha_la, g_tha_alt, g_da_alt,
+    g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt, g_kra, g_khra, g_gra,
+    g_ghra, g__gra, g_cra, g_chra, g_jra, g_jhra, g__jra, g__tra,
+    g__thra, g__dra, g__dhra, g__nra, g_tra, g_thra, g_dra, g_dhra,
+    g_nra, g_pra, g_phra, g_bra, g_bhra, g_mra, g_yra, g_rra,
+    g_lra, g_vra, g_zra, g__sra, g_sra, g_hra, g__lra, g_k_sra,
+    g_j_jra, g_kr_a, g_khr_a, g_gr_a, g_ghr_a, g__gr_a, g_cr_a, g_chr_a,
+    g_jr_a, g_jhr_a, g__jr_a, g__tr_a, g__thr_a, g__dr_a, g__dhr_a, g__nr_a,
+    g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_nr_a, g_pr_a, g_phr_a, g_br_a,
+    g_bhr_a, g_mr_a, g_yr_a, g_rr_a, g_lr_a, g_vr_a, g_zr_a, g__sr_a,
+    g_sr_a, g_hr_a, g__lr_a, g_k_sr_a, g_j_jr_a, g_kri, g_khri, g_gri,
+    g_ghri, g__gri, g_cri, g_chri, g_jri, g_jhri, g__jri, g__tri,
+    g__thri, g__dri, g__dhri, g__nri, g_tri, g_thri, g_dri, g_dhri,
+    g_nri, g_pri, g_phri, g_bri, g_bhri, g_mri, g_yri, g_rri,
+    g_lri, g_vri, g_zri, g__sri, g_sri, g_hri, g__lri, g_k_sri,
+    g_j_jri, g_kru, g_khru, g_gru, g_ghru, g__gru, g_cru, g_chru,
+    g_jru, g_jhru, g__jru, g__tru, g__thru, g__dru, g__dhru, g__nru,
+    g_tru, g_thru, g_dru, g_dhru, g_nru, g_pru, g_phru, g_bru,
+    g_bhru, g_mru, g_yru, g_rru, g_lru, g_vru, g_zru, g__sru,
+    g_sru, g_hru, g__lru, g_k_sru, g_j_jru, g_ardha_gra, g_ardhachra, g_ardha_tra,
+    g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardhahra, g_ardha_lra, g_kara, g_k_ara, g_kar_a,
+    g_k_ar_a, g_kari, g_k_ari, g_karu, g_k_aru, g_ra_postsa, g_ri_postsa, g_ra_postaa,
+    g_ra_round, g_th_a_alt, g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt, g_thi_alt, g_dhi_alt,
+    g_pi_alt, g_yi_alt, g_ri_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa, g_ri_postaa, g_ri_round,
+    g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera, g__tu_prera, g__thu_prera, g__du_prera, g__dhu_prera,
+    g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera,
+    g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera, g__gru_prera, g_chru_prera, g__tru_prera, g__thru_prera,
+    g__dru_prera, g__dhru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dru_prera, g_dhru_prera, g_pru_prera,
+    g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera, g_k_sru_prera,
+    g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5, g_r_a_postu1, g_r_a_postu2, g_r_a_postu3,
+    g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g__et,
+    g__ot);
+
+cnTakesanusvaraDia = (g__null, g_nonmarkingreturn, g_u_t, g__u_t, g__r_t, g_e_t, g_ai_t, g_o_t,
+    g_au_t, g_vir_ama, g_anusv_ara, g_visarga, g_u_t_full, g_void, g_repha, g_raphala,
+    g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha, g_ardhaca, g_ardhaja, g_ardhajha, g_ardha_ja,
+    g_ardha_na, g_ardhata, g_ardhatha, g_ardhada, g_ardhadha, g_ardhana, g_ardhapa, g_ardhapha,
+    g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara, g_ardhala, g_ardhava, g_ardhaza,
+    g_ardha_sa, g_ardhasa, g_ardhak_sa, g_ardhaj_ja, g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra,
+    g_ardhacra, g_ardhajra, g_ardhajhra, g_ardha_jra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra,
+    g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra,
+    g_ardharra, g_ardhalra, g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhak_sra, g_ardhaj_jra,
+    g_space, g_zeronojoin, g_zerojoin, g_e_m, g_ai_m, g_repha_e, g_repha_ai, g_repha_e_m,
+    g_repha_ai_m, g_repha_anusv_ara, g_sa_mdhay_a, g_ek, g_don, g_t_in, g_ch_ar, g_p_ac,
+    g_sah_a, g_s_at, g__a_th, g_na_u, g_zero, g_one, g_two, g_three,
+    g_four, g_five, g_six, g_seven, g_eight, g_nine, g_period, g_comma,
+    g_exclam, g_question, g_da_n_da, g_dvida_n_da, g_abbr, g_parenleft, g_parenright, g_bracketleft,
+    g_bracketright, g_quotesingle, g_quotedbl, g_numbersign, g_dollar, g_percent, g_ampersand, g_asterisk,
+    g_plus, g_hyphen, g_slash, g_colon, g_semicolon, g_less, g_equal, g_greater,
+    g_at, g__a, g__b, g__c, g__d, g__e, g__f, g__g,
+    g__h, g__i, g__j, g__k, g__l, g__m, g__n, g__o,
+    g__p, g__q, g__r, g__s, g__t, g__u, g__v, g__w,
+    g__x, g__y, g__z, g_backslash, g_asciicircum, g_underscore, g_grave, g_a,
+    g_b, g_c, g_d, g_e, g_f, g_g, g_h, g_i,
+    g_j, g_k, g_l, g_m, g_n, g_o, g_p, g_q,
+    g_r, g_s, g_t, g_u, g_v, g_w, g_x, g_y,
+    g_z, g_braceleft, g_bar, g_braceright, g_asciitilde, g_quotesinglbase, g_quotedblbase, g_ellipsis,
+    g_quoteleft, g_quoteright, g_quotedblleft, g_quotedblright, g_endash, g_emdash, g__e_t, g__o_t,
+    g__e_m, g_repha__e_t, g_repha__e_m);
+
+cTakeseTDia = (g__rt, g_ka, g_kha, g_ga, g_gha, g__ga, g_ca, g_cha,
+    g_ja, g_jha, g__ja, g__ta, g__tha, g__da, g__dha, g__na,
+    g_ta, g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba,
+    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g__sa,
+    g_sa, g_ha, g__la, g_k_sa, g_j_ja, g__a_t, g_k_a, g_kh_a,
+    g_g_a, g_gh_a, g__g_a, g_c_a, g_ch_a, g_j_a, g_jh_a, g__j_a,
+    g__t_a, g__th_a, g__d_a, g__dh_a, g__n_a, g_t_a, g_th_a, g_d_a,
+    g_dh_a, g_n_a, g_p_a, g_ph_a, g_b_a, g_bh_a, g_m_a, g_y_a,
+    g_r_a, g_l_a, g_v_a, g_z_a, g__s_a, g_s_a, g_h_a, g__l_a,
+    g_k_s_a, g_j_j_a, g_ardha_ga, g_ardhacha, g_ardha_ta, g_ardha_tha, g_ardha_da, g_ardha_dha,
+    g_ardhaha, g_ardha_la, g_tha_alt, g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt,
+    g_ra_alt, g_kra, g_khra, g_gra, g_ghra, g__gra, g_cra, g_chra,
+    g_jra, g_jhra, g__jra, g__tra, g__thra, g__dra, g__dhra, g__nra,
+    g_tra, g_thra, g_dra, g_dhra, g_nra, g_pra, g_phra, g_bra,
+    g_bhra, g_mra, g_yra, g_rra, g_lra, g_vra, g_zra, g__sra,
+    g_sra, g_hra, g__lra, g_k_sra, g_j_jra, g_kr_a, g_khr_a, g_gr_a,
+    g_ghr_a, g__gr_a, g_cr_a, g_chr_a, g_jr_a, g_jhr_a, g__jr_a, g__tr_a,
+    g__thr_a, g__dr_a, g__dhr_a, g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a,
+    g_nr_a, g_pr_a, g_phr_a, g_br_a, g_bhr_a, g_mr_a, g_yr_a, g_rr_a,
+    g_lr_a, g_vr_a, g_zr_a, g__sr_a, g_sr_a, g_hr_a, g__lr_a, g_k_sr_a,
+    g_j_jr_a, g_tru, g_dru, g_dhru, g_zru, g_sru, g_k_sru, g_ardha_gra,
+    g_ardhachra, g_ardha_tra, g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardhahra, g_ardha_lra, g_kara,
+    g_k_ara, g_kar_a, g_k_ar_a, g_ra_postsa, g_ra_postaa, g_ra_round, g_th_a_alt, g_dh_a_alt,
+    g_p_a_alt, g_m_a_alt, g_y_a_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa, g_tru_prera, g_dhru_prera,
+    g_zru_prera, g_sru_prera, g_k_sru_prera, g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5,
+    g_r_a_postu1, g_r_a_postu2, g_r_a_postu3, g_r_a_postu4, g_r_a_postu5);
+
+cnTakeseTDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g_et, g_ait, g_ot, g_aut, g_i_t, g__i_t, g_u_t, g__u_t,
+    g__r_t, g_e_t, g_ai_t, g_o_t, g_au_t, g_vir_ama, g_anusv_ara, g_visarga,
+    g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji,
+    g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni, g_ti,
+    g_thi, g_di, g_dhi, g_ni, g_pi, g_phi, g_bi, g_bhi,
+    g_mi, g_yi, g_ri, g_li, g_vi, g_zi, g__si, g_si,
+    g_hi, g__li, g_k_si, g_j_ji, g_ku, g_khu, g_gu, g_ghu,
+    g__gu, g_cu, g_chu, g_ju, g_jhu, g__ju, g__tu, g__thu,
+    g__du, g__dhu, g__nu, g_tu, g_thu, g_du, g_dhu, g_nu,
+    g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru, g_lu,
+    g_vu, g_zu, g__su, g_su, g_hu, g__lu, g_k_su, g_j_ju,
+    g_u_t_full, g_void, g_repha, g_raphala, g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha,
+    g_ardhaca, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada,
+    g_ardhadha, g_ardhana, g_ardhapa, g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya,
+    g_ardhara, g_ardhala, g_ardhava, g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhak_sa, g_ardhaj_ja,
+    g_kri, g_khri, g_gri, g_ghri, g__gri, g_cri, g_chri, g_jri,
+    g_jhri, g__jri, g__tri, g__thri, g__dri, g__dhri, g__nri, g_tri,
+    g_thri, g_dri, g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri,
+    g_mri, g_yri, g_rri, g_lri, g_vri, g_zri, g__sri, g_sri,
+    g_hri, g__lri, g_k_sri, g_j_jri, g_kru, g_khru, g_gru, g_ghru,
+    g__gru, g_cru, g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru,
+    g__dru, g__dhru, g__nru, g_thru, g_nru, g_pru, g_phru, g_bru,
+    g_bhru, g_mru, g_yru, g_rru, g_lru, g_vru, g__sru, g_hru,
+    g__lru, g_j_jru, g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra, g_ardhacra, g_ardhajra,
+    g_ardhajhra, g_ardha_jra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra, g_ardhadhra, g_ardhanra,
+    g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra, g_ardharra, g_ardhalra,
+    g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhak_sra, g_ardhaj_jra, g_space, g_zeronojoin,
+    g_zerojoin, g_kari, g_k_ari, g_karu, g_k_aru, g_ri_postsa, g_thi_alt, g_dhi_alt,
+    g_pi_alt, g_yi_alt, g_ri_alt, g_ri_postaa, g_ri_round, g_e_m, g_ai_m, g_repha_e,
+    g_repha_ai, g_repha_e_m, g_repha_ai_m, g_repha_anusv_ara, g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera,
+    g__tu_prera, g__thu_prera, g__du_prera, g__dhu_prera, g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera,
+    g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera, g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera,
+    g__gru_prera, g_chru_prera, g__tru_prera, g__thru_prera, g__dru_prera, g__dhru_prera, g__nru_prera, g_thru_prera,
+    g_dru_prera, g_pru_prera, g_bhru_prera, g_mru_prera, g_yru_prera, g__sru_prera, g__lru_prera, g_ri_postu1,
+    g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g_sa_mdhay_a, g_ek, g_don, g_t_in,
+    g_ch_ar, g_p_ac, g_sah_a, g_s_at, g__a_th, g_na_u, g_zero, g_one,
+    g_two, g_three, g_four, g_five, g_six, g_seven, g_eight, g_nine,
+    g_period, g_comma, g_exclam, g_question, g_da_n_da, g_dvida_n_da, g_abbr, g_parenleft,
+    g_parenright, g_bracketleft, g_bracketright, g_quotesingle, g_quotedbl, g_numbersign, g_dollar, g_percent,
+    g_ampersand, g_asterisk, g_plus, g_hyphen, g_slash, g_colon, g_semicolon, g_less,
+    g_equal, g_greater, g_at, g__a, g__b, g__c, g__d, g__e,
+    g__f, g__g, g__h, g__i, g__j, g__k, g__l, g__m,
+    g__n, g__o, g__p, g__q, g__r, g__s, g__t, g__u,
+    g__v, g__w, g__x, g__y, g__z, g_backslash, g_asciicircum, g_underscore,
+    g_grave, g_a, g_b, g_c, g_d, g_e, g_f, g_g,
+    g_h, g_i, g_j, g_k, g_l, g_m, g_n, g_o,
+    g_p, g_q, g_r, g_s, g_t, g_u, g_v, g_w,
+    g_x, g_y, g_z, g_braceleft, g_bar, g_braceright, g_asciitilde, g_quotesinglbase,
+    g_quotedblbase, g_ellipsis, g_quoteleft, g_quoteright, g_quotedblleft, g_quotedblright, g_endash, g_emdash,
+    g__e_t, g__o_t, g__e_m, g_repha__e_t, g_repha__e_m, g__et, g__ot);
+
+calt = (g_tha_alt, g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt, g_th_a_alt,
+    g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt, g_thi_alt, g_dhi_alt, g_pi_alt, g_yi_alt,
+    g_ri_alt, g_dhu_alt);
+
+cno_alt = (g_tha, g_da, g_dha, g_pa, g_ma, g_ya, g_ra, g_th_a,
+    g_dh_a, g_p_a, g_m_a, g_y_a, g_thi, g_dhi, g_pi, g_yi,
+    g_ri, g_dhu);
+
+cfull = (g_u_t_full);
+
+cno_full = (g_u_t);
+
+cno_postaa = (g_ra, g_r_a, g_ri);
+
+cpostaa = (g_ra_postaa, g_r_a_postaa, g_ri_postaa);
+
+cno_postsa = (g_ra, g_ri, g_r_a);
+
+cpostsa = (g_ra_postsa, g_ri_postsa, g_r_a_postsa);
+
+cno_postu1 = (g_ra, g_r_a, g_ri);
+
+cpostu1 = (g_ra_postu1, g_r_a_postu1, g_ri_postu1);
+
+cno_postu2 = (g_ra, g_r_a, g_ri);
+
+cpostu2 = (g_ra_postu2, g_r_a_postu2, g_ri_postu2);
+
+cno_postu3 = (g_ra, g_r_a, g_ri);
+
+cpostu3 = (g_ra_postu3, g_r_a_postu3, g_ri_postu3);
+
+cno_postu4 = (g_ra, g_r_a, g_ri);
+
+cpostu4 = (g_ra_postu4, g_r_a_postu4, g_ri_postu4);
+
+cno_postu5 = (g_ra, g_r_a, g_ri);
+
+cpostu5 = (g_ra_postu5, g_r_a_postu5, g_ri_postu5);
+
+cno_prera = (g_gu, g_ghu, g__gu, g_chu, g__tu, g__thu, g__du, g__dhu,
+    g__nu, g_thu, g_pu, g_bhu, g_mu, g_yu, g_zu, g__su,
+    g__lu, g_k_su, g_gru, g_ghru, g__gru, g_chru, g__tru, g__thru,
+    g__dru, g__dhru, g__nru, g_tru, g_thru, g_dru, g_dhru, g_pru,
+    g_bhru, g_mru, g_yru, g_zru, g__sru, g_sru, g__lru, g_k_sru);
+
+cprera = (g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera, g__tu_prera, g__thu_prera, g__du_prera, g__dhu_prera,
+    g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera,
+    g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera, g__gru_prera, g_chru_prera, g__tru_prera, g__thru_prera,
+    g__dru_prera, g__dhru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dru_prera, g_dhru_prera, g_pru_prera,
+    g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera, g_k_sru_prera);
+
+cno_round = (g_ra, g_ri);
+
+cround = (g_ra_round, g_ri_round);
+
+cNoRakaarConsonants = (g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha, g_ardha_ga, g_ardhaca, g_ardhacha, g_ardhaja,
+    g_ardhajha, g_ardha_ja, g_ardha_ta, g_ardha_tha, g_ardha_da, g_ardha_dha, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada,
+    g_ardhadha, g_ardhana, g_ardhapa, g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara, g_ardhala, g_ardhava,
+    g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhaha, g_ardha_la, g_ardhak_sa, g_ardhaj_ja);
+cRakaarConsonants = (g_kra, g_khra, g_gra, g_ghra, g__gra, g_cra, g_chra, g_jra,
+    g_jhra, g__jra, g__tra, g__thra, g__dra, g__dhra, g__nra, g_tra, g_thra, g_dra,
+    g_dhra, g_nra, g_pra, g_phra, g_bra, g_bhra, g_mra, g_yra, g_rra, g_lra, g_vra,
+    g_zra, g__sra, g_sra, g_hra, g__lra, g_k_sra, g_j_jra);
+cRakaarArdhConsonants = (g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra, g_ardha_gra, g_ardhacra, g_ardhachra, g_ardhajra,
+    g_ardhajhra, g_ardha_jra, g_ardha_tra, g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra,
+    g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra, g_ardharra, g_ardhalra, g_ardhavra,
+    g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhahra, g_ardha_lra, g_ardhak_sra, g_ardhaj_jra);
+cFullConsonants = (g_ka, g_kha, g_ga, g_gha, g__ga, g_ca, g_cha, g_ja,
+    g_jha, g__ja, g__ta, g__tha, g__da, g__dha, g__na, g_ta, g_tha, g_da,
+    g_dha, g_na, g_pa, g_pha, g_ba, g_bha, g_ma, g_ya, g_ra, g_la, g_va,
+    g_za, g__sa, g_sa, g_ha, g__la, g_k_sa, g_j_ja, g_kra, g_khra, g_gra,
+    g_ghra, g__gra, g_cra, g_chra, g_jra, g_jhra, g__jra, g__tra, g__thra,
+    g__dra, g__dhra, g__nra, g_tra, g_thra, g_dra, g_dhra, g_nra, g_pra,
+    g_phra, g_bra, g_bhra, g_mra, g_yra, g_rra, g_lra, g_vra, g_zra, g__sra,
+    g_sra, g_hra, g__lra, g_k_sra, g_j_jra);
+cHalfConsonants = (g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha, g_ardha_ga,
+    g_ardhaca, g_ardhacha, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_ta,
+    g_ardha_tha, g_ardha_da, g_ardha_dha, g_ardha_na, g_ardhata, g_ardhatha,
+    g_ardhada, g_ardhadha, g_ardhana, g_ardhapa, g_ardhapha, g_ardhaba,
+    g_ardhabha, g_ardhama, g_ardhaya, g_ardhara, g_ardhala, g_ardhava,
+    g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhaha, g_ardha_la, g_ardhak_sa,
+    g_ardhaj_ja, g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra, g_ardha_gra,
+    g_ardhacra, g_ardhachra, g_ardhajra, g_ardhajhra, g_ardha_jra, g_ardha_tra,
+    g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardha_nra, g_ardhatra, g_ardhathra,
+    g_ardhadra, g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra,
+    g_ardhabhra, g_ardhamra, g_ardhayra, g_ardharra, g_ardhalra, g_ardhavra,
+    g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhahra, g_ardha_lra, g_ardhak_sra,
+    g_ardhaj_jra);
+cAkaarConsonants = (g_k_a, g_kh_a, g_g_a, g_gh_a, g__g_a, g_c_a, g_ch_a, g_j_a,
+    g_jh_a, g__j_a, g__t_a, g__th_a, g__d_a, g__dh_a, g__n_a, g_t_a, g_th_a, g_d_a,
+    g_dh_a, g_n_a, g_p_a, g_ph_a, g_b_a, g_bh_a, g_m_a, g_y_a, g_r_a, g_l_a, g_v_a,
+    g_z_a, g__s_a, g_s_a, g_h_a, g__l_a, g_k_s_a, g_j_j_a, g_kr_a, g_khr_a, g_gr_a,
+    g_ghr_a, g__gr_a, g_cr_a, g_chr_a, g_jr_a, g_jhr_a, g__jr_a, g__tr_a, g__thr_a,
+    g__dr_a, g__dhr_a, g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_nr_a, g_pr_a,
+    g_phr_a, g_br_a, g_bhr_a, g_mr_a, g_yr_a, g_rr_a, g_lr_a, g_vr_a, g_zr_a, g__sr_a,
+    g_sr_a, g_hr_a, g__lr_a, g_k_sr_a, g_j_jr_a);
+cIkaarConsonants = (g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji,
+    g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni, g_ti, g_thi, g_di,
+    g_dhi, g_ni, g_pi, g_phi, g_bi, g_bhi, g_mi, g_yi, g_ri, g_li, g_vi,
+    g_zi, g__si, g_si, g_hi, g__li, g_k_si, g_j_ji, g_kri, g_khri, g_gri,
+    g_ghri, g__gri, g_cri, g_chri, g_jri, g_jhri, g__jri, g__tri, g__thri,
+    g__dri, g__dhri, g__nri, g_tri, g_thri, g_dri, g_dhri, g_nri, g_pri,
+    g_phri, g_bri, g_bhri, g_mri, g_yri, g_rri, g_lri, g_vri, g_zri, g__sri,
+    g_sri, g_hri, g__lri, g_k_sri, g_j_jri);
+cUkaarConsonants = (g_ku, g_khu, g_gu, g_ghu, g__gu, g_cu, g_chu, g_ju,
+    g_jhu, g__ju, g__tu, g__thu, g__du, g__dhu, g__nu, g_tu, g_thu, g_du,
+    g_dhu, g_nu, g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru, g_lu, g_vu,
+    g_zu, g__su, g_su, g_hu, g__lu, g_k_su, g_j_ju, g_kru, g_khru, g_gru,
+    g_ghru, g__gru, g_cru, g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru,
+    g__dru, g__dhru, g__nru, g_tru, g_thru, g_dru, g_dhru, g_nru, g_pru,
+    g_phru, g_bru, g_bhru, g_mru, g_yru, g_rru, g_lru, g_vru, g_zru, g__sru,
+    g_sru, g_hru, g__lru, g_k_sru, g_j_jru);
+
+cTermConsonants = (cFullConsonants, cAkaarConsonants, cIkaarConsonants, cUkaarConsonants);
+
+cAkaarPreRakaar = (g_g_a, g_gh_a, g__g_a, g_c_a, g_ch_a, g__d_a, g__dh_a,
+    g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a, g_p_a, g_r_a, g_z_a, g__s_a, g_s_a,
+    g__l_a, g_k_s_a, g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji, g_jhi,
+    g__ji, g__ti, g__thi, g__di, g__dhi, g__ni, g_ti, g_thi, g_di, g_dhi, g_ni,
+    g_pi, g_phi, g_bi, g_bhi, g_mi, g_yi, g_ri, g_vi, g_zi, g__si, g_si, g_hi,
+    g__li, g_k_si, g_j_ji, g_khu, g_cu, g_jhu, g__ju, g_tu, g_du, g_dhu, g_bu,
+    g_lu, g_vu, g_su, g_hu, g_gr_a, g_ghr_a, g__gr_a, g_cr_a, g_chr_a, g__dr_a,
+    g__dhr_a, g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_pr_a, g_rr_a, g_zr_a,
+    g__sr_a, g_sr_a, g__lr_a, g_k_sr_a, g_kri, g_khri, g_gri, g_ghri, g__gri,
+    g_cri, g_chri, g_jri, g_jhri, g__jri, g__tri, g__thri, g__dri, g__dhri,
+    g__nri, g_tri, g_thri, g_dri, g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri,
+    g_mri, g_yri, g_rri, g_vri, g_zri, g__sri, g_sri, g_hri, g__lri, g_k_sri,
+    g_j_jri, g_khru, g_cru, g_jhru, g__jru, g_bru, g_lru, g_vru, g_hru, g_da_n_da,
+    g_dvida_n_da);
+
+cCausesRoundRakaar = (g_kha, g_tha, g_da, g_dha, g_pa, g_ya, g_ha, g_khra, g_hra);
+
+cno_prera1 = (g_gu, g_ghu, g__nu, g_thu, g_pu, g_bhu, g_mu, g_yu, g_zu, g__su,
+    g_k_su, g_gru, g_ghru, g__nru, g_tru, g_thru, g_dhru, g_pru,
+    g_bhru, g_mru, g_yru, g_zru, g__sru, g_sru, g_k_sru);
+cprera1 = (g_gu_prera, g_ghu_prera, g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera,
+    g_k_su_prera, g_gru_prera, g_ghru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dhru_prera, g_pru_prera,
+    g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g_k_sru_prera);
+cno_prera2 = (g__dhu);
+cprera2 = (g__dhu_prera);
+cno_prera3 = (g_chru, g__tru, g__thru, g__dru, g_dru);
+cprera3 = (g_chru_prera, g__tru_prera, g__thru_prera, g__dru_prera, g_dru_prera);
+cno_prera4 = (g__gu, g_chu, g__du, g__lu);
+cprera4 = (g__gu_prera, g_chu_prera, g__du_prera, g__lu_prera);
+cno_prera5 = (g__tu, g__thu, g__gru, g__dhru, g__lru);
+cprera5 = (g__tu_prera, g__thu_prera, g__gru_prera, g__dhru_prera, g__lru_prera);
+
+endtable;
+
+#define MAXGLYPH 612
+
+
+/* ----------------------------------------------------------- */
+
+
+table(substitution)
+
+// oT/auT Decomposition, Akhand ligatures
+pass(1)
+    g_o_t _ > g__a_t:1 g_e_t:1;
+    g__o_t _ > g__a_t:1 g__e_t:1;
+    g_au_t _ > g__a_t:1 g_ai_t:1;
+    g_ja g_vir_ama g__ja > g_j_ja:(1 2 3) _ _;
+    g_ka g_vir_ama g__sa > g_k_sa:(1 2 3) _ _;
+endpass;
+
+// Half forms
+pass(2)
+    cFullConsonants g_vir_ama > cHalfConsonants:(1 2) _ / _ _ g_zerojoin? ^ cFullConsonants ;
+endpass;
+
+// Vattu forms
+pass(3)
+    g_ra _ > g_raphala:1 g_void:1 / cHalfConsonants _ _ ^ ;
+    g_ardhara > g_raphala / cHalfConsonants _ ^ ;
+endpass;
+
+// Repha
+pass(4)
+    g_ardhara > g_repha;
+endpass;
+pass(5)
+    g_repha > g_ardhara / _ g_zerojoin;
+endpass;
+
+// Raphala ligature
+pass(6)
+    cNoRakaarConsonants g_raphala > cRakaarArdhConsonants:(1 2) _ / _ _ g_zerojoin? ^ cHalfConsonants;
+    cNoRakaarConsonants g_raphala > cRakaarArdhConsonants:(1 2) _ / _ _ g_zerojoin? ^ cFullConsonants;
+endpass;
+pass(7)
+    cNoRakaarConsonants g_raphala > cRakaarConsonants:(1 2) _;
+endpass;
+pass(8)
+    g_void > _ ;
+endpass;
+
+// Reph reorder
+pass(9)
+    g_repha cCausesRoundRakaar > @2 @1;
+    g_repha cHalfConsonants cCausesRoundRakaar > @2 @3 @1;
+    g_repha cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @1;
+    g_repha cHalfConsonants cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants cHalfConsonants cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @8 @1;
+endpass;
+
+// Ligate reph and ekaar
+pass(10)
+    g_repha g_e_t g_anusv_ara > g_repha_e_m:(1 2 3) _ _;
+    g_repha g__e_t g_anusv_ara > g_repha__e_m:(1 2 3) _ _;
+    g_repha g_ai_t g_anusv_ara > g_repha_ai_m:(1 2 3) _ _;
+endpass;
+pass(11)
+    g_repha g_e_t > g_repha_e:(1 2) _;
+    g_repha g__e_t > g_repha__e_t:(1 2) _;
+    g_repha g_ai_t > g_repha_ai:(1 2) _;
+    g_repha g_anusv_ara > g_repha_anusv_ara:(1 2) _;
+    g_e_t g_anusv_ara > g_e_m:(1 2) _;
+    g__e_t g_anusv_ara > g__e_m:(1 2) _;
+    g_ai_t g_anusv_ara > g_ai_m:(1 2) _;
+endpass;
+
+// Matra
+pass(12)
+    cFullConsonants g__a_t > cAkaarConsonants:(1 2) _;
+    cFullConsonants g_i_t > cIkaarConsonants:(1 2) _;
+    cFullConsonants g__i_t > cIkaarConsonants:(1 2) _;
+    cFullConsonants g_u_t > cUkaarConsonants:(1 2) _;
+    cFullConsonants g__u_t > cUkaarConsonants:(1 2) _;
+endpass;
+
+// Contextual forms
+pass(13)
+    cno_alt > calt / cHalfConsonants _;
+endpass;
+
+pass(14)
+    g_ka g_ra > g_kara:(1 2) _;
+    g_ka g_r_a > g_kar_a:(1 2) _;
+    g_ka g_ri > g_kari:(1 2) _;
+    g_ka g_ru > g_karu:(1 2) _;
+    g_ka g_zerojoin g_ra > g_kara:(1 2 3) _ _;
+    g_ka g_zerojoin g_r_a > g_kar_a:(1 2 3) _ _;
+    g_ka g_zerojoin g_ri > g_kari:(1 2 3) _ _;
+    g_ka g_zerojoin g_ru > g_karu:(1 2 3) _ _;
+    g_k_a g_ra > g_k_ara:(1 2) _;
+    g_k_a g_r_a > g_k_ar_a:(1 2) _;
+    g_k_a g_ri > g_k_ari:(1 2) _;
+    g_k_a g_ru > g_k_aru:(1 2) _;
+    g_k_a g_zerojoin g_ra > g_k_ara:(1 2 3) _ _;
+    g_k_a g_zerojoin g_r_a > g_k_ar_a:(1 2 3) _ _;
+    g_k_a g_zerojoin g_ri > g_k_ari:(1 2 3) _ _;
+    g_k_a g_zerojoin g_ru > g_k_aru:(1 2 3) _ _;
+    cno_postsa > cpostsa / g_sa ceTDia? g_zerojoin? _;
+    cno_postaa > cpostaa / cAkaarPreRakaar ceTDia? g_zerojoin? _;
+    cno_round > cround / cCausesRoundRakaar ceTDia? g_zerojoin? _;
+    cno_prera1 cno_postu1 > cprera1 cpostu1 / _ g_zerojoin? _;
+    cno_prera2 cno_postu2 > cprera2 cpostu2 / _ g_zerojoin? _;
+    cno_prera3 cno_postu3 > cprera3 cpostu3 / _ g_zerojoin? _;
+    cno_prera4 cno_postu4 > cprera4 cpostu4 / _ g_zerojoin? _;
+    cno_prera5 cno_postu5 > cprera5 cpostu5 / _ g_zerojoin? _;
+endpass;
+
+endtable;
+
+
+/* ----------------------------------------------------------- */
+
+
+table(positioning)
+
+cnanusvaraDia canusvaraDia {attach {to=@1; at=anusvaraS; with=anusvaraM}};
+cneTDia ceTDia {attach {to=@1; at=eTS; with=eTM}};
+
+endtable;

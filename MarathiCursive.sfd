@@ -5,7 +5,7 @@ FamilyName: MarathiCursive
 Weight: Medium
 Copyright: Copyright (c) 2012, MihailJP
 UComments: "2012-5-4: Created." 
-Version: 1.0
+Version: 1.0a
 StrokeWidth: 60
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336372264
+ModificationTime: 1336510327
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0

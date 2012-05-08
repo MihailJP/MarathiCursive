@@ -1,10 +1,13 @@
 # Makefile for MarathiCursive font
 
-FONTS=MarathiCursive.otf MarathiCursiveT.ttf
+FONTS=MarathiCursive.otf MarathiCursiveT.ttf MarathiCursiveG.ttf
 DOCUMENTS=license.txt README
-SOURCE=MarathiCursive.sfd outlines.py truetype.py Makefile
+SOURCE=MarathiCursive.sfd outlines.py truetype.py Makefile MarathiCursiveG.gdl
 PKGS=MarathiCursive.7z MarathiCursive-source.7z
 7ZOPT=-mx9
+
+# Path to Graphite compiler
+GRCOMPILER=/cygdrive/c/Apps/graphite/Graphite\ Compiler/GrCompiler
 
 .PHONY: all
 all: ${FONTS}
@@ -19,6 +22,9 @@ MarathiCursive.otf: Outlines.sfd
 	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");SelectWorthOutputting();UnlinkReference();RemoveOverlap();Generate(\"$@\");Close()";done
 MarathiCursiveT.ttf: OutlinesTT.sfd
 	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");Generate(\"$@\");Close()";done
+
+MarathiCursiveG.ttf: MarathiCursiveT.ttf MarathiCursiveG.gdl
+	$(GRCOMPILER) $^ $@ "MarathiCursiveG"
 
 .SUFFIXES: .7z
 .PHONY: dist
@@ -38,5 +44,5 @@ MarathiCursive-source.7z: ${SOURCE} ${DOCUMENTS}
 
 .PHONY: clean
 clean:
-	-rm Outlines.sfd OutlinesTT.sfd ${FONTS}
+	-rm Outlines.sfd OutlinesTT.sfd gdlerr.txt '$$_temp.gdl' ${FONTS}
 	-rm -rf ${PKGS} ${PKGS:.7z=}
