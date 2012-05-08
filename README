@@ -6,9 +6,13 @@ nagari.  This font shows Modi script instead of Devanagari.  Modi is the
 shorthand script which was used to write Marathi language, which is spoken in
 Maharashtra, western India.
 
+As of version 1.0a, Graphite-enabled version of MarathiCursive font,
+'MarathiCursiveG' is included in Package.
+
 Limitations:
-Under Windows OS (with UniScribe), it requires a ZWJ between a certain letter
-and following 'ra' in order to show intersyllabic ligatures.
+Under Windows OS (with UniScribe), some intersyllabic ligatures cannot be
+shown.  You may need to use 'MarathiCursiveG' under applications with Graphite
+support such as LibreOffice.
 
 
 MihailJP <mihailjp@gmail.com>
