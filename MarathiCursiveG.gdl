@@ -3,9 +3,6 @@
 */
 
 table(glyph) {MUnits = 2048};
-g__notdef = glyphid(0);
-g__null = glyphid(1);
-g_nonmarkingreturn = glyphid(2);
 g_ak_ara = glyphid(3) {anusvaraS = point(1516m, 1638m)};
 g__ak_ara = glyphid(4) {anusvaraS = point(1352m, 1638m)};
 g_it = glyphid(5) {anusvaraS = point(1434m, 1638m)};
@@ -503,112 +500,9 @@ g_sah_a = glyphid(496);
 g_s_at = glyphid(497);
 g__a_th = glyphid(498);
 g_na_u = glyphid(499);
-g_zero = glyphid(500);
-g_one = glyphid(501);
-g_two = glyphid(502);
-g_three = glyphid(503);
-g_four = glyphid(504);
-g_five = glyphid(505);
-g_six = glyphid(506);
-g_seven = glyphid(507);
-g_eight = glyphid(508);
-g_nine = glyphid(509);
-g_period = glyphid(510);
-g_comma = glyphid(511);
-g_exclam = glyphid(512);
-g_question = glyphid(513);
 g_da_n_da = glyphid(514);
 g_dvida_n_da = glyphid(515);
 g_abbr = glyphid(516);
-g_parenleft = glyphid(517);
-g_parenright = glyphid(518);
-g_bracketleft = glyphid(519);
-g_bracketright = glyphid(520);
-g_quotesingle = glyphid(521);
-g_quotedbl = glyphid(522);
-g_numbersign = glyphid(523);
-g_dollar = glyphid(524);
-g_percent = glyphid(525);
-g_ampersand = glyphid(526);
-g_asterisk = glyphid(527);
-g_plus = glyphid(528);
-g_hyphen = glyphid(529);
-g_slash = glyphid(530);
-g_colon = glyphid(531);
-g_semicolon = glyphid(532);
-g_less = glyphid(533);
-g_equal = glyphid(534);
-g_greater = glyphid(535);
-g_at = glyphid(536);
-g__a = glyphid(537);
-g__b = glyphid(538);
-g__c = glyphid(539);
-g__d = glyphid(540);
-g__e = glyphid(541);
-g__f = glyphid(542);
-g__g = glyphid(543);
-g__h = glyphid(544);
-g__i = glyphid(545);
-g__j = glyphid(546);
-g__k = glyphid(547);
-g__l = glyphid(548);
-g__m = glyphid(549);
-g__n = glyphid(550);
-g__o = glyphid(551);
-g__p = glyphid(552);
-g__q = glyphid(553);
-g__r = glyphid(554);
-g__s = glyphid(555);
-g__t = glyphid(556);
-g__u = glyphid(557);
-g__v = glyphid(558);
-g__w = glyphid(559);
-g__x = glyphid(560);
-g__y = glyphid(561);
-g__z = glyphid(562);
-g_backslash = glyphid(563);
-g_asciicircum = glyphid(564);
-g_underscore = glyphid(565);
-g_grave = glyphid(566);
-g_a = glyphid(567);
-g_b = glyphid(568);
-g_c = glyphid(569);
-g_d = glyphid(570);
-g_e = glyphid(571);
-g_f = glyphid(572);
-g_g = glyphid(573);
-g_h = glyphid(574);
-g_i = glyphid(575);
-g_j = glyphid(576);
-g_k = glyphid(577);
-g_l = glyphid(578);
-g_m = glyphid(579);
-g_n = glyphid(580);
-g_o = glyphid(581);
-g_p = glyphid(582);
-g_q = glyphid(583);
-g_r = glyphid(584);
-g_s = glyphid(585);
-g_t = glyphid(586);
-g_u = glyphid(587);
-g_v = glyphid(588);
-g_w = glyphid(589);
-g_x = glyphid(590);
-g_y = glyphid(591);
-g_z = glyphid(592);
-g_braceleft = glyphid(593);
-g_bar = glyphid(594);
-g_braceright = glyphid(595);
-g_asciitilde = glyphid(596);
-g_quotesinglbase = glyphid(597);
-g_quotedblbase = glyphid(598);
-g_ellipsis = glyphid(599);
-g_quoteleft = glyphid(600);
-g_quoteright = glyphid(601);
-g_quotedblleft = glyphid(602);
-g_quotedblright = glyphid(603);
-g_endash = glyphid(604);
-g_emdash = glyphid(605);
 g__e_t = glyphid(606) {eTM = point(-205m, 1229m)};
 g__o_t = glyphid(607);
 g__e_m = glyphid(608) {eTM = point(-205m, 1229m)};
@@ -620,162 +514,8 @@ g__ot = glyphid(612) {anusvaraS = point(1126m, 1905m)};
 /* Classes */
 canusvaraDia = (g_anusv_ara);
 
-cnanusvaraDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g__rt, g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga,
-    g_gha, g__ga, g_ca, g_cha, g_ja, g_jha, g__ja, g__ta,
-    g__tha, g__da, g__dha, g__na, g_ta, g_tha, g_da, g_dha,
-    g_na, g_pa, g_pha, g_ba, g_bha, g_ma, g_ya, g_ra,
-    g_la, g_va, g_za, g__sa, g_sa, g_ha, g__la, g_k_sa,
-    g_j_ja, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g__r_t, g_e_t,
-    g_ai_t, g_o_t, g_au_t, g_vir_ama, g_visarga, g_k_a, g_kh_a, g_g_a,
-    g_gh_a, g__g_a, g_c_a, g_ch_a, g_j_a, g_jh_a, g__j_a, g__t_a,
-    g__th_a, g__d_a, g__dh_a, g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a,
-    g_n_a, g_p_a, g_ph_a, g_b_a, g_bh_a, g_m_a, g_y_a, g_r_a,
-    g_l_a, g_v_a, g_z_a, g__s_a, g_s_a, g_h_a, g__l_a, g_k_s_a,
-    g_j_j_a, g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi,
-    g_ji, g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni,
-    g_ti, g_thi, g_di, g_dhi, g_ni, g_pi, g_phi, g_bi,
-    g_bhi, g_mi, g_yi, g_ri, g_li, g_vi, g_zi, g__si,
-    g_si, g_hi, g__li, g_k_si, g_j_ji, g_ku, g_khu, g_gu,
-    g_ghu, g__gu, g_cu, g_chu, g_ju, g_jhu, g__ju, g__tu,
-    g__thu, g__du, g__dhu, g__nu, g_tu, g_thu, g_du, g_dhu,
-    g_nu, g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru,
-    g_lu, g_vu, g_zu, g__su, g_su, g_hu, g__lu, g_k_su,
-    g_j_ju, g_u_t_full, g_void, g_repha, g_raphala, g_ardhaka, g_ardhakha, g_ardhaga,
-    g_ardhagha, g_ardha_ga, g_ardhaca, g_ardhacha, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_ta,
-    g_ardha_tha, g_ardha_da, g_ardha_dha, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada, g_ardhadha,
-    g_ardhana, g_ardhapa, g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara,
-    g_ardhala, g_ardhava, g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhaha, g_ardha_la, g_ardhak_sa,
-    g_ardhaj_ja, g_tha_alt, g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt,
-    g_kra, g_khra, g_gra, g_ghra, g__gra, g_cra, g_chra, g_jra,
-    g_jhra, g__jra, g__tra, g__thra, g__dra, g__dhra, g__nra, g_tra,
-    g_thra, g_dra, g_dhra, g_nra, g_pra, g_phra, g_bra, g_bhra,
-    g_mra, g_yra, g_rra, g_lra, g_vra, g_zra, g__sra, g_sra,
-    g_hra, g__lra, g_k_sra, g_j_jra, g_kr_a, g_khr_a, g_gr_a, g_ghr_a,
-    g__gr_a, g_cr_a, g_chr_a, g_jr_a, g_jhr_a, g__jr_a, g__tr_a, g__thr_a,
-    g__dr_a, g__dhr_a, g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_nr_a,
-    g_pr_a, g_phr_a, g_br_a, g_bhr_a, g_mr_a, g_yr_a, g_rr_a, g_lr_a,
-    g_vr_a, g_zr_a, g__sr_a, g_sr_a, g_hr_a, g__lr_a, g_k_sr_a, g_j_jr_a,
-    g_kri, g_khri, g_gri, g_ghri, g__gri, g_cri, g_chri, g_jri,
-    g_jhri, g__jri, g__tri, g__thri, g__dri, g__dhri, g__nri, g_tri,
-    g_thri, g_dri, g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri,
-    g_mri, g_yri, g_rri, g_lri, g_vri, g_zri, g__sri, g_sri,
-    g_hri, g__lri, g_k_sri, g_j_jri, g_kru, g_khru, g_gru, g_ghru,
-    g__gru, g_cru, g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru,
-    g__dru, g__dhru, g__nru, g_tru, g_thru, g_dru, g_dhru, g_nru,
-    g_pru, g_phru, g_bru, g_bhru, g_mru, g_yru, g_rru, g_lru,
-    g_vru, g_zru, g__sru, g_sru, g_hru, g__lru, g_k_sru, g_j_jru,
-    g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra, g_ardha_gra, g_ardhacra, g_ardhachra, g_ardhajra,
-    g_ardhajhra, g_ardha_jra, g_ardha_tra, g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardha_nra, g_ardhatra,
-    g_ardhathra, g_ardhadra, g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra,
-    g_ardhamra, g_ardhayra, g_ardharra, g_ardhalra, g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra,
-    g_ardhahra, g_ardha_lra, g_ardhak_sra, g_ardhaj_jra, g_space, g_zeronojoin, g_zerojoin, g_kara,
-    g_k_ara, g_kar_a, g_k_ar_a, g_kari, g_k_ari, g_karu, g_k_aru, g_ra_postsa,
-    g_ri_postsa, g_ra_postaa, g_ra_round, g_th_a_alt, g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt,
-    g_thi_alt, g_dhi_alt, g_pi_alt, g_yi_alt, g_ri_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa,
-    g_ri_postaa, g_ri_round, g_e_m, g_ai_m, g_repha_e, g_repha_ai, g_repha_e_m, g_repha_ai_m,
-    g_repha_anusv_ara, g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera, g__tu_prera, g__thu_prera, g__du_prera,
-    g__dhu_prera, g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera,
-    g__su_prera, g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera, g__gru_prera, g_chru_prera, g__tru_prera,
-    g__thru_prera, g__dru_prera, g__dhru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dru_prera, g_dhru_prera,
-    g_pru_prera, g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera,
-    g_k_sru_prera, g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5, g_r_a_postu1, g_r_a_postu2,
-    g_r_a_postu3, g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5,
-    g_sa_mdhay_a, g_ek, g_don, g_t_in, g_ch_ar, g_p_ac, g_sah_a, g_s_at,
-    g__a_th, g_na_u, g_zero, g_one, g_two, g_three, g_four, g_five,
-    g_six, g_seven, g_eight, g_nine, g_period, g_comma, g_exclam, g_question,
-    g_da_n_da, g_dvida_n_da, g_abbr, g_parenleft, g_parenright, g_bracketleft, g_bracketright, g_quotesingle,
-    g_quotedbl, g_numbersign, g_dollar, g_percent, g_ampersand, g_asterisk, g_plus, g_hyphen,
-    g_slash, g_colon, g_semicolon, g_less, g_equal, g_greater, g_at, g__a,
-    g__b, g__c, g__d, g__e, g__f, g__g, g__h, g__i,
-    g__j, g__k, g__l, g__m, g__n, g__o, g__p, g__q,
-    g__r, g__s, g__t, g__u, g__v, g__w, g__x, g__y,
-    g__z, g_backslash, g_asciicircum, g_underscore, g_grave, g_a, g_b, g_c,
-    g_d, g_e, g_f, g_g, g_h, g_i, g_j, g_k,
-    g_l, g_m, g_n, g_o, g_p, g_q, g_r, g_s,
-    g_t, g_u, g_v, g_w, g_x, g_y, g_z, g_braceleft,
-    g_bar, g_braceright, g_asciitilde, g_quotesinglbase, g_quotedblbase, g_ellipsis, g_quoteleft, g_quoteright,
-    g_quotedblleft, g_quotedblright, g_endash, g_emdash, g__e_t, g__o_t, g__e_m, g_repha__e_t,
-    g_repha__e_m, g__et, g__ot);
-
 ceTDia = (g_e_t, g_ai_t, g_repha, g_e_m, g_ai_m, g_repha_e, g_repha_ai, g_repha_e_m,
     g_repha_ai_m, g_repha_anusv_ara, g__e_t, g__e_m, g_repha__e_t, g_repha__e_m);
-
-cneTDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g__rt, g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga,
-    g_gha, g__ga, g_ca, g_cha, g_ja, g_jha, g__ja, g__ta,
-    g__tha, g__da, g__dha, g__na, g_ta, g_tha, g_da, g_dha,
-    g_na, g_pa, g_pha, g_ba, g_bha, g_ma, g_ya, g_ra,
-    g_la, g_va, g_za, g__sa, g_sa, g_ha, g__la, g_k_sa,
-    g_j_ja, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g__r_t, g_o_t,
-    g_au_t, g_vir_ama, g_anusv_ara, g_visarga, g_k_a, g_kh_a, g_g_a, g_gh_a,
-    g__g_a, g_c_a, g_ch_a, g_j_a, g_jh_a, g__j_a, g__t_a, g__th_a,
-    g__d_a, g__dh_a, g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a, g_n_a,
-    g_p_a, g_ph_a, g_b_a, g_bh_a, g_m_a, g_y_a, g_r_a, g_l_a,
-    g_v_a, g_z_a, g__s_a, g_s_a, g_h_a, g__l_a, g_k_s_a, g_j_j_a,
-    g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji,
-    g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni, g_ti,
-    g_thi, g_di, g_dhi, g_ni, g_pi, g_phi, g_bi, g_bhi,
-    g_mi, g_yi, g_ri, g_li, g_vi, g_zi, g__si, g_si,
-    g_hi, g__li, g_k_si, g_j_ji, g_ku, g_khu, g_gu, g_ghu,
-    g__gu, g_cu, g_chu, g_ju, g_jhu, g__ju, g__tu, g__thu,
-    g__du, g__dhu, g__nu, g_tu, g_thu, g_du, g_dhu, g_nu,
-    g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru, g_lu,
-    g_vu, g_zu, g__su, g_su, g_hu, g__lu, g_k_su, g_j_ju,
-    g_u_t_full, g_void, g_raphala, g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha, g_ardha_ga,
-    g_ardhaca, g_ardhacha, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_ta, g_ardha_tha, g_ardha_da,
-    g_ardha_dha, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada, g_ardhadha, g_ardhana, g_ardhapa,
-    g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara, g_ardhala, g_ardhava,
-    g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhaha, g_ardha_la, g_ardhak_sa, g_ardhaj_ja, g_tha_alt,
-    g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt, g_kra, g_khra,
-    g_gra, g_ghra, g__gra, g_cra, g_chra, g_jra, g_jhra, g__jra,
-    g__tra, g__thra, g__dra, g__dhra, g__nra, g_tra, g_thra, g_dra,
-    g_dhra, g_nra, g_pra, g_phra, g_bra, g_bhra, g_mra, g_yra,
-    g_rra, g_lra, g_vra, g_zra, g__sra, g_sra, g_hra, g__lra,
-    g_k_sra, g_j_jra, g_kr_a, g_khr_a, g_gr_a, g_ghr_a, g__gr_a, g_cr_a,
-    g_chr_a, g_jr_a, g_jhr_a, g__jr_a, g__tr_a, g__thr_a, g__dr_a, g__dhr_a,
-    g__nr_a, g_tr_a, g_thr_a, g_dr_a, g_dhr_a, g_nr_a, g_pr_a, g_phr_a,
-    g_br_a, g_bhr_a, g_mr_a, g_yr_a, g_rr_a, g_lr_a, g_vr_a, g_zr_a,
-    g__sr_a, g_sr_a, g_hr_a, g__lr_a, g_k_sr_a, g_j_jr_a, g_kri, g_khri,
-    g_gri, g_ghri, g__gri, g_cri, g_chri, g_jri, g_jhri, g__jri,
-    g__tri, g__thri, g__dri, g__dhri, g__nri, g_tri, g_thri, g_dri,
-    g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri, g_mri, g_yri,
-    g_rri, g_lri, g_vri, g_zri, g__sri, g_sri, g_hri, g__lri,
-    g_k_sri, g_j_jri, g_kru, g_khru, g_gru, g_ghru, g__gru, g_cru,
-    g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru, g__dru, g__dhru,
-    g__nru, g_tru, g_thru, g_dru, g_dhru, g_nru, g_pru, g_phru,
-    g_bru, g_bhru, g_mru, g_yru, g_rru, g_lru, g_vru, g_zru,
-    g__sru, g_sru, g_hru, g__lru, g_k_sru, g_j_jru, g_ardhakra, g_ardhakhra,
-    g_ardhagra, g_ardhaghra, g_ardha_gra, g_ardhacra, g_ardhachra, g_ardhajra, g_ardhajhra, g_ardha_jra,
-    g_ardha_tra, g_ardha_thra, g_ardha_dra, g_ardha_dhra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra,
-    g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra,
-    g_ardharra, g_ardhalra, g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhahra, g_ardha_lra,
-    g_ardhak_sra, g_ardhaj_jra, g_space, g_zeronojoin, g_zerojoin, g_kara, g_k_ara, g_kar_a,
-    g_k_ar_a, g_kari, g_k_ari, g_karu, g_k_aru, g_ra_postsa, g_ri_postsa, g_ra_postaa,
-    g_ra_round, g_th_a_alt, g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt, g_thi_alt, g_dhi_alt,
-    g_pi_alt, g_yi_alt, g_ri_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa, g_ri_postaa, g_ri_round,
-    g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera, g__tu_prera, g__thu_prera, g__du_prera, g__dhu_prera,
-    g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera, g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera,
-    g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera, g__gru_prera, g_chru_prera, g__tru_prera, g__thru_prera,
-    g__dru_prera, g__dhru_prera, g__nru_prera, g_tru_prera, g_thru_prera, g_dru_prera, g_dhru_prera, g_pru_prera,
-    g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera, g_k_sru_prera,
-    g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5, g_r_a_postu1, g_r_a_postu2, g_r_a_postu3,
-    g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g_sa_mdhay_a,
-    g_ek, g_don, g_t_in, g_ch_ar, g_p_ac, g_sah_a, g_s_at, g__a_th,
-    g_na_u, g_zero, g_one, g_two, g_three, g_four, g_five, g_six,
-    g_seven, g_eight, g_nine, g_period, g_comma, g_exclam, g_question, g_da_n_da,
-    g_dvida_n_da, g_abbr, g_parenleft, g_parenright, g_bracketleft, g_bracketright, g_quotesingle, g_quotedbl,
-    g_numbersign, g_dollar, g_percent, g_ampersand, g_asterisk, g_plus, g_hyphen, g_slash,
-    g_colon, g_semicolon, g_less, g_equal, g_greater, g_at, g__a, g__b,
-    g__c, g__d, g__e, g__f, g__g, g__h, g__i, g__j,
-    g__k, g__l, g__m, g__n, g__o, g__p, g__q, g__r,
-    g__s, g__t, g__u, g__v, g__w, g__x, g__y, g__z,
-    g_backslash, g_asciicircum, g_underscore, g_grave, g_a, g_b, g_c, g_d,
-    g_e, g_f, g_g, g_h, g_i, g_j, g_k, g_l,
-    g_m, g_n, g_o, g_p, g_q, g_r, g_s, g_t,
-    g_u, g_v, g_w, g_x, g_y, g_z, g_braceleft, g_bar,
-    g_braceright, g_asciitilde, g_quotesinglbase, g_quotedblbase, g_ellipsis, g_quoteleft, g_quoteright, g_quotedblleft,
-    g_quotedblright, g_endash, g_emdash, g__o_t, g__et, g__ot);
 
 cTakesanusvaraDia = (g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut, g__rt, g_et,
     g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gha, g__ga,
@@ -830,33 +570,6 @@ cTakesanusvaraDia = (g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut, g__rt, g_et,
     g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g__et,
     g__ot);
 
-cnTakesanusvaraDia = (g__null, g_nonmarkingreturn, g_u_t, g__u_t, g__r_t, g_e_t, g_ai_t, g_o_t,
-    g_au_t, g_vir_ama, g_anusv_ara, g_visarga, g_u_t_full, g_void, g_repha, g_raphala,
-    g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha, g_ardhaca, g_ardhaja, g_ardhajha, g_ardha_ja,
-    g_ardha_na, g_ardhata, g_ardhatha, g_ardhada, g_ardhadha, g_ardhana, g_ardhapa, g_ardhapha,
-    g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya, g_ardhara, g_ardhala, g_ardhava, g_ardhaza,
-    g_ardha_sa, g_ardhasa, g_ardhak_sa, g_ardhaj_ja, g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra,
-    g_ardhacra, g_ardhajra, g_ardhajhra, g_ardha_jra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra,
-    g_ardhadhra, g_ardhanra, g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra,
-    g_ardharra, g_ardhalra, g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhak_sra, g_ardhaj_jra,
-    g_space, g_zeronojoin, g_zerojoin, g_e_m, g_ai_m, g_repha_e, g_repha_ai, g_repha_e_m,
-    g_repha_ai_m, g_repha_anusv_ara, g_sa_mdhay_a, g_ek, g_don, g_t_in, g_ch_ar, g_p_ac,
-    g_sah_a, g_s_at, g__a_th, g_na_u, g_zero, g_one, g_two, g_three,
-    g_four, g_five, g_six, g_seven, g_eight, g_nine, g_period, g_comma,
-    g_exclam, g_question, g_da_n_da, g_dvida_n_da, g_abbr, g_parenleft, g_parenright, g_bracketleft,
-    g_bracketright, g_quotesingle, g_quotedbl, g_numbersign, g_dollar, g_percent, g_ampersand, g_asterisk,
-    g_plus, g_hyphen, g_slash, g_colon, g_semicolon, g_less, g_equal, g_greater,
-    g_at, g__a, g__b, g__c, g__d, g__e, g__f, g__g,
-    g__h, g__i, g__j, g__k, g__l, g__m, g__n, g__o,
-    g__p, g__q, g__r, g__s, g__t, g__u, g__v, g__w,
-    g__x, g__y, g__z, g_backslash, g_asciicircum, g_underscore, g_grave, g_a,
-    g_b, g_c, g_d, g_e, g_f, g_g, g_h, g_i,
-    g_j, g_k, g_l, g_m, g_n, g_o, g_p, g_q,
-    g_r, g_s, g_t, g_u, g_v, g_w, g_x, g_y,
-    g_z, g_braceleft, g_bar, g_braceright, g_asciitilde, g_quotesinglbase, g_quotedblbase, g_ellipsis,
-    g_quoteleft, g_quoteright, g_quotedblleft, g_quotedblright, g_endash, g_emdash, g__e_t, g__o_t,
-    g__e_m, g_repha__e_t, g_repha__e_m);
-
 cTakeseTDia = (g__rt, g_ka, g_kha, g_ga, g_gha, g__ga, g_ca, g_cha,
     g_ja, g_jha, g__ja, g__ta, g__tha, g__da, g__dha, g__na,
     g_ta, g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba,
@@ -883,58 +596,6 @@ cTakeseTDia = (g__rt, g_ka, g_kha, g_ga, g_gha, g__ga, g_ca, g_cha,
     g_p_a_alt, g_m_a_alt, g_y_a_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa, g_tru_prera, g_dhru_prera,
     g_zru_prera, g_sru_prera, g_k_sru_prera, g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5,
     g_r_a_postu1, g_r_a_postu2, g_r_a_postu3, g_r_a_postu4, g_r_a_postu5);
-
-cnTakeseTDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g_et, g_ait, g_ot, g_aut, g_i_t, g__i_t, g_u_t, g__u_t,
-    g__r_t, g_e_t, g_ai_t, g_o_t, g_au_t, g_vir_ama, g_anusv_ara, g_visarga,
-    g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji,
-    g_jhi, g__ji, g__ti, g__thi, g__di, g__dhi, g__ni, g_ti,
-    g_thi, g_di, g_dhi, g_ni, g_pi, g_phi, g_bi, g_bhi,
-    g_mi, g_yi, g_ri, g_li, g_vi, g_zi, g__si, g_si,
-    g_hi, g__li, g_k_si, g_j_ji, g_ku, g_khu, g_gu, g_ghu,
-    g__gu, g_cu, g_chu, g_ju, g_jhu, g__ju, g__tu, g__thu,
-    g__du, g__dhu, g__nu, g_tu, g_thu, g_du, g_dhu, g_nu,
-    g_pu, g_phu, g_bu, g_bhu, g_mu, g_yu, g_ru, g_lu,
-    g_vu, g_zu, g__su, g_su, g_hu, g__lu, g_k_su, g_j_ju,
-    g_u_t_full, g_void, g_repha, g_raphala, g_ardhaka, g_ardhakha, g_ardhaga, g_ardhagha,
-    g_ardhaca, g_ardhaja, g_ardhajha, g_ardha_ja, g_ardha_na, g_ardhata, g_ardhatha, g_ardhada,
-    g_ardhadha, g_ardhana, g_ardhapa, g_ardhapha, g_ardhaba, g_ardhabha, g_ardhama, g_ardhaya,
-    g_ardhara, g_ardhala, g_ardhava, g_ardhaza, g_ardha_sa, g_ardhasa, g_ardhak_sa, g_ardhaj_ja,
-    g_kri, g_khri, g_gri, g_ghri, g__gri, g_cri, g_chri, g_jri,
-    g_jhri, g__jri, g__tri, g__thri, g__dri, g__dhri, g__nri, g_tri,
-    g_thri, g_dri, g_dhri, g_nri, g_pri, g_phri, g_bri, g_bhri,
-    g_mri, g_yri, g_rri, g_lri, g_vri, g_zri, g__sri, g_sri,
-    g_hri, g__lri, g_k_sri, g_j_jri, g_kru, g_khru, g_gru, g_ghru,
-    g__gru, g_cru, g_chru, g_jru, g_jhru, g__jru, g__tru, g__thru,
-    g__dru, g__dhru, g__nru, g_thru, g_nru, g_pru, g_phru, g_bru,
-    g_bhru, g_mru, g_yru, g_rru, g_lru, g_vru, g__sru, g_hru,
-    g__lru, g_j_jru, g_ardhakra, g_ardhakhra, g_ardhagra, g_ardhaghra, g_ardhacra, g_ardhajra,
-    g_ardhajhra, g_ardha_jra, g_ardha_nra, g_ardhatra, g_ardhathra, g_ardhadra, g_ardhadhra, g_ardhanra,
-    g_ardhapra, g_ardhaphra, g_ardhabra, g_ardhabhra, g_ardhamra, g_ardhayra, g_ardharra, g_ardhalra,
-    g_ardhavra, g_ardhazra, g_ardha_sra, g_ardhasra, g_ardhak_sra, g_ardhaj_jra, g_space, g_zeronojoin,
-    g_zerojoin, g_kari, g_k_ari, g_karu, g_k_aru, g_ri_postsa, g_thi_alt, g_dhi_alt,
-    g_pi_alt, g_yi_alt, g_ri_alt, g_ri_postaa, g_ri_round, g_e_m, g_ai_m, g_repha_e,
-    g_repha_ai, g_repha_e_m, g_repha_ai_m, g_repha_anusv_ara, g_gu_prera, g_ghu_prera, g__gu_prera, g_chu_prera,
-    g__tu_prera, g__thu_prera, g__du_prera, g__dhu_prera, g__nu_prera, g_thu_prera, g_pu_prera, g_bhu_prera,
-    g_mu_prera, g_yu_prera, g_zu_prera, g__su_prera, g__lu_prera, g_k_su_prera, g_gru_prera, g_ghru_prera,
-    g__gru_prera, g_chru_prera, g__tru_prera, g__thru_prera, g__dru_prera, g__dhru_prera, g__nru_prera, g_thru_prera,
-    g_dru_prera, g_pru_prera, g_bhru_prera, g_mru_prera, g_yru_prera, g__sru_prera, g__lru_prera, g_ri_postu1,
-    g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g_sa_mdhay_a, g_ek, g_don, g_t_in,
-    g_ch_ar, g_p_ac, g_sah_a, g_s_at, g__a_th, g_na_u, g_zero, g_one,
-    g_two, g_three, g_four, g_five, g_six, g_seven, g_eight, g_nine,
-    g_period, g_comma, g_exclam, g_question, g_da_n_da, g_dvida_n_da, g_abbr, g_parenleft,
-    g_parenright, g_bracketleft, g_bracketright, g_quotesingle, g_quotedbl, g_numbersign, g_dollar, g_percent,
-    g_ampersand, g_asterisk, g_plus, g_hyphen, g_slash, g_colon, g_semicolon, g_less,
-    g_equal, g_greater, g_at, g__a, g__b, g__c, g__d, g__e,
-    g__f, g__g, g__h, g__i, g__j, g__k, g__l, g__m,
-    g__n, g__o, g__p, g__q, g__r, g__s, g__t, g__u,
-    g__v, g__w, g__x, g__y, g__z, g_backslash, g_asciicircum, g_underscore,
-    g_grave, g_a, g_b, g_c, g_d, g_e, g_f, g_g,
-    g_h, g_i, g_j, g_k, g_l, g_m, g_n, g_o,
-    g_p, g_q, g_r, g_s, g_t, g_u, g_v, g_w,
-    g_x, g_y, g_z, g_braceleft, g_bar, g_braceright, g_asciitilde, g_quotesinglbase,
-    g_quotedblbase, g_ellipsis, g_quoteleft, g_quoteright, g_quotedblleft, g_quotedblright, g_endash, g_emdash,
-    g__e_t, g__o_t, g__e_m, g_repha__e_t, g_repha__e_m, g__et, g__ot);
 
 calt = (g_tha_alt, g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt, g_th_a_alt,
     g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt, g_thi_alt, g_dhi_alt, g_pi_alt, g_yi_alt,
@@ -1218,7 +879,7 @@ endtable;
 
 table(positioning)
 
-cnanusvaraDia canusvaraDia {attach {to=@1; at=anusvaraS; with=anusvaraM}};
-cneTDia ceTDia {attach {to=@1; at=eTS; with=eTM}};
+cTakesanusvaraDia canusvaraDia {attach {to=@1; at=anusvaraS; with=anusvaraM}};
+cTakeseTDia ceTDia {attach {to=@1; at=eTS; with=eTM}};
 
 endtable;
