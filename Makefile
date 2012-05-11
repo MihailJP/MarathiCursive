@@ -48,5 +48,6 @@ MarathiCursive-source.7z: ${SOURCE} ${DOCUMENTS}
 
 .PHONY: clean
 clean:
-	-rm Outlines.sfd OutlinesTT.sfd gdlerr.txt '$$_temp.gdl' ${FONTS}
+	-rm Outlines.sfd OutlinesTT.sfd OutlinesG.sfd gdlerr.txt '$$_temp.gdl' \
+	MarathiCursiveG_raw.ttf ${FONTS}
 	-rm -rf ${PKGS} ${PKGS:.7z=}
