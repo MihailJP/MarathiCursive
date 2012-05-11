@@ -2,7 +2,7 @@
 
 FONTS=MarathiCursive.otf MarathiCursiveT.ttf MarathiCursiveG.ttf
 DOCUMENTS=license.txt README
-SOURCE=MarathiCursive.sfd outlines.py truetype.py Makefile MarathiCursiveG.gdl
+SOURCE=MarathiCursive.sfd outlines.py truetype.py Makefile MarathiCursiveG.gdl OutlinesG.diff
 PKGS=MarathiCursive.7z MarathiCursive-source.7z
 7ZOPT=-mx9
 
@@ -24,8 +24,10 @@ MarathiCursive.otf: Outlines.sfd
 	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");SelectWorthOutputting();UnlinkReference();RemoveOverlap();Generate(\"$@\");Close()";done
 MarathiCursiveT.ttf: OutlinesTT.sfd
 	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");Generate(\"$@\");Close()";done
+MarathiCursiveG_raw.ttf: OutlinesG.sfd
+	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");Generate(\"$@\");Close()";done
 
-MarathiCursiveG.ttf: MarathiCursiveT.ttf MarathiCursiveG.gdl
+MarathiCursiveG.ttf: MarathiCursiveG_raw.ttf MarathiCursiveG.gdl
 	$(GRCOMPILER) $^ $@ "MarathiCursiveG"
 
 .SUFFIXES: .7z
