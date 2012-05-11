@@ -510,6 +510,9 @@ g_repha__e_t = glyphid(609) {eTM = point(-205m, 1229m)};
 g_repha__e_m = glyphid(610) {eTM = point(-205m, 1229m)};
 g__et = glyphid(611) {anusvaraS = point(1399m, 1933m)};
 g__ot = glyphid(612) {anusvaraS = point(1126m, 1905m)};
+g__r_rt = glyphid(614) {anusvaraS = point(983m, 1638m); eTS = point(952m, 1229m)};
+g__lt = glyphid(615) {anusvaraS = point(991m, 1638m); eTS = point(1319m, 1229m)};
+g__l_lt = glyphid(616) {anusvaraS = point(991m, 1638m); eTS = point(1319m, 1229m)};
 
 /* Classes */
 canusvaraDia = (g_anusv_ara);
@@ -568,7 +571,7 @@ cTakesanusvaraDia = (g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut, g__rt, g_et,
     g_bhru_prera, g_mru_prera, g_yru_prera, g_zru_prera, g__sru_prera, g_sru_prera, g__lru_prera, g_k_sru_prera,
     g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5, g_r_a_postu1, g_r_a_postu2, g_r_a_postu3,
     g_r_a_postu4, g_r_a_postu5, g_ri_postu1, g_ri_postu2, g_ri_postu3, g_ri_postu4, g_ri_postu5, g__et,
-    g__ot);
+    g__ot, g__r_rt, g__lt, g__l_lt);
 
 cTakeseTDia = (g__rt, g_ka, g_kha, g_ga, g_gha, g__ga, g_ca, g_cha,
     g_ja, g_jha, g__ja, g__ta, g__tha, g__da, g__dha, g__na,
@@ -595,7 +598,7 @@ cTakeseTDia = (g__rt, g_ka, g_kha, g_ga, g_gha, g__ga, g_ca, g_cha,
     g_k_ara, g_kar_a, g_k_ar_a, g_ra_postsa, g_ra_postaa, g_ra_round, g_th_a_alt, g_dh_a_alt,
     g_p_a_alt, g_m_a_alt, g_y_a_alt, g_dhu_alt, g_r_a_postsa, g_r_a_postaa, g_tru_prera, g_dhru_prera,
     g_zru_prera, g_sru_prera, g_k_sru_prera, g_ra_postu1, g_ra_postu2, g_ra_postu3, g_ra_postu4, g_ra_postu5,
-    g_r_a_postu1, g_r_a_postu2, g_r_a_postu3, g_r_a_postu4, g_r_a_postu5);
+    g_r_a_postu1, g_r_a_postu2, g_r_a_postu3, g_r_a_postu4, g_r_a_postu5, g__r_rt, g__lt, g__l_lt);
 
 calt = (g_tha_alt, g_da_alt, g_dha_alt, g_pa_alt, g_ma_alt, g_ya_alt, g_ra_alt, g_th_a_alt,
     g_dh_a_alt, g_p_a_alt, g_m_a_alt, g_y_a_alt, g_thi_alt, g_dhi_alt, g_pi_alt, g_yi_alt,

@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1336510327
+ModificationTime: 1336703195
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -476,7 +476,7 @@ ContextSub2: class "iT forms-1"  4 4 4 5
   FClassNames: "All_Others"  "iT"  "Full"  "Half"  
 EndFPST
 LangName: 1033 "" "" "Medium" 
-Encoding: Original
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
@@ -492,7 +492,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "eT"  "Above-base marks-1" "anusvara"  "Above-base marks-1" 
-BeginChars: 610 610
+BeginChars: 617 617
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -12969,6 +12969,150 @@ LayerCount: 2
 Fore
 Refer: 603 2373 N 1 0 0 1 778 0 2
 Refer: 1 2310 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: huva
+Encoding: 610 58948 610
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+680 720 m 25
+ 680 288 l 26
+ 680 141.04 590 0 437 0 c 0
+ 337.984 0 212 81 212 201 c 0
+EndSplineSet
+EndChar
+
+StartChar: RRt
+Encoding: 611 2400 611
+Width: 925
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 480 800 basechar 0
+AnchorPoint: "eT" 465 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+540 330 m 0
+ 636 303 729.558 343.474 771 453 c 0
+ 791.132 506.206 745.881 522.642 723 516 c 0
+ 698.146 508.785 684 474 690 447 c 0
+ 698.404 409.181 734.832 329.271 756.5 291 c 0
+ 783.676 243 912.737 223.923 879.5 312 c 0
+ 819.5 471 747.5 270 795.5 192 c 4
+ 819.5 153 814.958 103.144 723 36 c 0
+120 372 m 0
+ 176 420 249.933 463.479 338 446 c 0
+ 389.055 435.867 382 390 382 320 c 0
+129.881 98 m 0
+ 246 150 324 218 408 342 c 0
+ 470.594 434.4 483.251 537.271 464.692 600 c 1
+ 537.251 531.271 426.251 0 554.692 0 c 0
+0 600 m 1
+ 925 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: Lt
+Encoding: 612 2316 612
+Width: 943
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 483.894 800 basechar 0
+AnchorPoint: "eT" 643.894 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-0 600 m 25
+ 943 600 l 25
+643.394 600 m 25
+ 643.394 486 l 25
+325.394 0 m 17
+ 223.394 54 69.2715 221.902 136.394 369 c 24
+ 190.697 488.006 367.394 462 466.394 309 c 1
+ 397.394 444 690.481 520.515 772.394 423 c 24
+ 862.353 315.906 637.919 222.767 655.394 84 c 24
+ 664.188 14.1572 739.394 -24 823.394 18 c 9
+EndSplineSet
+EndChar
+
+StartChar: LLt
+Encoding: 613 2401 613
+Width: 943
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 483.894 800 basechar 0
+AnchorPoint: "eT" 643.894 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-0 600 m 25
+ 943 600 l 25
+643.394 600 m 25
+ 643.394 486 l 25
+325.394 0 m 17
+ 223.394 54 69.2714 221.902 136.394 369 c 24
+ 190.697 488.006 367.394 462 466.394 309 c 1
+ 397.394 444 698.423 526.668 772.394 423 c 24
+ 857.736 303.394 618.72 217.972 635.5 72 c 24
+ 643.588 1.6416 731.5 6 815.5 48 c 1
+ 699.606 14 643.826 -39.4648 663.5 -128 c 24
+ 680.756 -205.65 771.5 -200 863.5 -168 c 0
+EndSplineSet
+EndChar
+
+StartChar: RRT
+Encoding: 614 2372 614
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-181.011 -81 m 0
+ -259.011 -81 -304.208 -143.611 -306 -186 c 0
+ -308.008 -233.504 -264.008 -255.504 -138.008 -217.504 c 1
+ -224.008 -243.504 -264.51 -264.591 -254.008 -325.504 c 0
+ -244.008 -383.504 -138.008 -393.503 -36.0078 -355.504 c 9
+EndSplineSet
+EndChar
+
+StartChar: LT
+Encoding: 615 2402 615
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-287.303 -300 m 17
+ -338.303 -273 -415.364 -189.049 -381.803 -115.5 c 24
+ -354.651 -55.9971 -266.303 -69 -216.803 -145.5 c 1
+ -251.303 -78 -104.76 -39.7422 -63.8027 -88.5 c 24
+ -18.8242 -142.047 -131.041 -188.617 -122.303 -258 c 24
+ -117.906 -292.922 -80.3027 -312 -38.3027 -291 c 9
+EndSplineSet
+EndChar
+
+StartChar: LLT
+Encoding: 616 2403 616
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-287.303 -300 m 17
+ -338.303 -273 -415.364 -189.049 -381.803 -115.5 c 24
+ -354.651 -55.9971 -266.303 -69 -216.803 -145.5 c 1
+ -251.303 -78 -100.788 -36.666 -63.8027 -88.5 c 24
+ -21.1318 -148.303 -140.64 -191.014 -132.25 -264 c 24
+ -128.206 -299.18 -84.25 -297 -42.25 -276 c 1
+ -100.197 -293 -128.087 -319.732 -118.25 -364 c 24
+ -109.622 -402.825 -64.25 -400 -18.25 -384 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
