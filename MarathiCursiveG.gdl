@@ -748,14 +748,6 @@ cprera4 = (g__gu_prera, g_chu_prera, g__du_prera, g__lu_prera);
 cno_prera5 = (g__tu, g__thu, g__gru, g__dhru, g__lru);
 cprera5 = (g__tu_prera, g__thu_prera, g__gru_prera, g__dhru_prera, g__lru_prera);
 
-ModiCodePoints = (unicode(0x11600 .. 0x11643));
-NagariCodePoints = (unicode(0x0905 .. 0x090b), unicode(0x0960), unicode(0x090c),
-    unicode(0x0961), unicode(0x090f .. 0x0910), unicode(0x0913 .. 0x0928),
-    unicode(0x092a .. 0x0930), unicode(0x0932), unicode(0x0935 .. 0x0939),
-    unicode(0x0933), unicode(0x093e .. 0x0944), unicode(0x0962 .. 0x0963),
-    unicode(0x0947 .. 0x0948), unicode(0x094b .. 0x094c), unicode(0x0902 .. 0x0903),
-    unicode(0x094d), unicode(0x0945), unicode(0x0964 .. 0x0965), unicode(0x0970));
-
 endtable;
 
 #define MAXGLYPH 612
@@ -766,13 +758,8 @@ endtable;
 
 table(substitution)
 
-// Modi to Nagari glyph conversion
-pass(1)
-    ModiCodePoints > NagariCodePoints;
-endpass;
-
 // oT/auT Decomposition, Akhand ligatures
-pass(2)
+pass(1)
     g_o_t _ > g__a_t:1 g_e_t:1;
     g__o_t _ > g__a_t:1 g__e_t:1;
     g_au_t _ > g__a_t:1 g_ai_t:1;
@@ -781,38 +768,38 @@ pass(2)
 endpass;
 
 // Half forms
-pass(3)
+pass(2)
     cFullConsonants g_vir_ama > cHalfConsonants:(1 2) _ / _ _ g_zerojoin? ^ cFullConsonants ;
 endpass;
 
 // Vattu forms
-pass(4)
+pass(3)
     g_ra _ > g_raphala:1 g_void:1 / cHalfConsonants _ _ ^ ;
     g_ardhara > g_raphala / cHalfConsonants _ ^ ;
 endpass;
 
 // Repha
-pass(5)
+pass(4)
     g_ardhara > g_repha;
 endpass;
-pass(6)
+pass(5)
     g_repha > g_ardhara / _ g_zerojoin;
 endpass;
 
 // Raphala ligature
-pass(7)
+pass(6)
     cNoRakaarConsonants g_raphala > cRakaarArdhConsonants:(1 2) _ / _ _ g_zerojoin? ^ cHalfConsonants;
     cNoRakaarConsonants g_raphala > cRakaarArdhConsonants:(1 2) _ / _ _ g_zerojoin? ^ cFullConsonants;
 endpass;
-pass(8)
+pass(7)
     cNoRakaarConsonants g_raphala > cRakaarConsonants:(1 2) _;
 endpass;
-pass(9)
+pass(8)
     g_void > _ ;
 endpass;
 
 // Reph reorder
-pass(10)
+pass(9)
     g_repha cCausesRoundRakaar > @2 @1;
     g_repha cHalfConsonants cCausesRoundRakaar > @2 @3 @1;
     g_repha cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @1;
@@ -831,12 +818,12 @@ pass(10)
 endpass;
 
 // Ligate reph and ekaar
-pass(11)
+pass(10)
     g_repha g_e_t g_anusv_ara > g_repha_e_m:(1 2 3) _ _;
     g_repha g__e_t g_anusv_ara > g_repha__e_m:(1 2 3) _ _;
     g_repha g_ai_t g_anusv_ara > g_repha_ai_m:(1 2 3) _ _;
 endpass;
-pass(12)
+pass(11)
     g_repha g_e_t > g_repha_e:(1 2) _;
     g_repha g__e_t > g_repha__e_t:(1 2) _;
     g_repha g_ai_t > g_repha_ai:(1 2) _;
@@ -847,7 +834,7 @@ pass(12)
 endpass;
 
 // Matra
-pass(13)
+pass(12)
     cFullConsonants g__a_t > cAkaarConsonants:(1 2) _;
     cFullConsonants g_i_t > cIkaarConsonants:(1 2) _;
     cFullConsonants g__i_t > cIkaarConsonants:(1 2) _;
@@ -856,11 +843,11 @@ pass(13)
 endpass;
 
 // Contextual forms
-pass(14)
+pass(13)
     cno_alt > calt / cHalfConsonants _;
 endpass;
 
-pass(15)
+pass(14)
     g_ka g_ra > g_kara:(1 2) _;
     g_ka g_r_a > g_kar_a:(1 2) _;
     g_ka g_ri > g_kari:(1 2) _;
