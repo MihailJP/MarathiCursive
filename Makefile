@@ -18,7 +18,7 @@ Outlines.sfd: MarathiCursive.sfd
 OutlinesTT.sfd: Outlines.sfd
 	fontforge -script ./truetype.py
 OutlinesG.sfd: OutlinesG.diff OutlinesTT.sfd
-	patch -i $< -o $@
+	patch -F 999 -i $< -o $@ OutlinesTT.sfd
 
 MarathiCursive.otf: Outlines.sfd
 	for i in $?;do fontforge -lang=ff -c "Open(\"$$i\");SelectWorthOutputting();UnlinkReference();RemoveOverlap();Generate(\"$@\");Close()";done
