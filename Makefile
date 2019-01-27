@@ -7,7 +7,11 @@ PKGS=MarathiCursive.7z MarathiCursive-source.7z
 7ZOPT=-mx9
 
 # Path to Graphite compiler
-GRCOMPILER=/cygdrive/c/Apps/graphite/Graphite\ Compiler/GrCompiler
+
+# On Windows (Cygwin) uncomment:
+#GRCOMPILER=/cygdrive/c/Program\ Files/Graphite\ Compiler/GrCompiler
+# For systems other than Windows:
+GRCOMPILER=wine ~/.wine/drive_c/Program\ Files/Graphite\ Compiler/GrCompiler.exe
 
 .PHONY: all
 all: ${FONTS}
