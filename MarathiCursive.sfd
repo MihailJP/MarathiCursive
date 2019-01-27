@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336059319
-ModificationTime: 1548559632
+ModificationTime: 1548566677
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,24 +37,25 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 2 0 0 "oT/auT Decomposition" { "oT/auT Decomposition-1"  } [' RQD' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "Akhand ligatures" { "Akhand ligatures-1"  } ['akhn' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "Repha" { "Repha-1"  } ['rphf' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "Rakaar ligatures" { "Rakaar ligatures-1"  } ['rkrf' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "Rakaar" { "Rakaar-1"  } ['blwf' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "Half forms" { "Half forms-1"  } ['half' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "Vattu forms" { "Vattu forms-1"  } ['vatu' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "iT forms" { "iT forms-1"  } ['pres' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "above-base matra conjunction" { "above-base matra conjunction-1"  } ['abvs' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "uT ligatures" { "uT ligatures-1"  } ['blws' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "AT ligatures" { "AT ligatures-1"  } ['psts' ('dev2' <'dflt' > ) ]
-Lookup: 4 0 0 "IT ligatures" { "IT ligatures-1"  } ['psts' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "Contextual forms" { "Contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "kara contextual substitution" { "kara contextual substitution-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "sara contextual forms" { "sara contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "Ara contextual forms" { "Ara contextual forms-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) 'psts' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "Rounded ra substitution" { "Rounded ra substitution-1"  } [' RQD' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
-Lookup: 5 0 0 "u and ra substitution" { "u and ra substitution-1"  } ['RQD ' ('dev2' <'dflt' > ) 'calt' ('dev2' <'dflt' > ) ]
+Lookup: 4 0 0 "E and O with chandra" { "E and O with chandra-1"  } ['ccmp' ('modi' <'dflt' > ) ]
+Lookup: 2 0 0 "oT/auT Decomposition" { "oT/auT Decomposition-1"  } [' RQD' ('modi' <'dflt' > ) 'psts' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "Akhand ligatures" { "Akhand ligatures-1"  } ['akhn' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "Repha" { "Repha-1"  } ['rphf' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "Rakaar ligatures" { "Rakaar ligatures-1"  } ['rkrf' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "Rakaar" { "Rakaar-1"  } ['blwf' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "Half forms" { "Half forms-1"  } ['half' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "Vattu forms" { "Vattu forms-1"  } ['vatu' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "iT forms" { "iT forms-1"  } ['pres' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "above-base matra conjunction" { "above-base matra conjunction-1"  } ['abvs' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "uT ligatures" { "uT ligatures-1"  } ['blws' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "AT ligatures" { "AT ligatures-1"  } ['psts' ('modi' <'dflt' > ) ]
+Lookup: 4 0 0 "IT ligatures" { "IT ligatures-1"  } ['psts' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "Contextual forms" { "Contextual forms-1"  } [' RQD' ('modi' <'dflt' > ) 'calt' ('modi' <'dflt' > ) 'psts' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "kara contextual substitution" { "kara contextual substitution-1"  } [' RQD' ('modi' <'dflt' > ) 'calt' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "sara contextual forms" { "sara contextual forms-1"  } [' RQD' ('modi' <'dflt' > ) 'calt' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "Ara contextual forms" { "Ara contextual forms-1"  } [' RQD' ('modi' <'dflt' > ) 'calt' ('modi' <'dflt' > ) 'psts' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "Rounded ra substitution" { "Rounded ra substitution-1"  } [' RQD' ('modi' <'dflt' > ) 'calt' ('modi' <'dflt' > ) ]
+Lookup: 5 0 0 "u and ra substitution" { "u and ra substitution-1"  } ['RQD ' ('modi' <'dflt' > ) 'calt' ('modi' <'dflt' > ) ]
 Lookup: 1 0 0 "IT forms" { "IT forms-1"  } []
 Lookup: 1 0 0 "Devanagari-like forms" { "Devanagari-like forms-1" ("alt") } []
 Lookup: 1 0 0 "kara ligated forms" { "kara ligated forms-1"  } []
@@ -68,7 +69,7 @@ Lookup: 1 0 0 "ura2" { "ura2-1" ("postu2") } []
 Lookup: 1 0 0 "ura3" { "ura3-1" ("postu3") } []
 Lookup: 1 0 0 "ura4" { "ura4-1" ("postu4") } []
 Lookup: 1 0 0 "ura5" { "ura5-1" ("postu5") } []
-Lookup: 260 0 0 "Above-base marks" { "Above-base marks-1"  } ['abvm' ('dev2' <'dflt' > ) ]
+Lookup: 260 0 0 "Above-base marks" { "Above-base marks-1"  } ['abvm' ('modi' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ContextSub2: class "u and ra substitution-1" 8 8 8 10
@@ -496,7 +497,7 @@ AnchorClass2: "eT" "Above-base marks-1" "anusvara" "Above-base marks-1"
 BeginChars: 617 617
 
 StartChar: akAra
-Encoding: 0 2309 0
+Encoding: 0 71168 0
 Width: 899
 VWidth: 0
 Flags: W
@@ -521,7 +522,7 @@ EndSplineSet
 EndChar
 
 StartChar: AkAra
-Encoding: 1 2310 1
+Encoding: 1 71169 1
 Width: 843
 VWidth: 0
 Flags: W
@@ -546,7 +547,7 @@ EndSplineSet
 EndChar
 
 StartChar: it
-Encoding: 2 2311 2
+Encoding: 2 71170 2
 Width: 772
 VWidth: 0
 Flags: W
@@ -568,18 +569,18 @@ EndSplineSet
 EndChar
 
 StartChar: It
-Encoding: 3 2312 3
+Encoding: 3 71171 3
 Width: 772
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 700 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 2 2311 N 1 0 0 1 0 0 2
+Refer: 2 71170 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ut
-Encoding: 4 2313 4
+Encoding: 4 71172 4
 Width: 924
 VWidth: 0
 Flags: W
@@ -600,18 +601,18 @@ EndSplineSet
 EndChar
 
 StartChar: Ut
-Encoding: 5 2314 5
+Encoding: 5 71173 5
 Width: 924
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 800 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 4 2313 N 1 0 0 1 0 0 2
+Refer: 4 71172 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Rt
-Encoding: 6 2315 6
+Encoding: 6 71174 6
 Width: 925
 VWidth: 0
 Flags: W
@@ -638,55 +639,55 @@ EndSplineSet
 EndChar
 
 StartChar: et
-Encoding: 7 2319 7
+Encoding: 7 71178 7
 Width: 899
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 860 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 53 2375 N 1 0 0 1 904 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 53 71225 N 1 0 0 1 904 0 2
+Refer: 0 71168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ait
-Encoding: 8 2320 8
+Encoding: 8 71179 8
 Width: 899
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 860 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 2376 N 1 0 0 1 904 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 54 71226 N 1 0 0 1 904 0 2
+Refer: 0 71168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ot
-Encoding: 9 2323 9
+Encoding: 9 71180 9
 Width: 843
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 720 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 53 2375 N 1 0 0 1 778 0 2
-Refer: 1 2310 N 1 0 0 1 0 0 2
+Refer: 53 71225 N 1 0 0 1 778 0 2
+Refer: 1 71169 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: aut
-Encoding: 10 2324 10
+Encoding: 10 71181 10
 Width: 843
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 720 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 2376 N 1 0 0 1 778 0 2
-Refer: 1 2310 N 1 0 0 1 0 0 2
+Refer: 54 71226 N 1 0 0 1 778 0 2
+Refer: 1 71169 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ka
-Encoding: 11 2325 11
+Encoding: 11 71182 11
 Width: 781
 VWidth: 0
 Flags: W
@@ -706,12 +707,12 @@ SplineSet
 0 600 m 1
  781 600 l 1025
 EndSplineSet
-Substitution2: "kara ligated forms-1" void
 Substitution2: "IT forms-1" ki
+Substitution2: "kara ligated forms-1" void
 EndChar
 
 StartChar: kha
-Encoding: 12 2326 12
+Encoding: 12 71183 12
 Width: 760
 VWidth: 0
 Flags: W
@@ -736,7 +737,7 @@ Substitution2: "IT forms-1" khi
 EndChar
 
 StartChar: ga
-Encoding: 13 2327 13
+Encoding: 13 71184 13
 Width: 657
 VWidth: 0
 Flags: W
@@ -760,7 +761,7 @@ Substitution2: "IT forms-1" gi
 EndChar
 
 StartChar: gha
-Encoding: 14 2328 14
+Encoding: 14 71185 14
 Width: 654
 VWidth: 0
 Flags: W
@@ -785,7 +786,7 @@ Substitution2: "IT forms-1" ghi
 EndChar
 
 StartChar: Ga
-Encoding: 15 2329 15
+Encoding: 15 71186 15
 Width: 780
 VWidth: 0
 Flags: W
@@ -803,12 +804,12 @@ SplineSet
 0 600 m 1
  780 600 l 1025
 EndSplineSet
-Refer: 58 2306 S 1 0 0 1 762 -381 2
+Refer: 58 71229 S 1 0 0 1 762 -381 2
 Substitution2: "IT forms-1" Gi
 EndChar
 
 StartChar: ca
-Encoding: 16 2330 16
+Encoding: 16 71187 16
 Width: 598
 VWidth: 0
 Flags: W
@@ -831,7 +832,7 @@ Substitution2: "IT forms-1" ci
 EndChar
 
 StartChar: cha
-Encoding: 17 2331 17
+Encoding: 17 71188 17
 Width: 672
 VWidth: 0
 Flags: W
@@ -856,7 +857,7 @@ Substitution2: "IT forms-1" chi
 EndChar
 
 StartChar: ja
-Encoding: 18 2332 18
+Encoding: 18 71189 18
 Width: 663
 VWidth: 0
 Flags: W
@@ -879,7 +880,7 @@ Substitution2: "IT forms-1" ji
 EndChar
 
 StartChar: jha
-Encoding: 19 2333 19
+Encoding: 19 71190 19
 Width: 833
 VWidth: 0
 Flags: W
@@ -906,7 +907,7 @@ Substitution2: "IT forms-1" jhi
 EndChar
 
 StartChar: Ja
-Encoding: 20 2334 20
+Encoding: 20 71191 20
 Width: 808
 VWidth: 0
 Flags: W
@@ -930,7 +931,7 @@ Substitution2: "IT forms-1" Ji
 EndChar
 
 StartChar: Ta
-Encoding: 21 2335 21
+Encoding: 21 71192 21
 Width: 639
 VWidth: 0
 Flags: W
@@ -951,7 +952,7 @@ Substitution2: "IT forms-1" Ti
 EndChar
 
 StartChar: Tha
-Encoding: 22 2336 22
+Encoding: 22 71193 22
 Width: 639
 VWidth: 0
 Flags: W
@@ -959,13 +960,13 @@ AnchorPoint: "eT" 510 600 basechar 0
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 2306 N 1 0 0 1 426 -612 2
-Refer: 21 2335 N 1 0 0 1 0 0 2
+Refer: 58 71229 N 1 0 0 1 426 -612 2
+Refer: 21 71192 N 1 0 0 1 0 0 2
 Substitution2: "IT forms-1" Thi
 EndChar
 
 StartChar: Da
-Encoding: 23 2337 23
+Encoding: 23 71194 23
 Width: 693
 VWidth: 0
 Flags: W
@@ -987,7 +988,7 @@ Substitution2: "IT forms-1" Di
 EndChar
 
 StartChar: Dha
-Encoding: 24 2338 24
+Encoding: 24 71195 24
 Width: 790
 VWidth: 0
 Flags: W
@@ -1010,7 +1011,7 @@ Substitution2: "IT forms-1" Dhi
 EndChar
 
 StartChar: Na
-Encoding: 25 2339 25
+Encoding: 25 71196 25
 Width: 707
 VWidth: 0
 Flags: W
@@ -1034,7 +1035,7 @@ Substitution2: "IT forms-1" Ni
 EndChar
 
 StartChar: ta
-Encoding: 26 2340 26
+Encoding: 26 71197 26
 Width: 730
 VWidth: 0
 Flags: W
@@ -1056,7 +1057,7 @@ Substitution2: "IT forms-1" ti
 EndChar
 
 StartChar: tha
-Encoding: 27 2341 27
+Encoding: 27 71198 27
 Width: 861
 VWidth: 0
 Flags: W
@@ -1078,12 +1079,12 @@ SplineSet
 0 600 m 1
  861 600 l 1025
 EndSplineSet
-Substitution2: "Devanagari-like forms-1" tha.alt
 Substitution2: "IT forms-1" thi
+Substitution2: "Devanagari-like forms-1" tha.alt
 EndChar
 
 StartChar: da
-Encoding: 28 2342 28
+Encoding: 28 71199 28
 Width: 722
 VWidth: 0
 Flags: W
@@ -1102,12 +1103,12 @@ SplineSet
 0 600 m 1
  722 600 l 1025
 EndSplineSet
-Substitution2: "Devanagari-like forms-1" da.alt
 Substitution2: "IT forms-1" di
+Substitution2: "Devanagari-like forms-1" da.alt
 EndChar
 
 StartChar: dha
-Encoding: 29 2343 29
+Encoding: 29 71200 29
 Width: 715
 VWidth: 0
 Flags: W
@@ -1133,7 +1134,7 @@ Substitution2: "IT forms-1" dhi
 EndChar
 
 StartChar: na
-Encoding: 30 2344 30
+Encoding: 30 71201 30
 Width: 585
 VWidth: 0
 Flags: W
@@ -1156,7 +1157,7 @@ Substitution2: "IT forms-1" ni
 EndChar
 
 StartChar: pa
-Encoding: 31 2346 31
+Encoding: 31 71202 31
 Width: 738
 VWidth: 0
 Flags: W
@@ -1175,12 +1176,12 @@ SplineSet
 0 600 m 1
  738 600 l 1025
 EndSplineSet
-Substitution2: "Devanagari-like forms-1" pa.alt
 Substitution2: "IT forms-1" pi
+Substitution2: "Devanagari-like forms-1" pa.alt
 EndChar
 
 StartChar: pha
-Encoding: 32 2347 32
+Encoding: 32 71203 32
 Width: 879
 VWidth: 0
 Flags: W
@@ -1203,7 +1204,7 @@ Substitution2: "IT forms-1" phi
 EndChar
 
 StartChar: ba
-Encoding: 33 2348 33
+Encoding: 33 71204 33
 Width: 756
 VWidth: 0
 Flags: W
@@ -1228,7 +1229,7 @@ Substitution2: "IT forms-1" bi
 EndChar
 
 StartChar: bha
-Encoding: 34 2349 34
+Encoding: 34 71205 34
 Width: 750
 VWidth: 0
 Flags: W
@@ -1253,7 +1254,7 @@ Substitution2: "IT forms-1" bhi
 EndChar
 
 StartChar: ma
-Encoding: 35 2350 35
+Encoding: 35 71206 35
 Width: 752
 VWidth: 0
 Flags: W
@@ -1270,12 +1271,12 @@ SplineSet
 0 600 m 1
  752 600 l 1025
 EndSplineSet
-Substitution2: "Devanagari-like forms-1" ma.alt
 Substitution2: "IT forms-1" mi
+Substitution2: "Devanagari-like forms-1" ma.alt
 EndChar
 
 StartChar: ya
-Encoding: 36 2351 36
+Encoding: 36 71207 36
 Width: 703
 VWidth: 0
 Flags: W
@@ -1294,12 +1295,12 @@ SplineSet
 0 600 m 1
  703 600 l 1025
 EndSplineSet
-Substitution2: "Devanagari-like forms-1" ya.alt
 Substitution2: "IT forms-1" yi
+Substitution2: "Devanagari-like forms-1" ya.alt
 EndChar
 
 StartChar: ra
-Encoding: 37 2352 37
+Encoding: 37 71208 37
 Width: 689
 VWidth: 0
 Flags: W
@@ -1315,22 +1316,22 @@ SplineSet
 0 600 m 1
  689 600 l 1025
 EndSplineSet
-Substitution2: "ura5-1" ra.postu5
-Substitution2: "ura4-1" ra.postu4
-Substitution2: "ura3-1" ra.postu3
-Substitution2: "ura2-1" ra.postu2
-Substitution2: "ura1-1" ra.postu1
-Substitution2: "kaara ligated forms-1" kAra
-Substitution2: "kara ligated forms-1" kara
-Substitution2: "Rounded ra-1" ra.round
-Substitution2: "post-aa forms-1" ra.postaa
-Substitution2: "post-sa forms-1" ra.postsa
-Substitution2: "Devanagari-like forms-1" ra.alt
 Substitution2: "IT forms-1" ri
+Substitution2: "Devanagari-like forms-1" ra.alt
+Substitution2: "post-sa forms-1" ra.postsa
+Substitution2: "post-aa forms-1" ra.postaa
+Substitution2: "Rounded ra-1" ra.round
+Substitution2: "kara ligated forms-1" kara
+Substitution2: "kaara ligated forms-1" kAra
+Substitution2: "ura1-1" ra.postu1
+Substitution2: "ura2-1" ra.postu2
+Substitution2: "ura3-1" ra.postu3
+Substitution2: "ura4-1" ra.postu4
+Substitution2: "ura5-1" ra.postu5
 EndChar
 
 StartChar: la
-Encoding: 38 2354 38
+Encoding: 38 71209 38
 Width: 685
 VWidth: 0
 Flags: W
@@ -1353,7 +1354,7 @@ Substitution2: "IT forms-1" li
 EndChar
 
 StartChar: va
-Encoding: 39 2357 39
+Encoding: 39 71210 39
 Width: 746
 VWidth: 0
 Flags: W
@@ -1376,7 +1377,7 @@ Substitution2: "IT forms-1" vi
 EndChar
 
 StartChar: za
-Encoding: 40 2358 40
+Encoding: 40 71211 40
 Width: 797
 VWidth: 0
 Flags: W
@@ -1402,7 +1403,7 @@ Substitution2: "IT forms-1" zi
 EndChar
 
 StartChar: Sa
-Encoding: 41 2359 41
+Encoding: 41 71212 41
 Width: 575
 VWidth: 0
 Flags: W
@@ -1427,7 +1428,7 @@ Substitution2: "IT forms-1" Si
 EndChar
 
 StartChar: sa
-Encoding: 42 2360 42
+Encoding: 42 71213 42
 Width: 817
 VWidth: 0
 Flags: W
@@ -1450,7 +1451,7 @@ Substitution2: "IT forms-1" si
 EndChar
 
 StartChar: ha
-Encoding: 43 2361 43
+Encoding: 43 71214 43
 Width: 644
 VWidth: 0
 Flags: W
@@ -1473,7 +1474,7 @@ Substitution2: "IT forms-1" hi
 EndChar
 
 StartChar: La
-Encoding: 44 2355 44
+Encoding: 44 71215 44
 Width: 808
 VWidth: 0
 Flags: W
@@ -1534,7 +1535,7 @@ AnchorPoint: "eT" 773 600 basechar 0
 AnchorPoint: "anusvara" 658 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 30 2344 N 1 0 0 1 308 0 2
+Refer: 30 71201 N 1 0 0 1 308 0 2
 Refer: 189 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Akhand ligatures-1" ja virAma Ja
@@ -1542,7 +1543,7 @@ Substitution2: "IT forms-1" jJi
 EndChar
 
 StartChar: AT
-Encoding: 47 2366 47
+Encoding: 47 71216 47
 Width: 260
 VWidth: 0
 Flags: W
@@ -1560,19 +1561,19 @@ EndSplineSet
 EndChar
 
 StartChar: iT
-Encoding: 48 2367 48
+Encoding: 48 71217 48
 Width: 344
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 200 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 0 0 2
+Refer: 49 71218 S 1 0 0 1 0 0 2
 Substitution2: "IT forms-1" void
 EndChar
 
 StartChar: IT
-Encoding: 49 2368 49
+Encoding: 49 71218 49
 Width: 344
 VWidth: 0
 Flags: W
@@ -1590,7 +1591,7 @@ EndSplineSet
 EndChar
 
 StartChar: uT
-Encoding: 50 2369 50
+Encoding: 50 71219 50
 Width: 0
 VWidth: 0
 Flags: W
@@ -1606,17 +1607,17 @@ EndSplineSet
 EndChar
 
 StartChar: UT
-Encoding: 51 2370 51
+Encoding: 51 71220 51
 Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: RT
-Encoding: 52 2371 52
+Encoding: 52 71221 52
 Width: 0
 VWidth: 0
 Flags: W
@@ -1630,7 +1631,7 @@ EndSplineSet
 EndChar
 
 StartChar: eT
-Encoding: 53 2375 53
+Encoding: 53 71225 53
 Width: 0
 VWidth: 0
 Flags: W
@@ -1644,7 +1645,7 @@ EndSplineSet
 EndChar
 
 StartChar: aiT
-Encoding: 54 2376 54
+Encoding: 54 71226 54
 Width: 0
 VWidth: 0
 Flags: W
@@ -1661,31 +1662,31 @@ EndSplineSet
 EndChar
 
 StartChar: oT
-Encoding: 55 2379 55
+Encoding: 55 71227 55
 Width: 260
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 53 2375 S 1 0 0 1 190 0 2
-Refer: 47 2366 N 1 0 0 1 0 0 2
+Refer: 53 71225 S 1 0 0 1 190 0 2
+Refer: 47 71216 N 1 0 0 1 0 0 2
 MultipleSubs2: "oT/auT Decomposition-1" AT eT
 EndChar
 
 StartChar: auT
-Encoding: 56 2380 56
+Encoding: 56 71228 56
 Width: 260
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 54 2376 N 1 0 0 1 190 0 2
-Refer: 47 2366 N 1 0 0 1 0 0 2
+Refer: 54 71226 N 1 0 0 1 190 0 2
+Refer: 47 71216 N 1 0 0 1 0 0 2
 MultipleSubs2: "oT/auT Decomposition-1" AT aiT
 EndChar
 
 StartChar: virAma
-Encoding: 57 2381 57
+Encoding: 57 71231 57
 Width: 0
 VWidth: 0
 Flags: W
@@ -1698,7 +1699,7 @@ EndSplineSet
 EndChar
 
 StartChar: anusvAra
-Encoding: 58 2306 58
+Encoding: 58 71229 58
 Width: 0
 VWidth: 0
 Flags: W
@@ -1712,7 +1713,7 @@ EndSplineSet
 EndChar
 
 StartChar: visarga
-Encoding: 59 2307 59
+Encoding: 59 71230 59
 Width: 242
 VWidth: 0
 Flags: W
@@ -1722,8 +1723,8 @@ SplineSet
 0 600 m 1
  242 600 l 1025
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 203 -630 2
-Refer: 58 2306 N 1 0 0 1 203 -408 2
+Refer: 58 71229 N 1 0 0 1 203 -630 2
+Refer: 58 71229 N 1 0 0 1 203 -408 2
 EndChar
 
 StartChar: kA
@@ -1792,8 +1793,8 @@ AnchorPoint: "anusvara" 760.709 800 basechar 0
 AnchorPoint: "eT" 745.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 657 0 2
-Refer: 13 2327 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 657 0 2
+Refer: 13 71184 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" ga AT
 EndChar
@@ -1807,8 +1808,8 @@ AnchorPoint: "eT" 742.709 600 basechar 0
 AnchorPoint: "anusvara" 757.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 654 0 2
-Refer: 14 2328 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 654 0 2
+Refer: 14 71185 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" gha AT
 EndChar
@@ -1822,8 +1823,8 @@ AnchorPoint: "eT" 868.709 600 basechar 0
 AnchorPoint: "anusvara" 883.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 780 0 2
-Refer: 15 2329 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 780 0 2
+Refer: 15 71186 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Ga AT
 EndChar
@@ -1862,8 +1863,8 @@ AnchorPoint: "eT" 760.709 600 basechar 0
 AnchorPoint: "anusvara" 775.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 672 0 2
-Refer: 17 2331 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 672 0 2
+Refer: 17 71188 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" cha AT
 EndChar
@@ -1983,7 +1984,7 @@ AnchorPoint: "eT" 710 600 basechar 0
 AnchorPoint: "anusvara" 680 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 2306 N 1 0 0 1 426 -612 2
+Refer: 58 71229 N 1 0 0 1 426 -612 2
 Refer: 70 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Tha AT
@@ -1998,8 +1999,8 @@ AnchorPoint: "eT" 781.709 600 basechar 0
 AnchorPoint: "anusvara" 796.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 693 0 2
-Refer: 23 2337 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 693 0 2
+Refer: 23 71194 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Da AT
 EndChar
@@ -2013,8 +2014,8 @@ AnchorPoint: "eT" 878.709 600 basechar 0
 AnchorPoint: "anusvara" 893.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 790 0 2
-Refer: 24 2338 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 790 0 2
+Refer: 24 71195 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Dha AT
 EndChar
@@ -2028,8 +2029,8 @@ AnchorPoint: "eT" 795.709 600 basechar 0
 AnchorPoint: "anusvara" 810.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 707 0 2
-Refer: 25 2339 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 707 0 2
+Refer: 25 71196 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Na AT
 EndChar
@@ -2043,8 +2044,8 @@ AnchorPoint: "eT" 818.709 600 basechar 0
 AnchorPoint: "anusvara" 833.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 730 0 2
-Refer: 26 2340 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 730 0 2
+Refer: 26 71197 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" ta AT
 EndChar
@@ -2058,7 +2059,7 @@ AnchorPoint: "anusvara" 811.709 800 basechar 0
 AnchorPoint: "eT" 796.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 708 0 2
+Refer: 47 71216 N 1 0 0 1 708 0 2
 Refer: 208 -1 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" thA.alt
 LCarets2: 1 0
@@ -2074,7 +2075,7 @@ AnchorPoint: "eT" 547.246 600 basechar 0
 AnchorPoint: "anusvara" 562.246 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 459 0 2
+Refer: 47 71216 N 1 0 0 1 459 0 2
 Refer: 209 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" da AT
@@ -2089,7 +2090,7 @@ AnchorPoint: "eT" 810.247 600 basechar 0
 AnchorPoint: "anusvara" 825.247 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 722 0 2
+Refer: 47 71216 S 1 0 0 1 722 0 2
 Refer: 210 -1 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" dhA.alt
 LCarets2: 1 0
@@ -2129,7 +2130,7 @@ AnchorPoint: "eT" 664.247 600 basechar 0
 AnchorPoint: "anusvara" 679.247 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 576 0 2
+Refer: 47 71216 N 1 0 0 1 576 0 2
 Refer: 211 -1 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" pA.alt
 LCarets2: 1 0
@@ -2277,7 +2278,7 @@ AnchorPoint: "anusvara" 666.246 800 basechar 0
 AnchorPoint: "eT" 651.246 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 563 0 2
+Refer: 47 71216 N 1 0 0 1 563 0 2
 Refer: 214 -1 N 1 0 0 1 0 0 2
 Substitution2: "ura5-1" rA.postu5
 Substitution2: "ura4-1" rA.postu4
@@ -2351,8 +2352,8 @@ AnchorPoint: "eT" 885.709 600 basechar 0
 AnchorPoint: "anusvara" 900.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 797 0 2
-Refer: 40 2358 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 797 0 2
+Refer: 40 71211 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" za AT
 EndChar
@@ -2366,8 +2367,8 @@ AnchorPoint: "eT" 663.709 600 basechar 0
 AnchorPoint: "anusvara" 678.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 575 0 2
-Refer: 41 2359 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 575 0 2
+Refer: 41 71212 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Sa AT
 EndChar
@@ -2431,8 +2432,8 @@ AnchorPoint: "anusvara" 911.709 800 basechar 0
 AnchorPoint: "eT" 896.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 808 0 2
-Refer: 44 2355 N 1 0 0 1 0 0 2
+Refer: 47 71216 N 1 0 0 1 808 0 2
+Refer: 44 71215 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" La AT
 EndChar
@@ -2446,7 +2447,7 @@ AnchorPoint: "anusvara" 882.709 800 basechar 0
 AnchorPoint: "eT" 867.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 779 0 2
+Refer: 47 71216 N 1 0 0 1 779 0 2
 Refer: 45 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" kSa AT
@@ -2474,8 +2475,8 @@ Flags: W
 AnchorPoint: "anusvara" 981 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 781 0 2
-Refer: 11 2325 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 781 0 2
+Refer: 11 71182 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" ka IT
 EndChar
@@ -2487,8 +2488,8 @@ Flags: W
 AnchorPoint: "anusvara" 960 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 760 0 2
-Refer: 12 2326 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 760 0 2
+Refer: 12 71183 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" kha IT
 EndChar
@@ -2500,8 +2501,8 @@ Flags: W
 AnchorPoint: "anusvara" 857 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 657 0 2
-Refer: 13 2327 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 657 0 2
+Refer: 13 71184 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" ga IT
 EndChar
@@ -2513,8 +2514,8 @@ Flags: W
 AnchorPoint: "anusvara" 854 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 654 0 2
-Refer: 14 2328 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 654 0 2
+Refer: 14 71185 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" gha IT
 EndChar
@@ -2540,7 +2541,7 @@ SplineSet
  573 67.2139 505.115 0 352.885 0 c 0
  161.115 0 130 210 120 420 c 1024
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 762 -381 2
+Refer: 58 71229 N 1 0 0 1 762 -381 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" Ga IT
 EndChar
@@ -2552,8 +2553,8 @@ Flags: W
 AnchorPoint: "anusvara" 798 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 598 0 2
-Refer: 16 2330 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 598 0 2
+Refer: 16 71187 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" ca IT
 EndChar
@@ -2565,8 +2566,8 @@ Flags: W
 AnchorPoint: "anusvara" 872 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 672 0 2
-Refer: 17 2331 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 672 0 2
+Refer: 17 71188 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" cha IT
 EndChar
@@ -2685,7 +2686,7 @@ Flags: W
 AnchorPoint: "anusvara" 839 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 2306 N 1 0 0 1 426 -612 2
+Refer: 58 71229 N 1 0 0 1 426 -612 2
 Refer: 106 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" Tha IT
@@ -2776,8 +2777,8 @@ Flags: W
 AnchorPoint: "anusvara" 930 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 730 0 2
-Refer: 26 2340 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 730 0 2
+Refer: 26 71197 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" ta IT
 EndChar
@@ -2789,8 +2790,8 @@ Flags: W
 AnchorPoint: "anusvara" 1061 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 861 0 2
-Refer: 27 2341 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 861 0 2
+Refer: 27 71198 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" thi.alt
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" tha IT
@@ -2829,8 +2830,8 @@ Flags: W
 AnchorPoint: "anusvara" 915 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 715 0 2
-Refer: 29 2343 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 715 0 2
+Refer: 29 71200 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" dhi.alt
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" dha IT
@@ -2869,8 +2870,8 @@ Flags: W
 AnchorPoint: "anusvara" 938 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 738 0 2
-Refer: 31 2346 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 738 0 2
+Refer: 31 71202 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" pi.alt
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" pa IT
@@ -2909,8 +2910,8 @@ Flags: W
 AnchorPoint: "anusvara" 956 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 756 0 2
-Refer: 33 2348 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 756 0 2
+Refer: 33 71204 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" ba IT
 EndChar
@@ -2922,8 +2923,8 @@ Flags: W
 AnchorPoint: "anusvara" 950 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 0.936147 0 0 1 766.857 0 2
-Refer: 34 2349 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 0.936147 0 0 1 766.857 0 2
+Refer: 34 71205 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" bha IT
 EndChar
@@ -2986,8 +2987,8 @@ Flags: W
 AnchorPoint: "anusvara" 889 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 689 0 2
-Refer: 37 2352 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 689 0 2
+Refer: 37 71208 N 1 0 0 1 0 0 2
 Substitution2: "ura5-1" ri.postu5
 Substitution2: "ura4-1" ri.postu4
 Substitution2: "ura3-1" ri.postu3
@@ -3033,8 +3034,8 @@ Flags: W
 AnchorPoint: "anusvara" 946 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 746 0 2
-Refer: 39 2357 N 1 0 0 1 0 0 2
+Refer: 49 71218 N 1 0 0 1 746 0 2
+Refer: 39 71210 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" va IT
 EndChar
@@ -3271,7 +3272,7 @@ SplineSet
 0 600 m 1
  1064 600 l 1025
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 687 -381 2
+Refer: 58 71229 N 1 0 0 1 687 -381 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" kha uT
 Ligature2: "uT ligatures-1" kha UT
@@ -3342,8 +3343,8 @@ Flags: W
 AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 621 0 2
-Refer: 15 2329 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 621 0 2
+Refer: 15 71186 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Gu.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Ga uT
@@ -3359,7 +3360,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 598 0 2
-Refer: 16 2330 N 1 0 0 1 0 0 2
+Refer: 16 71187 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" ca uT
 Ligature2: "uT ligatures-1" ca UT
@@ -3372,8 +3373,8 @@ Flags: W
 AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 621 0 2
-Refer: 17 2331 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 621 0 2
+Refer: 17 71188 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" chu.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" cha uT
@@ -3414,7 +3415,7 @@ AnchorPoint: "anusvara" 550 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 683 0 2
-Refer: 19 2333 N 1 0 0 1 0 0 2
+Refer: 19 71190 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" jha uT
 Ligature2: "uT ligatures-1" jha UT
@@ -3428,7 +3429,7 @@ AnchorPoint: "anusvara" 550 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 708 0 2
-Refer: 20 2334 N 1 0 0 1 0 0 2
+Refer: 20 71191 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Ja uT
 Ligature2: "uT ligatures-1" Ja UT
@@ -3441,8 +3442,8 @@ Flags: W
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 639 0 2
-Refer: 21 2335 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 639 0 2
+Refer: 21 71192 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Tu.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Ta uT
@@ -3456,8 +3457,8 @@ Flags: W
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 639 0 2
-Refer: 22 2336 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 639 0 2
+Refer: 22 71193 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Thu.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Tha uT
@@ -3471,8 +3472,8 @@ Flags: W
 AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 630 0 2
-Refer: 23 2337 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 630 0 2
+Refer: 23 71194 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Du.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Da uT
@@ -3486,8 +3487,8 @@ Flags: W
 AnchorPoint: "anusvara" 450 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 736 0 2
-Refer: 24 2338 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 736 0 2
+Refer: 24 71195 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Dhu.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Dha uT
@@ -3615,7 +3616,7 @@ AnchorPoint: "anusvara" 460 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 615 0 2
-Refer: 29 2343 N 1 0 0 1 0 0 2
+Refer: 29 71200 N 1 0 0 1 0 0 2
 Substitution2: "Devanagari-like forms-1" dhu.alt
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" dha uT
@@ -3712,7 +3713,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 606 0 2
-Refer: 33 2348 N 1 0 0 1 0 0 2
+Refer: 33 71204 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" ba uT
 Ligature2: "uT ligatures-1" ba UT
@@ -3840,7 +3841,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 635 0 2
-Refer: 38 2354 N 1 0 0 1 0 0 2
+Refer: 38 71209 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" la uT
 Ligature2: "uT ligatures-1" la UT
@@ -3854,7 +3855,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 168 -1 N 1 0 0 1 596 0 2
-Refer: 39 2357 N 1 0 0 1 0 0 2
+Refer: 39 71210 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" va uT
 Ligature2: "uT ligatures-1" va UT
@@ -3985,8 +3986,8 @@ Flags: W
 AnchorPoint: "anusvara" 420 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 50 2369 N 1 0 0 1 667 0 2
-Refer: 44 2355 N 1 0 0 1 0 0 2
+Refer: 50 71219 N 1 0 0 1 667 0 2
+Refer: 44 71215 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Lu.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" La uT
@@ -4101,7 +4102,7 @@ SplineSet
  -478.238 -259 l 1053
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Rakaar-1" virAma ra 
+Ligature2: "Rakaar-1" virAma ra
 EndChar
 
 StartChar: ardhaka
@@ -4202,8 +4203,8 @@ AnchorPoint: "eT" 468 600 basechar 0
 AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 780 0 2
-Refer: 15 2329 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 780 0 2
+Refer: 15 71186 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" Ga virAma
 EndChar
@@ -4238,8 +4239,8 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 AnchorPoint: "eT" 471 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 672 0 2
-Refer: 17 2331 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 672 0 2
+Refer: 17 71188 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" cha virAma
 EndChar
@@ -4320,8 +4321,8 @@ AnchorPoint: "anusvara" 480 800 basechar 0
 AnchorPoint: "eT" 510 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 639 0 2
-Refer: 21 2335 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 639 0 2
+Refer: 21 71192 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" Ta virAma
 EndChar
@@ -4335,8 +4336,8 @@ AnchorPoint: "eT" 510 600 basechar 0
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 639 0 2
-Refer: 22 2336 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 639 0 2
+Refer: 22 71193 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" Tha virAma
 EndChar
@@ -4350,8 +4351,8 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 AnchorPoint: "eT" 468 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 693 0 2
-Refer: 23 2337 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 693 0 2
+Refer: 23 71194 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" Da virAma
 EndChar
@@ -4365,8 +4366,8 @@ AnchorPoint: "anusvara" 450 800 basechar 0
 AnchorPoint: "eT" 459 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 790 0 2
-Refer: 24 2338 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 790 0 2
+Refer: 24 71195 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" Dha virAma
 EndChar
@@ -4740,8 +4741,8 @@ AnchorPoint: "anusvara" 350 800 basechar 0
 AnchorPoint: "eT" 428.38 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 644 0 2
-Refer: 43 2361 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 644 0 2
+Refer: 43 71214 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" ha virAma
 EndChar
@@ -4755,8 +4756,8 @@ AnchorPoint: "anusvara" 420 800 basechar 0
 AnchorPoint: "eT" 446 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 57 2381 N 1 0 0 1 808 0 2
-Refer: 44 2355 N 1 0 0 1 0 0 2
+Refer: 57 71231 N 1 0 0 1 808 0 2
+Refer: 44 71215 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "Half forms-1" La virAma
 EndChar
@@ -5095,7 +5096,7 @@ SplineSet
  161.115 0 130 210 120 420 c 1024
 EndSplineSet
 Refer: 171 -1 N 1 0 0 1 688 0 2
-Refer: 58 2306 N 1 0 0 1 762 -381 2
+Refer: 58 71229 N 1 0 0 1 762 -381 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" Ga raphala
 Ligature2: "Rakaar ligatures-1" Ga virAma ra
@@ -5111,7 +5112,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 AnchorPoint: "eT" 427 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 16 2330 N 1 0 0 1 0 0 2
+Refer: 16 71187 N 1 0 0 1 0 0 2
 Refer: 171 -1 S 1 0 0 1 568 45 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ca raphala
@@ -5249,7 +5250,7 @@ AnchorPoint: "anusvara" 480 800 basechar 0
 AnchorPoint: "eT" 510 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 21 2335 N 1 0 0 1 0 0 2
+Refer: 21 71192 N 1 0 0 1 0 0 2
 Refer: 171 -1 N 1 0 0 1 600 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" Ta raphala
@@ -5266,7 +5267,7 @@ AnchorPoint: "eT" 510 600 basechar 0
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 22 2336 S 1 0 0 1 0 0 2
+Refer: 22 71193 S 1 0 0 1 0 0 2
 Refer: 171 -1 N 1 0 0 1 600 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" Tha raphala
@@ -5283,7 +5284,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 AnchorPoint: "eT" 468 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 23 2337 N 1 0 0 1 0 0 2
+Refer: 23 71194 N 1 0 0 1 0 0 2
 Refer: 171 -1 N 1 0 0 1 636 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" Da raphala
@@ -5300,7 +5301,7 @@ AnchorPoint: "anusvara" 450 800 basechar 0
 AnchorPoint: "eT" 459 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 24 2338 N 1 0 0 1 0 0 2
+Refer: 24 71195 N 1 0 0 1 0 0 2
 Refer: 171 -1 N 1 0 0 1 684 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" Dha raphala
@@ -5660,7 +5661,7 @@ AnchorPoint: "anusvara" 500 800 basechar 0
 AnchorPoint: "eT" 507 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 37 2352 N 1 0 0 1 0 0 2
+Refer: 37 71208 N 1 0 0 1 0 0 2
 Refer: 171 -1 S 1 0 0 1 644 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ra raphala
@@ -5851,7 +5852,7 @@ AnchorPoint: "anusvara" 420 800 basechar 0
 AnchorPoint: "eT" 446 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 44 2355 S 1 0 0 1 0 0 2
+Refer: 44 71215 S 1 0 0 1 0 0 2
 Refer: 171 -1 S 1 0 0 1 680 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" La raphala
@@ -5954,7 +5955,7 @@ AnchorPoint: "anusvara" 760.709 800 basechar 0
 AnchorPoint: "eT" 745.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 657 0 2
+Refer: 47 71216 N 1 0 0 1 657 0 2
 Refer: 217 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" gra AT
@@ -5969,7 +5970,7 @@ AnchorPoint: "eT" 742.709 600 basechar 0
 AnchorPoint: "anusvara" 757.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 654 0 2
+Refer: 47 71216 N 1 0 0 1 654 0 2
 Refer: 218 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" ghra AT
@@ -5984,7 +5985,7 @@ AnchorPoint: "eT" 868.709 600 basechar 0
 AnchorPoint: "anusvara" 883.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 780 0 2
+Refer: 47 71216 N 1 0 0 1 780 0 2
 Refer: 219 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Gra AT
@@ -6014,7 +6015,7 @@ AnchorPoint: "eT" 760.709 600 basechar 0
 AnchorPoint: "anusvara" 775.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 672 0 2
+Refer: 47 71216 N 1 0 0 1 672 0 2
 Refer: 221 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" chra AT
@@ -6115,7 +6116,7 @@ AnchorPoint: "eT" 781.709 600 basechar 0
 AnchorPoint: "anusvara" 796.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 693 0 2
+Refer: 47 71216 N 1 0 0 1 693 0 2
 Refer: 227 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Dra AT
@@ -6130,7 +6131,7 @@ AnchorPoint: "eT" 878.709 600 basechar 0
 AnchorPoint: "anusvara" 893.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 790 0 2
+Refer: 47 71216 N 1 0 0 1 790 0 2
 Refer: 228 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Dhra AT
@@ -6145,7 +6146,7 @@ AnchorPoint: "eT" 795.709 600 basechar 0
 AnchorPoint: "anusvara" 810.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 707 0 2
+Refer: 47 71216 N 1 0 0 1 707 0 2
 Refer: 229 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Nra AT
@@ -6160,7 +6161,7 @@ AnchorPoint: "eT" 798.709 600 basechar 0
 AnchorPoint: "anusvara" 813.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 710 0 2
+Refer: 47 71216 N 1 0 0 1 710 0 2
 Refer: 230 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" tra AT
@@ -6175,7 +6176,7 @@ AnchorPoint: "anusvara" 855.709 800 basechar 0
 AnchorPoint: "eT" 840.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 752 0 2
+Refer: 47 71216 N 1 0 0 1 752 0 2
 Refer: 231 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" thra AT
@@ -6190,7 +6191,7 @@ AnchorPoint: "eT" 807.246 600 basechar 0
 AnchorPoint: "anusvara" 822.246 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 719 0 2
+Refer: 47 71216 N 1 0 0 1 719 0 2
 Refer: 232 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" dra AT
@@ -6205,7 +6206,7 @@ AnchorPoint: "eT" 814.247 600 basechar 0
 AnchorPoint: "anusvara" 829.247 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 726 0 2
+Refer: 47 71216 N 1 0 0 1 726 0 2
 Refer: 233 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 -40
 Ligature2: "AT ligatures-1" dhra AT
@@ -6238,7 +6239,7 @@ AnchorPoint: "eT" 663.247 600 basechar 0
 AnchorPoint: "anusvara" 678.247 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 575 0 2
+Refer: 47 71216 N 1 0 0 1 575 0 2
 Refer: 235 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" pra AT
@@ -6325,7 +6326,7 @@ AnchorPoint: "anusvara" 855.709 800 basechar 0
 AnchorPoint: "eT" 840.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 752 0 2
+Refer: 47 71216 N 1 0 0 1 752 0 2
 Refer: 240 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" yra AT
@@ -6391,7 +6392,7 @@ AnchorPoint: "eT" 804.709 600 basechar 0
 AnchorPoint: "anusvara" 819.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 716 0 2
+Refer: 47 71216 N 1 0 0 1 716 0 2
 Refer: 244 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" zra AT
@@ -6406,7 +6407,7 @@ AnchorPoint: "eT" 663.709 600 basechar 0
 AnchorPoint: "anusvara" 678.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 575 0 2
+Refer: 47 71216 N 1 0 0 1 575 0 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Sra AT
@@ -6421,7 +6422,7 @@ AnchorPoint: "eT" 916.709 600 basechar 0
 AnchorPoint: "anusvara" 931.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 828 0 2
+Refer: 47 71216 N 1 0 0 1 828 0 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" sra AT
@@ -6453,7 +6454,7 @@ AnchorPoint: "anusvara" 911.709 800 basechar 0
 AnchorPoint: "eT" 896.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 808 0 2
+Refer: 47 71216 N 1 0 0 1 808 0 2
 Refer: 248 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" Lra AT
@@ -6468,7 +6469,7 @@ AnchorPoint: "anusvara" 882.709 800 basechar 0
 AnchorPoint: "eT" 867.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 779 0 2
+Refer: 47 71216 N 1 0 0 1 779 0 2
 Refer: 249 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "AT ligatures-1" kSra AT
@@ -6497,7 +6498,7 @@ AnchorPoint: "anusvara" 981 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 215 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 781 0 2
+Refer: 49 71218 N 1 0 0 1 781 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" kra IT
 EndChar
@@ -6510,7 +6511,7 @@ AnchorPoint: "anusvara" 960 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 216 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 760 0 2
+Refer: 49 71218 N 1 0 0 1 760 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" khra IT
 EndChar
@@ -6523,7 +6524,7 @@ AnchorPoint: "anusvara" 857 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 217 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 657 0 2
+Refer: 49 71218 N 1 0 0 1 657 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" gra IT
 EndChar
@@ -6536,7 +6537,7 @@ AnchorPoint: "anusvara" 854 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 218 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 654 0 2
+Refer: 49 71218 N 1 0 0 1 654 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" ghra IT
 EndChar
@@ -6563,7 +6564,7 @@ SplineSet
  161.115 0 130 210 120 420 c 1024
 EndSplineSet
 Refer: 171 -1 N 1 0 0 1 636 0 2
-Refer: 58 2306 N 1 0 0 1 762 -381 2
+Refer: 58 71229 N 1 0 0 1 762 -381 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" Gra IT
 EndChar
@@ -6576,7 +6577,7 @@ AnchorPoint: "anusvara" 798 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 220 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 598 0 2
+Refer: 49 71218 N 1 0 0 1 598 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" cra IT
 EndChar
@@ -6589,7 +6590,7 @@ AnchorPoint: "anusvara" 872 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 221 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 672 0 2
+Refer: 49 71218 N 1 0 0 1 672 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" chra IT
 EndChar
@@ -6720,7 +6721,7 @@ AnchorPoint: "anusvara" 839 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 297 -1 S 1 0 0 1 0 0 2
-Refer: 58 2306 N 1 0 0 1 426 -612 2
+Refer: 58 71229 N 1 0 0 1 426 -612 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" Thra IT
 EndChar
@@ -6819,7 +6820,7 @@ Flags: W
 AnchorPoint: "anusvara" 910 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 710 0 2
+Refer: 49 71218 S 1 0 0 1 710 0 2
 Refer: 230 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" tra IT
@@ -7009,7 +7010,7 @@ AnchorPoint: "anusvara" 956 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 237 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 756 0 2
+Refer: 49 71218 N 1 0 0 1 756 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" bra IT
 EndChar
@@ -7022,7 +7023,7 @@ AnchorPoint: "anusvara" 950 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 238 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 0.936147 0 0 1 766.857 0 2
+Refer: 49 71218 N 0.936147 0 0 1 766.857 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" bhra IT
 EndChar
@@ -7091,7 +7092,7 @@ AnchorPoint: "anusvara" 889 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 241 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 689 0 2
+Refer: 49 71218 N 1 0 0 1 689 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" rra IT
 EndChar
@@ -7129,7 +7130,7 @@ AnchorPoint: "anusvara" 946 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 243 -1 N 1 0 0 1 0 0 2
-Refer: 49 2368 N 1 0 0 1 746 0 2
+Refer: 49 71218 N 1 0 0 1 746 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" vra IT
 EndChar
@@ -7142,7 +7143,7 @@ Flags: W
 AnchorPoint: "anusvara" 916 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 716 0 2
+Refer: 49 71218 S 1 0 0 1 716 0 2
 Refer: 244 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" zra IT
@@ -7186,7 +7187,7 @@ Flags: W
 AnchorPoint: "anusvara" 1028 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 828 0 2
+Refer: 49 71218 S 1 0 0 1 828 0 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "IT ligatures-1" sra IT
@@ -7352,7 +7353,7 @@ SplineSet
 311 0 m 21
  274.5 -87 144 -156 -21 -201 c 1037
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 687 -381 2
+Refer: 58 71229 N 1 0 0 1 687 -381 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" khra uT
 Ligature2: "uT ligatures-1" khra UT
@@ -7437,7 +7438,7 @@ SplineSet
  515.913 -233.597 472.011 -192 394.011 -192 c 4
  351.21 -192 338.011 -219.176 326.011 -237.176 c 1037
 EndSplineSet
-Refer: 15 2329 N 1 0 0 1 0 0 2
+Refer: 15 71186 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Gru.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Gra uT
@@ -7453,7 +7454,7 @@ AnchorPoint: "anusvara" 400 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 171 -1 S 1 0 0 1 568 45 2
-Refer: 16 2330 N 1 0 0 1 0 0 2
+Refer: 16 71187 N 1 0 0 1 0 0 2
 Refer: 168 -1 N 1 0 0 1 598 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" cra uT
@@ -7476,7 +7477,7 @@ SplineSet
 249 0 m 17
  212.5 -87 144 -156 -21 -201 c 1033
 EndSplineSet
-Refer: 17 2331 N 1 0 0 1 0 0 2
+Refer: 17 71188 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" chru.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" chra uT
@@ -7523,7 +7524,7 @@ SplineSet
  686.5 9 648.577 -80.6537 560.5 -123 c 28
  389.574 -205.179 278.5 -192 81 -204 c 1037
 EndSplineSet
-Refer: 19 2333 N 1 0 0 1 0 0 2
+Refer: 19 71190 N 1 0 0 1 0 0 2
 Refer: 168 -1 N 1 0 0 1 683 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" jhra uT
@@ -7542,7 +7543,7 @@ SplineSet
  671 -81 640.298 -109.083 581 -133.5 c 4
  479 -175.5 332 -196.5 209 -199.5 c 1037
 EndSplineSet
-Refer: 20 2334 N 1 0 0 1 0 0 2
+Refer: 20 71191 N 1 0 0 1 0 0 2
 Refer: 168 -1 N 1 0 0 1 708 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Jra uT
@@ -7566,7 +7567,7 @@ SplineSet
  455.913 -233.597 412.011 -192 334.011 -192 c 0
  291.21 -192 278.011 -219.176 266.011 -237.176 c 1033
 EndSplineSet
-Refer: 21 2335 N 1 0 0 1 0 0 2
+Refer: 21 71192 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Tru.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Tra uT
@@ -7580,7 +7581,7 @@ Flags: W
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 426 -612 2
+Refer: 58 71229 S 1 0 0 1 426 -612 2
 Refer: 333 -1 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Thru.prera
 LCarets2: 1 0
@@ -7605,7 +7606,7 @@ SplineSet
  515.913 -233.597 472.011 -192 394.011 -192 c 4
  351.21 -192 338.011 -219.176 326.011 -237.176 c 1037
 EndSplineSet
-Refer: 23 2337 N 1 0 0 1 0 0 2
+Refer: 23 71194 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Dru.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Dra uT
@@ -7629,7 +7630,7 @@ SplineSet
  539.913 -233.597 496.011 -192 418.011 -192 c 0
  375.21 -192 362.011 -219.176 350.011 -237.176 c 1033
 EndSplineSet
-Refer: 24 2338 N 1 0 0 1 0 0 2
+Refer: 24 71195 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Dhru.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Dhra uT
@@ -7893,7 +7894,7 @@ SplineSet
 249 0 m 21
  212.5 -87 144 -156 -21 -201 c 1037
 EndSplineSet
-Refer: 33 2348 N 1 0 0 1 0 0 2
+Refer: 33 71204 N 1 0 0 1 0 0 2
 Refer: 168 -1 N 1 0 0 1 606 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" bra uT
@@ -8030,7 +8031,7 @@ SplineSet
 249 0 m 21
  212.5 -87 144 -156 -21 -201 c 1037
 EndSplineSet
-Refer: 38 2354 N 1 0 0 1 0 0 2
+Refer: 38 71209 N 1 0 0 1 0 0 2
 Refer: 168 -1 N 1 0 0 1 635 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" lra uT
@@ -8048,7 +8049,7 @@ SplineSet
 249 0 m 21
  212.5 -87 144 -156 -21 -201 c 1037
 EndSplineSet
-Refer: 39 2357 N 1 0 0 1 0 0 2
+Refer: 39 71210 N 1 0 0 1 0 0 2
 Refer: 168 -1 N 1 0 0 1 596 0 2
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" vra uT
@@ -8199,7 +8200,7 @@ SplineSet
  515.913 -233.597 472.011 -192 394.011 -192 c 0
  351.21 -192 338.011 -219.176 326.011 -237.176 c 1033
 EndSplineSet
-Refer: 44 2355 N 1 0 0 1 0 0 2
+Refer: 44 71215 N 1 0 0 1 0 0 2
 Substitution2: "pre-ra forms of uT-1" Lru.prera
 LCarets2: 1 0
 Ligature2: "uT ligatures-1" Lra uT
@@ -8374,7 +8375,7 @@ SplineSet
  498.387 -129.711 452.612 -112.517 378 -45 c 13
  209.762 -152.581 l 1053
 EndSplineSet
-Refer: 15 2329 N 1 0 0 1 0 0 2
+Refer: 15 71186 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaGa raphala
 Ligature2: "Half forms-1" Gra virAma
@@ -8422,7 +8423,7 @@ SplineSet
 249 0 m 17
  212.5 -87 144 -156 -21 -201 c 1033
 EndSplineSet
-Refer: 17 2331 N 1 0 0 1 0 0 2
+Refer: 17 71188 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhacha raphala
 Ligature2: "Half forms-1" chra virAma
@@ -8522,7 +8523,7 @@ SplineSet
  412.887 -129.711 367.112 -112.517 292.5 -45 c 9
  124.262 -152.581 l 1049
 EndSplineSet
-Refer: 21 2335 N 1 0 0 1 0 0 2
+Refer: 21 71192 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaTa raphala
 Ligature2: "Half forms-1" Tra virAma
@@ -8537,7 +8538,7 @@ AnchorPoint: "eT" 510 600 basechar 0
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 2306 N 1 0 0 1 426 -612 2
+Refer: 58 71229 N 1 0 0 1 426 -612 2
 Refer: 369 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaTha raphala
@@ -8560,7 +8561,7 @@ SplineSet
  498.387 -129.711 452.612 -112.517 378 -45 c 9
  209.762 -152.581 l 1049
 EndSplineSet
-Refer: 23 2337 N 1 0 0 1 0 0 2
+Refer: 23 71194 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaDa raphala
 Ligature2: "Half forms-1" Dra virAma
@@ -8582,7 +8583,7 @@ SplineSet
  498.387 -129.711 452.612 -112.517 378 -45 c 9
  209.762 -152.581 l 1049
 EndSplineSet
-Refer: 24 2338 N 1 0 0 1 0 0 2
+Refer: 24 71195 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaDha raphala
 Ligature2: "Half forms-1" Dhra virAma
@@ -9017,7 +9018,7 @@ SplineSet
 249 0 m 17
  212.5 -87 144 -156 -21 -201 c 1033
 EndSplineSet
-Refer: 43 2361 N 1 0 0 1 0 0 2
+Refer: 43 71214 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaha raphala
 Ligature2: "Half forms-1" hra virAma
@@ -9039,7 +9040,7 @@ SplineSet
  498.387 -129.711 452.612 -112.517 378 -45 c 9
  209.762 -152.581 l 1049
 EndSplineSet
-Refer: 44 2355 N 1 0 0 1 0 0 2
+Refer: 44 71215 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "Vattu forms-1" ardhaLa raphala
 Ligature2: "Half forms-1" Lra virAma
@@ -9175,7 +9176,7 @@ AnchorPoint: "anusvara" 583.709 800 basechar 0
 AnchorPoint: "eT" 568.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 480 0 2
+Refer: 47 71216 S 1 0 0 1 480 0 2
 Refer: 398 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9188,7 +9189,7 @@ AnchorPoint: "eT" 568.709 600 basechar 0
 AnchorPoint: "anusvara" 583.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 480 0 2
+Refer: 47 71216 S 1 0 0 1 480 0 2
 Refer: 399 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9200,7 +9201,7 @@ Flags: W
 AnchorPoint: "anusvara" 680 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 480 0 2
+Refer: 49 71218 S 1 0 0 1 480 0 2
 Refer: 398 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9212,7 +9213,7 @@ Flags: W
 AnchorPoint: "anusvara" 680 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 480 0 2
+Refer: 49 71218 S 1 0 0 1 480 0 2
 Refer: 399 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9299,7 +9300,7 @@ Flags: W
 AnchorPoint: "anusvara" 480 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 280 0 2
+Refer: 49 71218 S 1 0 0 1 280 0 2
 Refer: 406 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9351,7 +9352,7 @@ AnchorPoint: "eT" 840.709 600 basechar 0
 LayerCount: 2
 Fore
 Refer: 208 -1 N 1 0 0 1 0 0 2
-Refer: 47 2366 N 1 0 0 1 752 0 2
+Refer: 47 71216 N 1 0 0 1 752 0 2
 EndChar
 
 StartChar: dhA.alt
@@ -9364,7 +9365,7 @@ AnchorPoint: "anusvara" 829.247 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 210 -1 N 1 0 0 1 0 0 2
-Refer: 47 2366 N 1 0 0 1 726 0 2
+Refer: 47 71216 N 1 0 0 1 726 0 2
 EndChar
 
 StartChar: pA.alt
@@ -9377,7 +9378,7 @@ AnchorPoint: "anusvara" 678.247 800 basechar 0
 LayerCount: 2
 Fore
 Refer: 211 -1 N 1 0 0 1 0 0 2
-Refer: 47 2366 N 1 0 0 1 575 0 2
+Refer: 47 71216 N 1 0 0 1 575 0 2
 EndChar
 
 StartChar: mA.alt
@@ -9389,7 +9390,7 @@ AnchorPoint: "eT" 838.709 600 basechar 0
 AnchorPoint: "anusvara" 853.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 N 1 0 0 1 750 0 2
+Refer: 47 71216 N 1 0 0 1 750 0 2
 Refer: 212 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9403,7 +9404,7 @@ AnchorPoint: "eT" 840.709 600 basechar 0
 LayerCount: 2
 Fore
 Refer: 213 -1 N 1 0 0 1 0 0 2
-Refer: 47 2366 N 1 0 0 1 752 0 2
+Refer: 47 71216 N 1 0 0 1 752 0 2
 EndChar
 
 StartChar: thi.alt
@@ -9573,7 +9574,7 @@ AnchorPoint: "anusvara" 383.709 800 basechar 0
 AnchorPoint: "eT" 368.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 280 0 2
+Refer: 47 71216 S 1 0 0 1 280 0 2
 Refer: 406 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9586,7 +9587,7 @@ AnchorPoint: "eT" 188.709 600 basechar 0
 AnchorPoint: "anusvara" 203.709 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 47 71216 S 1 0 0 1 100 0 2
 Refer: 408 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9598,7 +9599,7 @@ Flags: W
 AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 100 0 2
+Refer: 49 71218 N 1 0 0 1 100 0 2
 Refer: 408 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9610,7 +9611,7 @@ Flags: W
 AnchorPoint: "anusvara" 712 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 N 1 0 0 1 512 0 2
+Refer: 49 71218 N 1 0 0 1 512 0 2
 Refer: 409 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -9622,8 +9623,8 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 58 2306 N 1 0 0 1 50 0 2
-Refer: 53 2375 N 1 0 0 1 0 0 2
+Refer: 58 71229 N 1 0 0 1 50 0 2
+Refer: 53 71225 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "above-base matra conjunction-1" eT anusvAra
 EndChar
@@ -9636,8 +9637,8 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 50 0 2
-Refer: 54 2376 N 1 0 0 1 0 0 2
+Refer: 58 71229 S 1 0 0 1 50 0 2
+Refer: 54 71226 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "above-base matra conjunction-1" aiT anusvAra
 EndChar
@@ -9650,7 +9651,7 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 53 2375 N 1 0 0 1 0 0 2
+Refer: 53 71225 N 1 0 0 1 0 0 2
 Refer: 170 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "above-base matra conjunction-1" repha eT
@@ -9669,7 +9670,7 @@ SplineSet
  -166.469 722.92 -45.0498 900 70.5312 900 c 0
  167.95 900 178.531 848.92 174.419 803.02 c 1024
 EndSplineSet
-Refer: 54 2376 N 1 0 0 1 0 0 2
+Refer: 54 71226 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "above-base matra conjunction-1" repha aiT
 EndChar
@@ -9682,8 +9683,8 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 130 -60 2
-Refer: 53 2375 N 1 0 0 1 0 0 2
+Refer: 58 71229 S 1 0 0 1 130 -60 2
+Refer: 53 71225 N 1 0 0 1 0 0 2
 Refer: 170 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "above-base matra conjunction-1" repha eT anusvAra
@@ -9697,7 +9698,7 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 130 -60 2
+Refer: 58 71229 S 1 0 0 1 130 -60 2
 Refer: 428 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "above-base matra conjunction-1" repha aiT anusvAra
@@ -9711,7 +9712,7 @@ Flags: W
 AnchorPoint: "eT" -100 600 mark 0
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 130 -60 2
+Refer: 58 71229 S 1 0 0 1 130 -60 2
 Refer: 170 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "above-base matra conjunction-1" repha anusvAra
@@ -10844,7 +10845,7 @@ AnchorPoint: "anusvara" 203.709 800 basechar 0
 AnchorPoint: "eT" 188.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 47 71216 S 1 0 0 1 100 0 2
 Refer: 472 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10857,7 +10858,7 @@ AnchorPoint: "anusvara" 203.709 800 basechar 0
 AnchorPoint: "eT" 188.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 47 71216 S 1 0 0 1 100 0 2
 Refer: 473 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10870,7 +10871,7 @@ AnchorPoint: "anusvara" 203.709 800 basechar 0
 AnchorPoint: "eT" 188.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 47 71216 S 1 0 0 1 100 0 2
 Refer: 474 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10883,7 +10884,7 @@ AnchorPoint: "anusvara" 203.709 800 basechar 0
 AnchorPoint: "eT" 188.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 47 71216 S 1 0 0 1 100 0 2
 Refer: 475 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10896,7 +10897,7 @@ AnchorPoint: "anusvara" 203.709 800 basechar 0
 AnchorPoint: "eT" 188.709 600 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 2366 S 1 0 0 1 100 0 2
+Refer: 47 71216 S 1 0 0 1 100 0 2
 Refer: 476 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10908,7 +10909,7 @@ Flags: W
 AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 49 71218 S 1 0 0 1 100 0 2
 Refer: 472 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10920,7 +10921,7 @@ Flags: W
 AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 49 71218 S 1 0 0 1 100 0 2
 Refer: 473 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10932,7 +10933,7 @@ Flags: W
 AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 49 71218 S 1 0 0 1 100 0 2
 Refer: 474 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10944,7 +10945,7 @@ Flags: W
 AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 49 71218 S 1 0 0 1 100 0 2
 Refer: 475 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10956,12 +10957,12 @@ Flags: W
 AnchorPoint: "anusvara" 300 800 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 2368 S 1 0 0 1 100 0 2
+Refer: 49 71218 S 1 0 0 1 100 0 2
 Refer: 476 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: saMdhayA
-Encoding: 487 2406 487
+Encoding: 487 71248 487
 Width: 544
 VWidth: 0
 Flags: W
@@ -10979,7 +10980,7 @@ EndSplineSet
 EndChar
 
 StartChar: ek
-Encoding: 488 2407 488
+Encoding: 488 71249 488
 Width: 467
 VWidth: 0
 Flags: W
@@ -10998,7 +10999,7 @@ EndSplineSet
 EndChar
 
 StartChar: don
-Encoding: 489 2408 489
+Encoding: 489 71250 489
 Width: 771
 VWidth: 0
 Flags: W
@@ -11016,7 +11017,7 @@ EndSplineSet
 EndChar
 
 StartChar: tIn
-Encoding: 490 2409 490
+Encoding: 490 71251 490
 Width: 659
 VWidth: 0
 Flags: W
@@ -11036,7 +11037,7 @@ EndSplineSet
 EndChar
 
 StartChar: chAr
-Encoding: 491 2410 491
+Encoding: 491 71252 491
 Width: 640
 VWidth: 0
 Flags: W
@@ -11054,7 +11055,7 @@ EndSplineSet
 EndChar
 
 StartChar: pAc
-Encoding: 492 2411 492
+Encoding: 492 71253 492
 Width: 658
 VWidth: 0
 Flags: W
@@ -11073,7 +11074,7 @@ EndSplineSet
 EndChar
 
 StartChar: sahA
-Encoding: 493 2412 493
+Encoding: 493 71254 493
 Width: 659
 VWidth: 0
 Flags: W
@@ -11093,7 +11094,7 @@ EndSplineSet
 EndChar
 
 StartChar: sAt
-Encoding: 494 2413 494
+Encoding: 494 71255 494
 Width: 790
 VWidth: 0
 Flags: W
@@ -11110,7 +11111,7 @@ EndSplineSet
 EndChar
 
 StartChar: ATh
-Encoding: 495 2414 495
+Encoding: 495 71256 495
 Width: 636
 VWidth: 0
 Flags: W
@@ -11127,7 +11128,7 @@ EndSplineSet
 EndChar
 
 StartChar: naU
-Encoding: 496 2415 496
+Encoding: 496 71257 496
 Width: 790
 VWidth: 0
 Flags: W
@@ -11150,7 +11151,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 487 2406 N 1 0 0 1 0 0 2
+Refer: 487 71248 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: one
@@ -11160,7 +11161,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 488 2407 N 1 0 0 1 0 0 2
+Refer: 488 71249 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: two
@@ -11170,7 +11171,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 489 2408 N 1 0 0 1 0 0 2
+Refer: 489 71250 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: three
@@ -11180,7 +11181,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 490 2409 N 1 0 0 1 0 0 2
+Refer: 490 71251 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: four
@@ -11190,7 +11191,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 491 2410 N 1 0 0 1 0 0 2
+Refer: 491 71252 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: five
@@ -11200,7 +11201,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 492 2411 N 1 0 0 1 0 0 2
+Refer: 492 71253 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: six
@@ -11210,7 +11211,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 493 2412 N 1 0 0 1 0 0 2
+Refer: 493 71254 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: seven
@@ -11220,7 +11221,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 494 2413 N 1 0 0 1 0 0 2
+Refer: 494 71255 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: eight
@@ -11230,7 +11231,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 495 2414 N 1 0 0 1 0 0 2
+Refer: 495 71256 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: nine
@@ -11240,7 +11241,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 496 2415 N 1 0 0 1 0 0 2
+Refer: 496 71257 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: period
@@ -11254,7 +11255,7 @@ SplineSet
 0 600 m 1
  282 600 l 1025
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 243 -800 2
+Refer: 58 71229 N 1 0 0 1 243 -800 2
 EndChar
 
 StartChar: comma
@@ -11286,7 +11287,7 @@ SplineSet
 0 600 m 1
  282 600 l 1025
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 243 -800 2
+Refer: 58 71229 N 1 0 0 1 243 -800 2
 EndChar
 
 StartChar: question
@@ -11304,11 +11305,11 @@ SplineSet
 0 600 m 1
  543 600 l 1025
 EndSplineSet
-Refer: 58 2306 N 1 0 0 1 384.894 -800 2
+Refer: 58 71229 N 1 0 0 1 384.894 -800 2
 EndChar
 
 StartChar: daNDa
-Encoding: 511 2404 511
+Encoding: 511 71233 511
 Width: 374
 VWidth: 0
 Flags: W
@@ -11323,18 +11324,18 @@ EndSplineSet
 EndChar
 
 StartChar: dvidaNDa
-Encoding: 512 2405 512
+Encoding: 512 71234 512
 Width: 574
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 511 2404 N 1 0 0 1 200 0 2
-Refer: 511 2404 N 1 0 0 1 0 0 2
+Refer: 511 71233 N 1 0 0 1 200 0 2
+Refer: 511 71233 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: abbr
-Encoding: 513 2416 513
+Encoding: 513 71235 513
 Width: 411
 VWidth: 0
 Flags: W
@@ -11601,7 +11602,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 243 -500 2
+Refer: 58 71229 S 1 0 0 1 243 -500 2
 Refer: 507 46 N 1 0 0 1 0 0 2
 EndChar
 
@@ -11612,7 +11613,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 58 2306 S 1 0 0 1 243 -500 2
+Refer: 58 71229 S 1 0 0 1 243 -500 2
 Refer: 508 44 N 1 0 0 1 0 0 2
 EndChar
 
@@ -12357,7 +12358,7 @@ SplineSet
 0 600 m 1
  282 600 l 1025
 EndSplineSet
-Refer: 58 2306 S 1 0 0 1 243 -340 2
+Refer: 58 71229 S 1 0 0 1 243 -340 2
 EndChar
 
 StartChar: j
@@ -12373,7 +12374,7 @@ SplineSet
 0 600 m 1
  391 600 l 1025
 EndSplineSet
-Refer: 58 2306 S 1 0 0 1 352 -340 2
+Refer: 58 71229 S 1 0 0 1 352 -340 2
 EndChar
 
 StartChar: k
@@ -12866,7 +12867,7 @@ EndSplineSet
 EndChar
 
 StartChar: ET
-Encoding: 603 2373 603
+Encoding: 603 71232 603
 Width: 0
 VWidth: 0
 Flags: W
@@ -12883,14 +12884,15 @@ EndSplineSet
 EndChar
 
 StartChar: OT
-Encoding: 604 2377 604
+Encoding: 604 -1 604
 Width: 260
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 603 2373 N 1 0 0 1 190 0 2
-Refer: 47 2366 N 1 0 0 1 0 0 2
+Refer: 603 71232 N 1 0 0 1 190 0 2
+Refer: 47 71216 N 1 0 0 1 0 0 2
+Ligature2: "E and O with chandra-1" AT eT
 MultipleSubs2: "oT/auT Decomposition-1" AT ET
 EndChar
 
@@ -12905,8 +12907,8 @@ Fore
 SplineSet
 -100 600 m 1045,0,1
 EndSplineSet
-Refer: 58 2306 S 1 0 0 1 -112 141 2
-Refer: 603 2373 N 1 0 0 1 0 0 2
+Refer: 58 71229 S 1 0 0 1 -112 141 2
+Refer: 603 71232 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "above-base matra conjunction-1" ET anusvAra
 EndChar
@@ -12943,37 +12945,41 @@ Fore
 SplineSet
 -100 600 m 1045,0,1
 EndSplineSet
-Refer: 58 2306 S 1 0 0 1 130 -60 2
+Refer: 58 71229 S 1 0 0 1 130 -60 2
 Refer: 606 -1 N 1 0 0 1 0 0 2
 Ligature2: "above-base matra conjunction-1" repha ET anusvAra
 EndChar
 
 StartChar: Et
-Encoding: 608 2317 608
+Encoding: 608 -1 608
 Width: 899
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 683 944 basechar 0
 LayerCount: 2
 Fore
-Refer: 603 2373 N 1 0 0 1 904 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 603 71232 N 1 0 0 1 904 0 2
+Refer: 0 71168 N 1 0 0 1 0 0 2
+Ligature2: "E and O with chandra-1" akAra ET
+Ligature2: "E and O with chandra-1" et ET
 EndChar
 
 StartChar: Ot
-Encoding: 609 2321 609
+Encoding: 609 -1 609
 Width: 843
 VWidth: 0
 Flags: W
 AnchorPoint: "anusvara" 550 930 basechar 0
 LayerCount: 2
 Fore
-Refer: 603 2373 N 1 0 0 1 778 0 2
-Refer: 1 2310 N 1 0 0 1 0 0 2
+Refer: 603 71232 N 1 0 0 1 778 0 2
+Refer: 1 71169 N 1 0 0 1 0 0 2
+Ligature2: "E and O with chandra-1" AkAra ET
+Ligature2: "E and O with chandra-1" ot ET
 EndChar
 
 StartChar: huva
-Encoding: 610 58948 610
+Encoding: 610 71236 610
 Width: 1000
 VWidth: 0
 LayerCount: 2
@@ -12987,7 +12993,7 @@ EndSplineSet
 EndChar
 
 StartChar: RRt
-Encoding: 611 2400 611
+Encoding: 611 71175 611
 Width: 925
 VWidth: 0
 Flags: W
@@ -13017,7 +13023,7 @@ EndSplineSet
 EndChar
 
 StartChar: Lt
-Encoding: 612 2316 612
+Encoding: 612 71176 612
 Width: 943
 VWidth: 0
 Flags: W
@@ -13040,7 +13046,7 @@ EndSplineSet
 EndChar
 
 StartChar: LLt
-Encoding: 613 2401 613
+Encoding: 613 71177 613
 Width: 943
 VWidth: 0
 Flags: W
@@ -13065,7 +13071,7 @@ EndSplineSet
 EndChar
 
 StartChar: RRT
-Encoding: 614 2372 614
+Encoding: 614 71222 614
 Width: 0
 VWidth: 0
 Flags: W
@@ -13081,7 +13087,7 @@ EndSplineSet
 EndChar
 
 StartChar: LT
-Encoding: 615 2402 615
+Encoding: 615 71223 615
 Width: 0
 VWidth: 0
 Flags: W
@@ -13098,7 +13104,7 @@ EndSplineSet
 EndChar
 
 StartChar: LLT
-Encoding: 616 2403 616
+Encoding: 616 71224 616
 Width: 0
 VWidth: 0
 Flags: W
