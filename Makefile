@@ -3,8 +3,7 @@
 FONTS=MarathiCursive.otf MarathiCursiveT.ttf MarathiCursiveG.ttf
 DOCUMENTS=license.txt README
 SOURCE=MarathiCursive.sfd outlines.py truetype.py Makefile MarathiCursiveG.gdl
-PKGS=MarathiCursive.7z MarathiCursive-source.7z
-7ZOPT=-mx9
+PKGS=MarathiCursive.tar.xz MarathiCursive-source.tar.xz
 
 # Path to Graphite compiler
 
@@ -30,23 +29,23 @@ MarathiCursiveT.ttf: OutlinesTT.sfd
 MarathiCursiveG.ttf: MarathiCursiveT.ttf MarathiCursiveG.gdl
 	$(GRCOMPILER) $^ $@ "MarathiCursiveG"
 
-.SUFFIXES: .7z
+.SUFFIXES: .tar.xz
 .PHONY: dist
 dist: ${PKGS}
 
-MarathiCursive.7z: ${FONTS} ${DOCUMENTS}
+MarathiCursive.tar.xz: ${FONTS} ${DOCUMENTS}
 	-rm -rf $*
 	mkdir $*
 	cp ${FONTS} ${DOCUMENTS} $*
-	7z a ${7ZOPT} $@ $*
+	tar -cJf $@ $*
 
-MarathiCursive-source.7z: ${SOURCE} ${DOCUMENTS}
+MarathiCursive-source.tar.xz: ${SOURCE} ${DOCUMENTS}
 	-rm -rf $*
 	mkdir $*
 	cp ${SOURCE} ${DOCUMENTS} $*
-	7z a ${7ZOPT} $@ $*
+	tar -cJf $@ $*
 
 .PHONY: clean
 clean:
 	-rm Outlines.sfd OutlinesTT.sfd gdlerr.txt '$$_temp.gdl' ${FONTS}
-	-rm -rf ${PKGS} ${PKGS:.7z=}
+	-rm -rf ${PKGS} ${PKGS:.tar.xz=}
