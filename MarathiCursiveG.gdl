@@ -716,6 +716,8 @@ cUkaarConsonants = (g_ku, g_khu, g_gu, g_ghu, g__gu, g_cu, g_chu, g_ju,
 
 cTermConsonants = (cFullConsonants, cAkaarConsonants, cIkaarConsonants, cUkaarConsonants);
 
+cVowelAfter = (g__a_t, g_i_t, g__i_t, g_o_t, g_au_t);
+
 cAkaarPreRakaar = (g_g_a, g_gh_a, g__g_a, g_c_a, g_ch_a, g__d_a, g__dh_a,
     g__n_a, g_t_a, g_th_a, g_d_a, g_dh_a, g_p_a, g_r_a, g_z_a, g__s_a, g_s_a,
     g__l_a, g_k_s_a, g_ki, g_khi, g_gi, g_ghi, g__gi, g_ci, g_chi, g_ji, g_jhi,
@@ -800,21 +802,37 @@ endpass;
 
 // Reph reorder
 pass(9)
-    g_repha cCausesRoundRakaar > @2 @1;
-    g_repha cHalfConsonants cCausesRoundRakaar > @2 @3 @1;
-    g_repha cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @1;
-    g_repha cHalfConsonants cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @1;
-    g_repha cHalfConsonants cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @1;
-    g_repha cHalfConsonants g_zerojoin cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @1;
-    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
-    g_repha cHalfConsonants cHalfConsonants cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @1;
-    g_repha cHalfConsonants cHalfConsonants cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
-    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
-    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @6 @1;
-    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @1;
-    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @1;
-    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @1;
-    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cCausesRoundRakaar > @2 @3 @4 @5 @6 @7 @8 @1;
+    g_repha cTermConsonants > @2 @1;
+    g_repha cHalfConsonants cTermConsonants > @2 @3 @1;
+    g_repha cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @1;
+    g_repha cHalfConsonants cHalfConsonants cTermConsonants > @2 @3 @4 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cTermConsonants > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants cHalfConsonants cTermConsonants > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants cHalfConsonants cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants cTermConsonants > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants cTermConsonants > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants cTermConsonants > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cTermConsonants > @2 @3 @4 @5 @6 @7 @8 @1;
+// with dependent A, i, I, o and au
+    g_repha cTermConsonants cVowelAfter > @2 @3 @1;
+    g_repha cHalfConsonants cTermConsonants cVowelAfter > @2 @3 @4 @1;
+    g_repha cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants cHalfConsonants cTermConsonants cVowelAfter > @2 @3 @4 @5 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants cHalfConsonants cHalfConsonants cTermConsonants  cVowelAfter> @2 @3 @4 @5 @6 @1;
+    g_repha cHalfConsonants cHalfConsonants cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @1;
+    g_repha cHalfConsonants cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @8 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @8 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @8 @1;
+    g_repha cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cHalfConsonants g_zerojoin cTermConsonants cVowelAfter > @2 @3 @4 @5 @6 @7 @8 @9 @1;
 endpass;
 
 // Ligate reph and ekaar
