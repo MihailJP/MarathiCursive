@@ -1,7 +1,7 @@
 # Makefile for MarathiCursive font
 
 FONTS=MarathiCursive.otf MarathiCursiveT.ttf MarathiCursiveG.ttf
-DOCUMENTS=license.txt README
+DOCUMENTS=License.txt README
 SOURCE=MarathiCursive.sfd outlines.py truetype.py Makefile MarathiCursiveG.gdl
 PKGS=MarathiCursive.tar.xz MarathiCursive-source.tar.xz
 
